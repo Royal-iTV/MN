@@ -186,7 +186,7 @@ https://www.channelkmyanmar.tk/live/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/5_Plus.png" group-title="Myanmar",5Plus
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/my/2/22/MRTV_new_logo.png" group-title="Myanmar",MRTV
-http://220.158.149.14:9999/live/TV00000000000000000089@HHZT;LIVE
+http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/MizzimaTV.png" group-title="Myanmar",MizzimaTV
 http://220.158.149.14:9999/live/TV00000000000000000092@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Channel-9.png" group-title="Myanmar",Channel-9
@@ -202,7 +202,7 @@ http://maharlive.b-cdn.net/stream.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Mitv.png" group-title="Myanmar",Mitv
 http://220.158.149.14:9999/live/TV00000000000000000090@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg" group-title="Myanmar",MVTV Myanmar
-https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2034544246.m3u8
+https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/JW.png" group-title="Myanmar Sub Movies",John Wick
 http://bit.ly/2L5QhH8
