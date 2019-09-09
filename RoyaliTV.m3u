@@ -219,232 +219,243 @@ http://edge-stream-07.otv.co.th/livestream/Reader-Channel.stream/playlist_w12665
 #EXTINF:0 tvg-logo="http://bit.ly/2lCw29Y" group-title="Myanmar",MRTV Entertainment
 http://edge-stream-07.otv.co.th./livestream/MRTV-Entertainment.stream/playlist_w1122601059.m3u8
 
-#EXTINF:0 tvg-logo="http://bit.ly/2k53JQT" group-title="Myanmar Radio",Padamyar FM
+#EXTINF:0 tvg-logo="http://bit.ly/2k53JQT" group-title="Radio",Padamyar FM
 http://s2.radio.co/s969e6c4b7/listen
-#EXTINF:0 tvg-logo="http://bit.ly/2k5L0ER" group-title="Myanmar Radio",Cherry FM
+#EXTINF:0 tvg-logo="http://bit.ly/2k5L0ER" group-title="Radio",Cherry FM
 http://159.65.15.33:8000/
-#EXTINF:0 tvg-logo="http://bit.ly/2kzyTjI" group-title="Myanmar Radio",Mandalay FM
+#EXTINF:0 tvg-logo="http://bit.ly/2kzyTjI" group-title="Radio",Mandalay FM
 http://104275ooyala-lh-audio.akamaized.net/forevergroup-audio-only/1-6a43cb501dee2ec7433d21ef6acfc461_aac/playlist_w1257406946.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2k60FUG" group-title="Myanmar Radio",Teen Radio
+#EXTINF:0 tvg-logo="http://bit.ly/2k60FUG" group-title="Radio",Teen Radio
 https://104275ooyala-lh-audio.akamaized.net/forevergroup-audio-only/1-1f717f03a450a2b3e96058a2266cbc92_aac/playlist_w591365869.m3u8
 
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/JW.png" group-title="Myanmar Sub Movies",John Wick
+#EXTINF:0 tvg-logo="http://bit.ly/2lF4BfH" group-title="Radio",Thazin FM
+#EXTINF:0 tvg-logo="" group-title="Radio",
+
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/JW.png" group-title="Movies",John Wick
 http://bit.ly/2L5QhH8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/JW2.png" group-title="Myanmar Sub Movies",John Wick Chapter2
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/JW2.png" group-title="Movies",John Wick Chapter2
 http://bit.ly/2L5QYAe
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/JW3.png" group-title="Myanmar Sub Movies",John Wick Chapter3
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/JW3.png" group-title="Movies",John Wick Chapter3
 http://bit.ly/2ZEqA8E
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/MIB19.jpg" group-title="Myanmar Sub Movies",Man In Black International
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/MIB19.jpg" group-title="Movies",Man In Black International
 http://bit.ly/2L9ghBG
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/moana.jpg" group-title="Myanmar Sub Movies",Moana
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/moana.jpg" group-title="Movies",Moana
 http://bit.ly/2ZJyVs1
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/BloodDiamond.jpg" group-title="Myanmar Sub Movies",Blood Diamond
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/BloodDiamond.jpg" group-title="Movies",Blood Diamond
 http://bit.ly/2PmPhmh
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/alita.jpg" group-title="Myanmar Sub Movies",Alita:Battle Angel
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/alita.jpg" group-title="Movies",Alita:Battle Angel
 http://bit.ly/2Zzy7pu
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/snowden.jpg" group-title="Myanmar Sub Movies",Snowden
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/snowden.jpg" group-title="Movies",Snowden
 http://bit.ly/2HvVhCM
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/APOCALYPTO.jpg" group-title="Myanmar Sub Movies",APOCALYPTO
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/APOCALYPTO.jpg" group-title="Movies",APOCALYPTO
 http://bit.ly/32gpa1T
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/Lone-Survivor.jpg" group-title="Myanmar Sub Movies",Lone Survivor
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/Lone-Survivor.jpg" group-title="Movies",Lone Survivor
 http://bit.ly/2LcSL5u
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/Inhuman-Kiss.jpg" group-title="Myanmar Sub Movies",Inhuman Kiss
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/Inhuman-Kiss.jpg" group-title="Movies",Inhuman Kiss
 http://bit.ly/2ZsUwFy
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/Shazam.jpg" group-title="Myanmar Sub Movies",Shazam!
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/Shazam.jpg" group-title="Movies",Shazam!
 http://bit.ly/2NHInW3
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/iron-man.jpg" group-title="Myanmar Sub Movies",Iron Man
+
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/iron-man.jpg" group-title="Movies",Iron Man
 http://bit.ly/2LauVIZ
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/iron-man2.jpg" group-title="Myanmar Sub Movies",Iron Man 2
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/iron-man2.jpg" group-title="Movies",Iron Man 2
 http://bit.ly/2zt37J4
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/ironman3.jpg" group-title="Myanmar Sub Movies",Iron Man 3
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/ironman3.jpg" group-title="Movies",Iron Man 3
 http://bit.ly/327g3R8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Wonder-Park.png" group-title="Myanmar Sub Movies",Wonder Park
+
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Wonder-Park.png" group-title="Movies",Wonder Park
 http://bit.ly/2PtGkrs
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Captain-Marvel.png" group-title="Myanmar Sub Movies",Captain Marvel
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Captain-Marvel.png" group-title="Movies",Captain Marvel
 http://bit.ly/2ZDLNzM
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/mother.png" group-title="Myanmar Sub Movies",I Am Mother
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/mother.png" group-title="Movies",I Am Mother
 http://bit.ly/2PqVBco
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Hotel-Mumbai.png" group-title="Myanmar Sub Movies",Hotel Mumbai
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Hotel-Mumbai.png" group-title="Movies",Hotel Mumbai
 http://bit.ly/2HBdLBN
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/RED.png" group-title="Myanmar Sub Movies",RED
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/RED.png" group-title="Movies",RED
 http://bit.ly/2PtTFjv
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/RED2.png" group-title="Myanmar Sub Movies",RED2
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/RED2.png" group-title="Movies",RED2
 http://bit.ly/2MJp8fr
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Rab.png" group-title="Myanmar Sub Movies",Rab Ne Bana Di Jodi
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Rab.png" group-title="Movies",Rab Ne Bana Di Jodi
 http://bit.ly/2PsAwhS
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/us.jpg" group-title="Myanmar Sub Movies",US
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/us.jpg" group-title="Movies",US
 http://bit.ly/32mDBSd
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Godzilla.jpg" group-title="Myanmar Sub Movies",Godzilla: King of the Monsters
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Godzilla.jpg" group-title="Movies",Godzilla: King of the Monsters
 http://bit.ly/2UifW2p
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/due-date-533887ace6fb6.png" group-title="Myanmar Sub Movies",Due Date
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/due-date-533887ace6fb6.png" group-title="Movies",Due Date
 http://bit.ly/34gX4oX
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/spider-man.jpg" group-title="Myanmar Sub Movies",Spider Man
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/spider-man.jpg" group-title="Movies",Spider Man
 http://bit.ly/34gfBBI
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/spider-man-2-51801cbf9328a.png" group-title="Myanmar Sub Movies",Spider Man 2
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/spider-man-2-51801cbf9328a.png" group-title="Movies",Spider Man 2
 http://bit.ly/2ZKgVha
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/sman3.jpg" group-title="Myanmar Sub Movies",Spider Man 3
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/sman3.jpg" group-title="Movies",Spider Man 3
 http://bit.ly/2L9GqQK
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/raees-59f47ea57479e.png" group-title="Myanmar Sub Movies",RAEES
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/raees-59f47ea57479e.png" group-title="Movies",RAEES
 http://bit.ly/2Pxobc4
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/01/9.jpg" group-title="Myanmar Sub Movies",9
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/01/9.jpg" group-title="Movies",9
 http://bit.ly/2MOJ14O
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/01/tdkr.jpg" group-title="Myanmar Sub Movies",The Dark Knight Rises
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/01/tdkr.jpg" group-title="Movies",The Dark Knight Rises
 http://bit.ly/2zIDLac
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/01/The-Secret-Life-of-Pets-2.png" group-title="Myanmar Sub Movies",The Secret Life of Pets 2
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/01/The-Secret-Life-of-Pets-2.png" group-title="Movies",The Secret Life of Pets 2
 http://bit.ly/2NIlYrV
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/01/Ant-Man-and-the-Wasp.jpg" group-title="Myanmar Sub Movies",Ant-Man and the Wasp
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/01/Ant-Man-and-the-Wasp.jpg" group-title="Movies",Ant-Man and the Wasp
 http://bit.ly/2Lc42Eh
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/03/Dark-Phoenix.jpg" group-title="Myanmar Sub Movies",Dark Phoenix
+
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/03/Dark-Phoenix.jpg" group-title="Movies",Dark Phoenix
 http://bit.ly/2kfndTe
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/03/Beayond-the-reach.png" group-title="Myanmar Sub Movies",Beyond the Reach
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/03/Beayond-the-reach.png" group-title="Movies",Beyond the Reach
 http://bit.ly/2jWYwKW
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/Batman-Begins.jpg" group-title="Myanmar Sub Movies",Batman Begins
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/Batman-Begins.jpg" group-title="Movies",Batman Begins
 http://bit.ly/2ltgNjr
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/batman-returns-5b99d3a9c23a1.jpg" group-title="Myanmar Sub Movies",Batman Returns
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/batman-returns-5b99d3a9c23a1.jpg" group-title="Movies",Batman Returns
 http://bit.ly/2kqqDCo
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/batman--robin-5151a476173dc.jpg" group-title="Myanmar Sub Movies",Batman & Robin
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/batman--robin-5151a476173dc.jpg" group-title="Movies",Batman & Robin
 http://bit.ly/2kq8PYd
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/catch-me-if-you-can-5206c79eeb3a0.jpg" group-title="Myanmar Sub Movies",Catch Me If You Can
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/catch-me-if-you-can-5206c79eeb3a0.jpg" group-title="Movies",Catch Me If You Can
 http://bit.ly/2ly5Rkz
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/71-55c7a711d4e77.jpg" group-title="Myanmar Sub Movies",'71
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/71-55c7a711d4e77.jpg" group-title="Movies",'71
 http://bit.ly/2lAoOmU
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/cars-5045ae432058f.jpg" group-title="Myanmar Sub Movies",Car
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/cars-5045ae432058f.jpg" group-title="Movies",Car
 http://bit.ly/2lv2meS
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/cars-2-55263a5c59c39.jpg" group-title="Myanmar Sub Movies",Car2
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/cars-2-55263a5c59c39.jpg" group-title="Movies",Car2
 http://bit.ly/2lSq6JP
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/cars-3-58adcd72a6e0e.jpg" group-title="Myanmar Sub Movies",Car3
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/cars-3-58adcd72a6e0e.jpg" group-title="Movies",Car3
 http://bit.ly/2lZgtcz
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/parasite-5d2d5ab30c73d.jpg" group-title="Myanmar Sub Movies",Parasite 
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/parasite-5d2d5ab30c73d.jpg" group-title="Movies",Parasite 
 http://bit.ly/2lRnZ99
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/the-shallows-577cd688b1922.jpg" group-title="Myanmar Sub Movies",The Shallows
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/the-shallows-577cd688b1922.jpg" group-title="Movies",The Shallows
 http://bit.ly/2lwbgZs
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/bait-542d776bc2047.jpg" group-title="Myanmar Sub Movies",Bait
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/bait-542d776bc2047.jpg" group-title="Movies",Bait
 http://bit.ly/2jWBZxM
-#EXTINF:0 tvg-logo="http://bit.ly/2lFzLDq" group-title="Myanmar Sub Movies",21 Jump Street
+#EXTINF:0 tvg-logo="http://bit.ly/2lFzLDq" group-title="Movies",21 Jump Street
 http://bit.ly/2lFHzFc
-#EXTINF:0 tvg-logo="http://bit.ly/2kxILKC" group-title="Myanmar Sub Movies",22 Jump Street
+#EXTINF:0 tvg-logo="http://bit.ly/2kxILKC" group-title="Movies",22 Jump Street
 http://bit.ly/2m3PBIx
-#EXTINF:0 tvg-logo="http://bit.ly/2ky6YRd" group-title="Myanmar Sub Movies",24 hours to live
+#EXTINF:0 tvg-logo="http://bit.ly/2ky6YRd" group-title="Movies",24 hours to live
 http://bit.ly/2lz2nyr
-#EXTINF:0 tvg-logo="http://bit.ly/2ky9tmz" group-title="Myanmar Sub Movies",300
+#EXTINF:0 tvg-logo="http://bit.ly/2ky9tmz" group-title="Movies",300
 http://bit.ly/2k7Tag8
-#EXTINF:0 tvg-logo="http://bit.ly/2k2STel" group-title="Myanmar Sub Movies",300:Rise Of An Empire
+#EXTINF:0 tvg-logo="http://bit.ly/2k2STel" group-title="Movies",300:Rise Of An Empire
 http://bit.ly/2lVbKbE
-#EXTINF:0 tvg-logo="http://bit.ly/2k6iras" group-title="Myanmar Sub Movies",47 Meters Down
+#EXTINF:0 tvg-logo="http://bit.ly/2k6iras" group-title="Movies",47 Meters Down
 http://bit.ly/2lABwBY
-#EXTINF:0 tvg-logo="http://bit.ly/2kvXkhW" group-title="Myanmar Sub Movies",47 Ronin
+#EXTINF:0 tvg-logo="http://bit.ly/2kvXkhW" group-title="Movies",47 Ronin
 http://bit.ly/2lF9Qfq
-
-#EXTINF:0 tvg-logo="http://bit.ly/2kxYpWp" group-title="Myanmar Sub Movies",The Bourne Identity
+#EXTINF:0 tvg-logo="http://bit.ly/2kxYpWp" group-title="Movies",The Bourne Identity
 http://bit.ly/2m3qbut
-#EXTINF:0 tvg-logo="http://bit.ly/2knjEKL" group-title="Myanmar Sub Movies",The Bourne Supremacy
+#EXTINF:0 tvg-logo="http://bit.ly/2knjEKL" group-title="Movies",The Bourne Supremacy
 http://bit.ly/2m2vLgG
-#EXTINF:0 tvg-logo="http://bit.ly/2kjmgJz" group-title="Myanmar Sub Movies",The Bourne Ultimatum
+#EXTINF:0 tvg-logo="http://bit.ly/2kjmgJz" group-title="Movies",The Bourne Ultimatum
 http://bit.ly/2lzYKIy
-#EXTINF:0 tvg-logo="http://bit.ly/2kyBIl5" group-title="Myanmar Sub Movies",The Bourne Legacy
+#EXTINF:0 tvg-logo="http://bit.ly/2kyBIl5" group-title="Movies",The Bourne Legacy
 http://bit.ly/2lyqME9
-#EXTINF:0 tvg-logo="http://bit.ly/2kna2Qc" group-title="Myanmar Sub Movies",Sui Dhaaga
+#EXTINF:0 tvg-logo="http://bit.ly/2kna2Qc" group-title="Movies",Sui Dhaaga
 http://bit.ly/2m3ybLZ
-#EXTINF:0 tvg-logo="http://bit.ly/2kkvxkB" group-title="Myanmar Sub Movies",Mowgli: Legend of the Jungle
+#EXTINF:0 tvg-logo="http://bit.ly/2kkvxkB" group-title="Movies",Mowgli: Legend of the Jungle
 http://bit.ly/2kwG0cF
-#EXTINF:0 tvg-logo="http://bit.ly/2k9tHD2" group-title="Myanmar Sub Movies",ZOE
+#EXTINF:0 tvg-logo="http://bit.ly/2k9tHD2" group-title="Movies",ZOE
 http://bit.ly/2k4BCS1
-#EXTINF:0 tvg-logo="http://bit.ly/2lGMwhm" group-title="Myanmar Sub Movies",The Merciless
+#EXTINF:0 tvg-logo="http://bit.ly/2lGMwhm" group-title="Movies",The Merciless
 http://bit.ly/2lCdgiS
-#EXTINF:0 tvg-logo="http://bit.ly/2lDEW77" group-title="Myanmar Sub Movies",Zootopia
+#EXTINF:0 tvg-logo="http://bit.ly/2lDEW77" group-title="Movies",Zootopia
 http://bit.ly/2m5xhyJ
-#EXTINF:0 tvg-logo="http://bit.ly/2kyhxDQ" group-title="Myanmar Sub Movies",Venon
+#EXTINF:0 tvg-logo="http://bit.ly/2kyhxDQ" group-title="Movies",Venon
 http://bit.ly/2kwHOlX
-#EXTINF:0 tvg-logo="http://bit.ly/2lBUVCE" group-title="Myanmar Sub Movies",Train To Busan
+#EXTINF:0 tvg-logo="http://bit.ly/2lBUVCE" group-title="Movies",Train To Busan
 http://bit.ly/2knARUp
+#EXTINF:0 tvg-logo="http://bit.ly/2kADhiq" group-title="Movies",The Hangover
+http://bit.ly/2lZPddN
+#EXTINF:0 tvg-logo="http://bit.ly/2m6YW29" group-title="Movies",The Hangover Part-II
+http://bit.ly/2lD6f1p
+#EXTINF:0 tvg-logo="http://bit.ly/2kADHW2" group-title="Movies",The Hangover Part-III
+http://bit.ly/2lZ5akq
 
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/HoS.jpg" group-title="Myanmar Sub Series",House of Saddam Ep1
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/HoS.jpg" group-title="Series",House of Saddam Ep1
 http://bit.ly/2ksxcEw
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/HoS.jpg" group-title="Myanmar Sub Series",House of Saddam Ep2
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/HoS.jpg" group-title="Series",House of Saddam Ep2
 http://bit.ly/2lwyVJp
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/HoS.jpg" group-title="Myanmar Sub Series",House of Saddam Ep3
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/HoS.jpg" group-title="Series",House of Saddam Ep3
 http://bit.ly/2lD2OHK
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/HoS.jpg" group-title="Myanmar Sub Series",House of Saddam Ep4
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/HoS.jpg" group-title="Series",House of Saddam Ep4
 http://bit.ly/2kuVr4Z
 
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP1
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP1
 http://bit.ly/2jZtgef
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP2
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP2
 http://bit.ly/2kvhDvM
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP3
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP3
 http://bit.ly/2kiYugR
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP4
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP4
 http://bit.ly/2lwAJSH
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP5
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP5
 http://bit.ly/2kgq4v7
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP6
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP6
 http://bit.ly/2lZuhDU
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP7
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP7
 http://bit.ly/2lZul6C
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP8
 http://bit.ly/2kvA2ZB
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP9
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP9
 http://bit.ly/2lvs6rn
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP10
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP10
 http://bit.ly/2ktx1sI
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP11
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP11
 http://bit.ly/2ly2IRQ
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP12
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP12
 http://bit.ly/2k5fKpG
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP13
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP13
 http://bit.ly/2k4ZRj0
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP14
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP14
 http://bit.ly/2lTlNxV
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP15
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP15
 http://bit.ly/2lZs1MT
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP16
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP16
 http://bit.ly/2m1ndGZ
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP17
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP17
 http://bit.ly/2lzmpZD
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP18
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP18
 http://bit.ly/2k0bMOV
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP19
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP19
 http://bit.ly/2k3J140
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Myanmar Sub Series",The Heirs EP20
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP20
 http://bit.ly/2k3IRcU
 
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP1
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP1
 http://bit.ly/2lCVOL5
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP2
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP2
 http://bit.ly/2lHoaUk
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP3
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP3
 http://bit.ly/2kyjWyn
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP4
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP4
 http://bit.ly/2lHofaA
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP5
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP5
 http://bit.ly/2kw6Oty
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP6
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP6
 http://bit.ly/2kj7CSB
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP7
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP7
 http://bit.ly/2kvbPCF 
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP8
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP8
 http://bit.ly/2lHd15X 
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP9
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP9
 http://bit.ly/2kvnMIv 
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP10
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP10
 http://bit.ly/2kyk6FZ 
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP11
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP11
 http://bit.ly/2k3kUCq 
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP12
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP12
 http://bit.ly/2klIURD 
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP13
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP13
 http://bit.ly/2kvooOj 
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP14 
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP14 
 http://bit.ly/2klJ4sd
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP15
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP15
 http://bit.ly/2m285cf 
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP16
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP16
 http://bit.ly/2kxHp2x 
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP17
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP17
 http://bit.ly/2k31JIV 
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP18
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP18
 http://bit.ly/2k66Yrt 
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP19
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP19
 http://bit.ly/2k0Sf0M 
-#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Myanmar Sub Series",Seven Day Queen EP20
-http://bit.ly/2klOgwc
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP20
+http://bit.ly/2klOgwc 
