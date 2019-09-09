@@ -186,37 +186,38 @@ http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b47000
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Channel_K.png" group-title="Myanmar",Channel K
-https://www.channelkmyanmar.tk/live/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/5_Plus.png" group-title="Myanmar",5Plus
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Channel_K.png" group-title="TV",Channel K
+https://www.channelkTV.tk/live/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/5_Plus.png" group-title="TV",5Plus
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/my/2/22/MRTV_new_logo.png" group-title="Myanmar",MRTV
-http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/MizzimaTV.png" group-title="Myanmar",MizzimaTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/my/2/22/MRTV_new_logo.png" group-title="TV",MRTV
+http://220.158.149.14:9999/live/TV00000000000000000089@HHZT;LIVE
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/MizzimaTV.png" group-title="TV",MizzimaTV
 http://220.158.149.14:9999/live/TV00000000000000000092@HHZT;LIVE
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Channel-9.png" group-title="Myanmar",Channel-9
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Channel-9.png" group-title="TV",Channel-9
 http://220.158.149.14:9999/live/TV00000000000000000091@HHZT;LIVE
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/MRTV-4.png" group-title="Myanmar",MRTV-4
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/MRTV-4.png" group-title="TV",MRTV-4
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg" group-title="Myanmar",Mahar Bawdi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.malimarcdn.com/TVMaharBawdiHD.jpg" group-title="TV",Mahar Bawdi
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Channel_7.png" group-title="Myanmar",Channel 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Channel_7.png" group-title="TV",Channel 7
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Mahar_TV.png" group-title="Myanmar",Mahar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Mahar_TV.png" group-title="TV",Mahar
 http://maharlive.b-cdn.net/stream.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Mitv.png" group-title="Myanmar",Mitv
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Mitv.png" group-title="TV",Mitv
 http://220.158.149.14:9999/live/TV00000000000000000090@HHZT;LIVE
-#EXTINF:0 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg" group-title="Myanmar",MVTV Myanmar
-https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2lDNvyE" group-title="Myanmar",MWD Variety
+#EXTINF:0 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg" group-title="TV",MVTV 
+https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2034544246.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/2lDNvyE" group-title="TV",MWD Variety
 http://203.81.84.130/hls/mwd/index.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2m6NJyJ" group-title="Myanmar",MWD
+#EXTINF:0 tvg-logo="http://bit.ly/2m6NJyJ" group-title="TV",MWD
 http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2lI1e7O" group-title="Myanmar",Hluttaw
+#EXTINF:0 tvg-logo="http://bit.ly/2lI1e7O" group-title="TV",Hluttaw
 http://edge-stream-07.otv.co.th./livestream/Hluttaw.stream/playlist_w499018969.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2k5ZNzo" group-title="Myanmar",Reader Channel
+#EXTINF:0 tvg-logo="http://bit.ly/2k5ZNzo" group-title="TV",Reader Channel
 http://edge-stream-07.otv.co.th/livestream/Reader-Channel.stream/playlist_w1266596041.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2lCw29Y" group-title="Myanmar",MRTV Entertainment
+#EXTINF:0 tvg-logo="http://bit.ly/2lCw29Y" group-title="TV",MRTV Entertainment
 http://edge-stream-07.otv.co.th./livestream/MRTV-Entertainment.stream/playlist_w1122601059.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2k53JQT" group-title="Radio",Padamyar FM
