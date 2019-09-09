@@ -178,6 +178,8 @@ http://185.246.209.109:8080/SMITHSONIAN/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2m3BMJZ" group-title="Knowledge",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
+#EXTINF:0 tvg-logo="http://bit.ly/2m1SbOV" group-title="MTV",Madi Danaryi
+http://bit.ly/2lKh5lY
 
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
