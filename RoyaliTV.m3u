@@ -2,6 +2,8 @@
 
 #EXTINF:0 tvg-logo="http://bit.ly/2m1SbOV" group-title="MTV",Madi Danaryi
 http://bit.ly/2mfj8yV
+#EXTINF:0 tvg-logo="http://bit.ly/2m1SbOV" group-title="MTV",Madi အခ်စ္ျဖင့္လႊမ္းေစ
+http://bit.ly/2kINFom
 
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/04/30/bein-2.png" group-title="Sport",BeinSport2HD
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
@@ -388,6 +390,10 @@ http://bit.ly/2kfrl5A
 http://bit.ly/2keaakQ
 #EXTINF:0 tvg-logo="http://bit.ly/2kv6dZh" group-title="Movies",Furious 7
 http://bit.ly/2ma5NYD
+#EXTINF:0 tvg-logo="http://bit.ly/2lDKQoP" group-title="Movies",Game Over
+http://bit.ly/2lPdGCz
+#EXTINF:0 tvg-logo="http://bit.ly/2m6TYCp" group-title="Movies",The Italian Job
+http://bit.ly/2kxxqdT
 
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/HoS.jpg" group-title="Series",House of Saddam Ep1
 http://bit.ly/2ksxcEw
