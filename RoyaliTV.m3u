@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:0 tvg-logo="http://bit.ly/2m1SbOV" group-title="MTV",Madi Danaryi
+http://bit.ly/2mfj8yV
+
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/04/30/bein-2.png" group-title="Sport",BeinSport2HD
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
 
