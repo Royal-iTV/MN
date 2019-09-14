@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2m1SbOV" group-title="MTV",Madi Danaryi
-https://icedrive.net/0/856B4e4Tgq
-#EXTINF:0 tvg-logo="http://bit.ly/2m1SbOV" group-title="MTV",Madi အခ်စ္ျဖင့္လႊမ္းေစ
-http://bit.ly/2lTksag
-
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/04/30/bein-2.png" group-title="Sport",BeinSport2HD
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/super-soccor.jpg" group-title="Sport",Super Soccer
@@ -390,27 +385,27 @@ http://bit.ly/2keaakQ
 #EXTINF:0 tvg-logo="http://bit.ly/2kv6dZh" group-title="Movies",Furious 7
 http://bit.ly/2ma5NYD
 #EXTINF:0 tvg-logo="http://bit.ly/2lDKQoP" group-title="Movies",Game Over
-http://bit.ly/2lPdGCz
+http://bit.ly/2kLJb02
 #EXTINF:0 tvg-logo="http://bit.ly/2m6TYCp" group-title="Movies",The Italian Job
-http://bit.ly/2kxxqdT
+http://bit.ly/2kzHMde
 #EXTINF:0 tvg-logo="http://bit.ly/2kxDK57" group-title="Movies",13 Sins
 http://bit.ly/2lTpBz6
 #EXTINF:0 tvg-logo="http://bit.ly/2kIUzdg" group-title="Movies",Lost In The Pacific
 http://bit.ly/2lTYOTl
 #EXTINF:0 tvg-logo="http://bit.ly/2lU0Z9t" group-title="Movies",Survival Box 
-http://bit.ly/2ky72k2
+http://bit.ly/2kLJgRo
 #EXTINF:0 tvg-logo="http://bit.ly/2lOCryV" group-title="Movies",Spider-Man:Far from Home
-http://bit.ly/2kiqnpd
+http://bit.ly/2kgZB0i
 #EXTINF:0 tvg-logo="http://bit.ly/2kirbKL" group-title="Movies",Child Play
-http://bit.ly/2kxI0S9
+http://bit.ly/2lV9wsI
 #EXTINF:0 tvg-logo="http://bit.ly/2lKrjD3" group-title="Movies",Thaandavam
-http://bit.ly/2kde0dS
+http://bit.ly/2lODDSO
 #EXTINF:0 tvg-logo="http://bit.ly/2lMZVnY" group-title="Movies",Super 30
-http://bit.ly/2lOGPhn
+http://bit.ly/2mfLNnt
 #EXTINF:0 tvg-logo="http://bit.ly/2m8hNtx" group-title="Movies",The King’s Letters
-http://bit.ly/2lU5xN5
+http://bit.ly/2lO4E92
 #EXTINF:0 tvg-logo="http://bit.ly/2lTFyoY" group-title="Movies",THE PRODIGY
-http://bit.ly/2m8sfRN
+http://bit.ly/2kMqRnJ
 #EXTINF:0 tvg-logo="http://bit.ly/2kzmQ69" group-title="Movies",iT
 http://bit.ly/2lO3uuc
 #EXTINF:0 tvg-logo="http://bit.ly/2mh9AU5" group-title="Movies",ANNA
