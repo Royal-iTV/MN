@@ -192,19 +192,10 @@ http://maharlive.b-cdn.net/stream.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000090@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg" group-title="TV",MVTV 
 https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2034544246.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2kr2I67" group-title="TV",mntv
-http://edge-stream-07.otv.co.th./livestream/MNTV.stream/playlist_w364541291.m3u8
-
 #EXTINF:0 tvg-logo="http://bit.ly/2lDNvyE" group-title="TV",MWD Variety
 http://203.81.84.130/hls/mwd/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2m6NJyJ" group-title="TV",MWD
 http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2lI1e7O" group-title="TV",Hluttaw
-http://edge-stream-07.otv.co.th./livestream/Hluttaw.stream/playlist_w499018969.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2k5ZNzo" group-title="TV",Reader Channel
-http://edge-stream-07.otv.co.th/livestream/Reader-Channel.stream/playlist_w1266596041.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2lCw29Y" group-title="TV",MRTV Entertainment
-http://edge-stream-07.otv.co.th./livestream/MRTV-Entertainment.stream/playlist_w1122601059.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2k53JQT" group-title="Radio",Padamyar FM
 http://s2.radio.co/s969e6c4b7/listen
