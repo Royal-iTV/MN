@@ -129,7 +129,6 @@ http://185.246.209.109:8080/SMITHSONIAN/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2m3BMJZ" group-title="Knowledge",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
-
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Destination
@@ -211,14 +210,12 @@ http://bit.ly/2LcSL5u
 http://bit.ly/2ZsUwFy
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/Shazam.jpg" group-title="Movies",Shazam!
 http://bit.ly/2NHInW3
-
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/iron-man.jpg" group-title="Movies",Iron Man
 http://bit.ly/2LauVIZ
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/iron-man2.jpg" group-title="Movies",Iron Man 2
 http://bit.ly/2zt37J4
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/ironman3.jpg" group-title="Movies",Iron Man 3
 http://bit.ly/327g3R8
-
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Wonder-Park.png" group-title="Movies",Wonder Park
 http://bit.ly/2PtGkrs
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Captain-Marvel.png" group-title="Movies",Captain Marvel
@@ -255,7 +252,6 @@ http://bit.ly/2zIDLac
 http://bit.ly/2NIlYrV
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/01/Ant-Man-and-the-Wasp.jpg" group-title="Movies",Ant-Man and the Wasp
 http://bit.ly/2Lc42Eh
-
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/03/Dark-Phoenix.jpg" group-title="Movies",Dark Phoenix
 http://bit.ly/2kfndTe
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/03/Beayond-the-reach.png" group-title="Movies",Beyond the Reach
@@ -363,7 +359,6 @@ http://bit.ly/2lwyVJp
 http://bit.ly/2lD2OHK
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/HoS.jpg" group-title="Series",House of Saddam Ep4
 http://bit.ly/2kuVr4Z
-
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP1
 http://bit.ly/2jZtgef
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP2
