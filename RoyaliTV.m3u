@@ -1,5 +1,8 @@
 
 #EXTM3U
+
+#EXTINF:0 tvg-logo="http://bit.ly/2kSakOW" group-title="Movies",Evaru
+http://bit.ly/2mkHsPP
 #EXTINF:0 tvg-logo="http://bit.ly/2lWIq4D" group-title="Movies",Aladdin
 http://bit.ly/2mm1EB0
 #EXTINF:0 tvg-logo="http://bit.ly/2lMZVnY" group-title="Movies",Super 30
