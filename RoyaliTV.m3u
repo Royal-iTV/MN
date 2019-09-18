@@ -1,1 +1,486 @@
 
+#EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2lWIq4D" group-title="Movies",Aladdin
+http://bit.ly/2mm1EB0
+#EXTINF:0 tvg-logo="http://bit.ly/2lMZVnY" group-title="Movies",Super 30
+http://bit.ly/2klBuO1
+#EXTINF:0 tvg-logo="http://bit.ly/2kNIJyw" group-title="Movies",A Taxi Driver
+http://bit.ly/2kgc3gK
+#EXTINF:0 tvg-logo="http://bit.ly/2mgnIgc" group-title="Movies",Toy Story 4
+http://bit.ly/2mgnEwY
+#EXTINF:0 tvg-logo="http://bit.ly/2kLurhK" group-title="Movies",Goodbye Christopher Robin
+http://bit.ly/2kzeuvf
+#EXTINF:0 tvg-logo="http://bit.ly/2mhXKcj" group-title="Movies",A Dogs Way Home
+http://bit.ly/2kD4Pnt
+#EXTINF:0 tvg-logo="http://bit.ly/2mjvSEJ" group-title="Movies",Glass
+http://bit.ly/2kogVkc
+#EXTINF:0 tvg-logo="http://bit.ly/2kOJvvd" group-title="Movies",A.I. Artificial Intelligence
+http://bit.ly/2kj96Mu
+#EXTINF:0 tvg-logo="http://bit.ly/2mirB4q" group-title="Movies",Arctic
+http://bit.ly/2mdxiAp
+#EXTINF:0 tvg-logo="http://bit.ly/2lTFyoY" group-title="Movies",THE PRODIGY
+http://bit.ly/2kBF4nz
+#EXTINF:0 tvg-logo="http://bit.ly/2lQdUti" group-title="Movies",A Frozen Flower
+http://bit.ly/2lT8NZd
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/JW.png" group-title="Movies",John Wick
+http://bit.ly/2L5QhH8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/JW2.png" group-title="Movies",John Wick Chapter2
+http://bit.ly/2L5QYAe
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/JW3.png" group-title="Movies",John Wick Chapter3
+http://bit.ly/2ZEqA8E
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/MIB19.jpg" group-title="Movies",Man In Black International
+http://bit.ly/2L9ghBG
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/moana.jpg" group-title="Movies",Moana
+http://bit.ly/2ZJyVs1
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/BloodDiamond.jpg" group-title="Movies",Blood Diamond
+http://bit.ly/2PmPhmh
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/alita.jpg" group-title="Movies",Alita:Battle Angel
+http://bit.ly/2Zzy7pu
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/snowden.jpg" group-title="Movies",Snowden
+http://bit.ly/2HvVhCM
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/APOCALYPTO.jpg" group-title="Movies",APOCALYPTO
+http://bit.ly/32gpa1T
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/Lone-Survivor.jpg" group-title="Movies",Lone Survivor
+http://bit.ly/2LcSL5u
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/Inhuman-Kiss.jpg" group-title="Movies",Inhuman Kiss
+http://bit.ly/2ZsUwFy
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/Shazam.jpg" group-title="Movies",Shazam!
+http://bit.ly/2NHInW3
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/iron-man.jpg" group-title="Movies",Iron Man
+http://bit.ly/2LauVIZ
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/iron-man2.jpg" group-title="Movies",Iron Man 2
+http://bit.ly/2zt37J4
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/ironman3.jpg" group-title="Movies",Iron Man 3
+http://bit.ly/327g3R8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Wonder-Park.png" group-title="Movies",Wonder Park
+http://bit.ly/2PtGkrs
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Captain-Marvel.png" group-title="Movies",Captain Marvel
+http://bit.ly/2ZDLNzM
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/mother.png" group-title="Movies",I Am Mother
+http://bit.ly/2PqVBco
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Hotel-Mumbai.png" group-title="Movies",Hotel Mumbai
+http://bit.ly/2HBdLBN
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/RED.png" group-title="Movies",RED
+http://bit.ly/2PtTFjv
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/RED2.png" group-title="Movies",RED2
+http://bit.ly/2MJp8fr
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Rab.png" group-title="Movies",Rab Ne Bana Di Jodi
+http://bit.ly/2PsAwhS
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/us.jpg" group-title="Movies",US
+http://bit.ly/32mDBSd
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Godzilla.jpg" group-title="Movies",Godzilla: King of the Monsters
+http://bit.ly/2UifW2p
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/due-date-533887ace6fb6.png" group-title="Movies",Due Date
+http://bit.ly/34gX4oX
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/spider-man.jpg" group-title="Movies",Spider Man
+http://bit.ly/34gfBBI
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/spider-man-2-51801cbf9328a.png" group-title="Movies",Spider Man 2
+http://bit.ly/2ZKgVha
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/sman3.jpg" group-title="Movies",Spider Man 3
+http://bit.ly/2L9GqQK
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/raees-59f47ea57479e.png" group-title="Movies",RAEES
+http://bit.ly/2Pxobc4
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/01/9.jpg" group-title="Movies",9
+http://bit.ly/2MOJ14O
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/01/tdkr.jpg" group-title="Movies",The Dark Knight Rises
+http://bit.ly/2zIDLac
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/01/The-Secret-Life-of-Pets-2.png" group-title="Movies",The Secret Life of Pets 2
+http://bit.ly/2NIlYrV
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/01/Ant-Man-and-the-Wasp.jpg" group-title="Movies",Ant-Man and the Wasp
+http://bit.ly/2Lc42Eh
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/03/Dark-Phoenix.jpg" group-title="Movies",Dark Phoenix
+http://bit.ly/2kfndTe
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/03/Beayond-the-reach.png" group-title="Movies",Beyond the Reach
+http://bit.ly/2jWYwKW
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/Batman-Begins.jpg" group-title="Movies",Batman Begins
+http://bit.ly/2ltgNjr
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/batman-returns-5b99d3a9c23a1.jpg" group-title="Movies",Batman Returns
+http://bit.ly/2kqqDCo
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/batman--robin-5151a476173dc.jpg" group-title="Movies",Batman & Robin
+http://bit.ly/2kq8PYd
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/catch-me-if-you-can-5206c79eeb3a0.jpg" group-title="Movies",Catch Me If You Can
+http://bit.ly/2ly5Rkz
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/71-55c7a711d4e77.jpg" group-title="Movies",'71
+http://bit.ly/2lAoOmU
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/cars-5045ae432058f.jpg" group-title="Movies",Car
+http://bit.ly/2lv2meS
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/cars-2-55263a5c59c39.jpg" group-title="Movies",Car2
+http://bit.ly/2lSq6JP
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/cars-3-58adcd72a6e0e.jpg" group-title="Movies",Car3
+http://bit.ly/2lZgtcz
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/parasite-5d2d5ab30c73d.jpg" group-title="Movies",Parasite 
+http://bit.ly/2lRnZ99
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/the-shallows-577cd688b1922.jpg" group-title="Movies",The Shallows
+http://bit.ly/2lwbgZs
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/bait-542d776bc2047.jpg" group-title="Movies",Bait
+http://bit.ly/2jWBZxM
+#EXTINF:0 tvg-logo="http://bit.ly/2lFzLDq" group-title="Movies",21 Jump Street
+http://bit.ly/2lFHzFc
+#EXTINF:0 tvg-logo="http://bit.ly/2kxILKC" group-title="Movies",22 Jump Street
+http://bit.ly/2m3PBIx
+#EXTINF:0 tvg-logo="http://bit.ly/2ky6YRd" group-title="Movies",24 hours to live
+http://bit.ly/2lz2nyr
+#EXTINF:0 tvg-logo="http://bit.ly/2ky9tmz" group-title="Movies",300
+http://bit.ly/2k7Tag8
+#EXTINF:0 tvg-logo="http://bit.ly/2k2STel" group-title="Movies",300:Rise Of An Empire
+http://bit.ly/2lVbKbE
+#EXTINF:0 tvg-logo="http://bit.ly/2k6iras" group-title="Movies",47 Meters Down
+http://bit.ly/2lABwBY
+#EXTINF:0 tvg-logo="http://bit.ly/2kvXkhW" group-title="Movies",47 Ronin
+http://bit.ly/2lF9Qfq
+#EXTINF:0 tvg-logo="http://bit.ly/2kxYpWp" group-title="Movies",The Bourne Identity
+http://bit.ly/2m3qbut
+#EXTINF:0 tvg-logo="http://bit.ly/2knjEKL" group-title="Movies",The Bourne Supremacy
+http://bit.ly/2m2vLgG
+#EXTINF:0 tvg-logo="http://bit.ly/2kjmgJz" group-title="Movies",The Bourne Ultimatum
+http://bit.ly/2lzYKIy
+#EXTINF:0 tvg-logo="http://bit.ly/2kyBIl5" group-title="Movies",The Bourne Legacy
+http://bit.ly/2lyqME9
+#EXTINF:0 tvg-logo="http://bit.ly/2kna2Qc" group-title="Movies",Sui Dhaaga
+http://bit.ly/2m3ybLZ
+#EXTINF:0 tvg-logo="http://bit.ly/2kkvxkB" group-title="Movies",Mowgli: Legend of the Jungle
+http://bit.ly/2kwG0cF
+#EXTINF:0 tvg-logo="http://bit.ly/2k9tHD2" group-title="Movies",ZOE
+http://bit.ly/2k4BCS1
+#EXTINF:0 tvg-logo="http://bit.ly/2lGMwhm" group-title="Movies",The Merciless
+http://bit.ly/2lCdgiS
+#EXTINF:0 tvg-logo="http://bit.ly/2lDEW77" group-title="Movies",Zootopia
+http://bit.ly/2m5xhyJ
+#EXTINF:0 tvg-logo="http://bit.ly/2kyhxDQ" group-title="Movies",Venon
+http://bit.ly/2kwHOlX
+#EXTINF:0 tvg-logo="http://bit.ly/2lBUVCE" group-title="Movies",Train To Busan
+http://bit.ly/2knARUp
+#EXTINF:0 tvg-logo="http://bit.ly/2kADhiq" group-title="Movies",The Hangover
+http://bit.ly/2lZPddN
+#EXTINF:0 tvg-logo="http://bit.ly/2m6YW29" group-title="Movies",The Hangover Part-II
+http://bit.ly/2lD6f1p
+#EXTINF:0 tvg-logo="http://bit.ly/2kADHW2" group-title="Movies",The Hangover Part-III
+http://bit.ly/2lZ5akq
+#EXTINF:0 tvg-logo="http://bit.ly/2kEA41k" group-title="Movies",The Fast and the Furious
+http://bit.ly/2mads9o
+#EXTINF:0 tvg-logo="http://bit.ly/2lK04Zg" group-title="Movies",2 Fast 2 Furious
+http://bit.ly/2kEAaWK
+#EXTINF:0 tvg-logo="http://bit.ly/2ma4Zmz" group-title="Movies",The Fast and the Furious: Tokyo Drift
+http://bit.ly/2kFR72S
+#EXTINF:0 tvg-logo="http://bit.ly/2lNGafS" group-title="Movies",Fast & Furious
+http://bit.ly/2lNJ7gq
+#EXTINF:0 tvg-logo="http://bit.ly/2kfrjuu" group-title="Movies",Fast Five
+http://bit.ly/2kfrl5A
+#EXTINF:0 tvg-logo="http://bit.ly/2kaMuO9" group-title="Movies",Fast & Furious 6
+http://bit.ly/2keaakQ
+#EXTINF:0 tvg-logo="http://bit.ly/2kv6dZh" group-title="Movies",Furious 7
+http://bit.ly/2ma5NYD
+#EXTINF:0 tvg-logo="http://bit.ly/2kxDK57" group-title="Movies",13 Sins
+http://bit.ly/2lTpBz6
+#EXTINF:0 tvg-logo="http://bit.ly/2kIUzdg" group-title="Movies",Lost In The Pacific
+http://bit.ly/2lTYOTl
+#EXTINF:0 tvg-logo="http://bit.ly/2lOCryV" group-title="Movies",Spider-Man:Far from Home
+http://bit.ly/2kgZB0i
+#EXTINF:0 tvg-logo="http://bit.ly/2mh9AU5" group-title="Movies",ANNA
+http://bit.ly/2lOYIwo
+#EXTINF:0 tvg-logo="http://bit.ly/2kMtOEP" group-title="Movies",Friend Zone
+http://bit.ly/2lTUmUC
+#EXTINF:0 tvg-logo="http://bit.ly/2kfL0Cg" group-title="Movies",30 Minutes or Less
+http://bit.ly/2mfemRT
+#EXTINF:0 tvg-logo="http://bit.ly/2mc6BvZ" group-title="Movies",Charlottes Web
+http://bit.ly/2mjkHfe
+#EXTINF:0 tvg-logo="http://bit.ly/2kBzyBn" group-title="Movies",So Close
+http://bit.ly/2mjmJMo
+
+
+#EXTINF:0 tvg-logo="" group-title="Sport",RTM Sport
+http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist_b3696000.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/super-soccor.jpg" group-title="Sport",Super Soccer
+http://210.210.155.35/uq2663/h/h20/index.m3u8?rizkizakaria-SuperSoccer-join-telegram=@iptvondemand
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/hd.jpg" group-title="Sport",BeinSport HD
+http://185.246.209.109:8080/BEIN1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/Bein1.png" group-title="Sport",BeinSport 1HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/04/30/bein-2.png" group-title="Sport",BeinSport2HD
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/BeIN_Sports_3_HD.png" group-title="Sport",BeinSport3HD
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/444444.png" group-title="Sport",BeinSport4HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/bein-5.png" group-title="Sport",BeinSport5HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/BLaliga.jpg" group-title="Sport",BeinSport Laliga
+http://23.237.22.82:8086/udp/127.0.0.1:56022
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/444444.png" group-title="Sport",BeinSport4HD
+http://zeusplayer.club/live/247/beINSports/bein4-hq.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/bein-5.png" group-title="Sport",BeinSport5HD
+http://zeusplayer.club/live/247/beINSports/bein5-hq.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/bein_sports_06_hd.png" group-title="Sport",BeinSport 6HD
+http://zeusplayer.club/live/247/beINSports/bein6-hq.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/bein_sports_07_hd.png" group-title="Sport",BeinSport 7HD
+http://zeusplayer.club/live/247/beINSports/bein7-hq.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/bein8.png" group-title="Sport",BeinSport 8HD
+http://zeusplayer.club/live/247/beINSports/bein8-hq.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/Bein-sport-9.png" group-title="Sport",BeinSport 9HD
+http://zeusplayer.club/live/247/beINSports/bein9-hq.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/Bein-sport-10.png" group-title="Sport",BeinSport 10HD
+http://zeusplayer.club/live/247/beINSports/bein10-hq.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/Bein-Sports-11.jpg" group-title="Sport",BeinSport 11HD
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD11.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/Bein-Sport-12.png" group-title="Sport",BeinSport 12HD
+http://zeusplayer.club/live/247/beINSports/bein12-hq.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/26/setanta-sport1.png" group-title="Sport",Sentana Sport 1
+http://ott-cdn.ucom.am/s81/index.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/26/setanta-sport2.jpg" group-title="Sport",Sentana Sport 2
+http://ott-cdn.ucom.am/s82/index.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/26/Setanta_Sports.png" group-title="Sport",Setanta Sport
+http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/26/setanta-sport-plus.png" group-title="Sport",Setanta Sport+
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/AdSport1.png" group-title="Sport",AdSport1
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/adsports-2.png" group-title="Sport",AdSport2
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/adsports-3.png" group-title="Sport",adsport3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Ad_sport_4.png" group-title="Sport",adsport4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/abu_dhabi_sports_5.png" group-title="Sport",adbsport5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/ad-sports-6.png" group-title="Sport",adsport6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/all-sports.png" group-title="Sport",AllSport
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/Bein1.png" group-title="Sport",BeinSport 1HD
+http://185.246.209.109:8080/BEIN1/index.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Eleven_Sports_1.png" group-title="Sport",ElevenSport 1
+http://61.58.60.230:9319/live/75.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Eleven_Sports_2_HD.png" group-title="Sport",ElevenSport 2
+http://61.58.60.230:9319/live/102.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/F-SPORTS.png" group-title="Sport",FightSport
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/F-SPORTS.png" group-title="Sport",FightSport
+http://210.210.155.35/uq2663/h/h05/01.m3u8?rizkizakaria-Fight-Sports-join-telegram=@iptvondemand
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/FS1.png" group-title="Sport",FS1
+http://185.246.209.109:8080/FOX_SPORTS1/index.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/KBSN-Sport.png" group-title="Sport",KBSN Sport
+http://122.129.115.21:1935/edgedol/_definst_/tao123/playlist.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/SPO-TV-Korea.jpg" group-title="Sport",SPO TV Korea
+http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/kuwaitsport.png" group-title="Sport",K-TV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/msg.png" group-title="Sport",MSG Encore
+http://185.246.209.109:8080/MSG/index.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/NBA-TV.jpg" group-title="Sport",NBA TV
+http://185.246.209.109:8080/NBA9/index.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/NHL_Network_2012.jpg" group-title="Sport",NHL Network
+http://185.246.209.109:8080/NHL_NETWORK/index.m3u8
+#EXTINF:0 tvg-logo=" " group-title="Sport",NWCT
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Orange_Sport.png" group-title="Sport",Orange Sport
+http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/SBS-Golf.gif" group-title="Golf",SBS Golf 
+http://122.129.115.21:1935/edgedol/_definst_/tao128/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Golf",NBC Golf 
+http://54.39.124.28/pro.php/http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/jtbc-Golf.jpg" group-title="Golf",jtbc Golf 
+http://122.129.115.21:1935/edgedol/_definst_/tao129/playlist.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/jtbc-3.jpg" group-title="Sport",jtbc-3
+http://122.129.115.21:1935/edgedol/_definst_/live03/playlist.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/FS1.png" group-title="Sport",FoxSport US1
+http://23.237.22.82:8086/udp/127.0.0.1:56046
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/fs2.png" group-title="Sport",FoxSport US2
+http://23.237.22.82:8086/udp/127.0.0.1:56047
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/CCTV-Football.png" group-title="Sport",CCTV Football
+http://39.135.16.142:6060/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Logo_bein_sports_2.png" group-title="Sport",BeinSport2 CN
+http://125.227.210.37:8886/VideoInput/play.ts
+#EXTINF:0 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg" group-title="Sport",CCTV-5
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226560/index.m3u8
+#EXTINF:0 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5+.jpg" group-title="Sport",CCTV-5+
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/cctv-sprot.png" group-title="Sport",CCTV sport
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Sportnet-One.png" group-title="Sport",Sportnet One
+http://185.246.209.109:8080/SPORTSNET_ONE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="Sport",Edge Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/27/NHK-Logo-620x360.png" group-title="Knowledge",NHK World
+http://210.210.155.35/uq2663/h/h23/index2.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/27/cna.png" group-title="Knowledge",Channel New Asia
+http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Docu-Box.jpg" group-title="Knowledge",Docu Box
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-People.jpg" group-title="Knowledge",National GEO People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/National_Geographic_logo.png" group-title="Knowledge",National GEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-Wild.jpg" group-title="Knowledge",National GEO Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2lCcUZA" group-title="Knowledge",SMITHSONIAN
+http://185.246.209.109:8080/SMITHSONIAN/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2m3BMJZ" group-title="Knowledge",H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Destination
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Midnight
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Channel_K.png" group-title="TV",Channel K
+https://www.channelkmyanmar.tk/live/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/5_Plus.png" group-title="TV",5Plus
+http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/my/2/22/MRTV_new_logo.png" group-title="TV",MRTV
+http://220.158.149.14:9999/live/TV00000000000000000089@HHZT;LIVE
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/MizzimaTV.png" group-title="TV",MizzimaTV
+http://220.158.149.14:9999/live/TV00000000000000000092@HHZT;LIVE
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Channel-9.png" group-title="TV",Channel-9
+http://220.158.149.14:9999/live/TV00000000000000000091@HHZT;LIVE
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/MRTV-4.png" group-title="TV",MRTV-4
+http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2kr4T9N" group-title="TV",Mahar Bawdi
+http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Channel_7.png" group-title="TV",Channel 7
+http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Mahar_TV.png" group-title="TV",Mahar
+http://maharlive.b-cdn.net/stream.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Mitv.png" group-title="TV",Mitv
+http://220.158.149.14:9999/live/TV00000000000000000090@HHZT;LIVE
+#EXTINF:0 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg" group-title="TV",MVTV 
+https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2034544246.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2lDNvyE" group-title="TV",MWD Variety
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2m6NJyJ" group-title="TV",MWD
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/2k53JQT" group-title="Radio",Padamyar FM
+http://s2.radio.co/s969e6c4b7/listen
+#EXTINF:0 tvg-logo="http://bit.ly/2k5L0ER" group-title="Radio",Cherry FM
+http://159.65.15.33:8000/
+#EXTINF:0 tvg-logo="http://bit.ly/2kzyTjI" group-title="Radio",Mandalay FM
+http://104275ooyala-lh-audio.akamaized.net/forevergroup-audio-only/1-6a43cb501dee2ec7433d21ef6acfc461_aac/playlist_w1257406946.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2k60FUG" group-title="Radio",Teen Radio
+https://104275ooyala-lh-audio.akamaized.net/forevergroup-audio-only/1-1f717f03a450a2b3e96058a2266cbc92_aac/playlist_w591365869.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2lF4BfH" group-title="Radio",Thazin FM
+#EXTINF:0 tvg-logo="" group-title="Radio",
+
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/HoS.jpg" group-title="Series",House of Saddam Ep1
+http://bit.ly/2ksxcEw
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/HoS.jpg" group-title="Series",House of Saddam Ep2
+http://bit.ly/2lwyVJp
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/HoS.jpg" group-title="Series",House of Saddam Ep3
+http://bit.ly/2lD2OHK
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/HoS.jpg" group-title="Series",House of Saddam Ep4
+http://bit.ly/2kuVr4Z
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP1
+http://bit.ly/2jZtgef
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP2
+http://bit.ly/2kvhDvM
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP3
+http://bit.ly/2kiYugR
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP4
+http://bit.ly/2lwAJSH
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP5
+http://bit.ly/2kgq4v7
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP6
+http://bit.ly/2lZuhDU
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP7
+http://bit.ly/2lZul6C
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP8
+http://bit.ly/2kvA2ZB
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP9
+http://bit.ly/2lvs6rn
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP10
+http://bit.ly/2ktx1sI
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP11
+http://bit.ly/2ly2IRQ
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP12
+http://bit.ly/2k5fKpG
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP13
+http://bit.ly/2k4ZRj0
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP14
+http://bit.ly/2lTlNxV
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP15
+http://bit.ly/2lZs1MT
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP16
+http://bit.ly/2m1ndGZ
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP17
+http://bit.ly/2lzmpZD
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP18
+http://bit.ly/2k0bMOV
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP19
+http://bit.ly/2k3J140
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/05/qsy0G4DCFsrsbTyzCTFiyb0kA1U.jpg" group-title="Series",The Heirs EP20
+http://bit.ly/2k3IRcU
+
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP1
+http://bit.ly/2lCVOL5
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP2
+http://bit.ly/2lHoaUk
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP3
+http://bit.ly/2kyjWyn
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP4
+http://bit.ly/2lHofaA
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP5
+http://bit.ly/2kw6Oty
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP6
+http://bit.ly/2kj7CSB
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP7
+http://bit.ly/2kvbPCF 
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP8
+http://bit.ly/2lHd15X 
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP9
+http://bit.ly/2kvnMIv 
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP10
+http://bit.ly/2kyk6FZ 
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP11
+http://bit.ly/2k3kUCq 
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP12
+http://bit.ly/2klIURD 
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP13
+http://bit.ly/2kvooOj 
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP14 
+http://bit.ly/2klJ4sd
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP15
+http://bit.ly/2m285cf 
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP16
+http://bit.ly/2kxHp2x 
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP17
+http://bit.ly/2k31JIV 
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP18
+http://bit.ly/2k66Yrt 
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP19
+http://bit.ly/2k0Sf0M 
+#EXTINF:0 tvg-logo="http://bit.ly/2m1YbHB" group-title="Series",Seven Day Queen EP20
+http://bit.ly/2klOgwc 
+#EXTINF:0 tvg-logo="http://bit.ly/2kLNpVs" group-title="Series",Priest EP01
+http://bit.ly/2keW7eI
+#EXTINF:0 tvg-logo="http://bit.ly/2kLNpVs" group-title="Series",Priest EP02
+http://bit.ly/2kB0eSL
+#EXTINF:0 tvg-logo="http://bit.ly/2kLNpVs" group-title="Series",Priest EP03
+http://bit.ly/2kk1cmb
+#EXTINF:0 tvg-logo="http://bit.ly/2kLNpVs" group-title="Series",Priest EP04
+http://bit.ly/2kB0a5t
+#EXTINF:0 tvg-logo="http://bit.ly/2kLNpVs" group-title="Series",Priest EP05
+http://bit.ly/2lVItNZ
+#EXTINF:0 tvg-logo="http://bit.ly/2kLNpVs" group-title="Series",Priest EP06
+http://bit.ly/2klpXhQ
+#EXTINF:0 tvg-logo="http://bit.ly/2kLNpVs" group-title="Series",Priest EP07
+http://bit.ly/2kk1iu3
+#EXTINF:0 tvg-logo="http://bit.ly/2kLNpVs" group-title="Series",Priest EP08
+http://bit.ly/2mbq289
+#EXTINF:0 tvg-logo="http://bit.ly/2kLNpVs" group-title="Series",Priest EP09
+http://bit.ly/2lTU1Bk
+#EXTINF:0 tvg-logo="http://bit.ly/2kLNpVs" group-title="Series",Priest EP10
+http://bit.ly/2lVIL7x
+#EXTINF:0 tvg-logo="http://bit.ly/2kLNpVs" group-title="Series",Priest EP11
+http://bit.ly/2meoA4Z
+#EXTINF:0 tvg-logo="http://bit.ly/2kLNpVs" group-title="Series",Priest EP12
+http://bit.ly/2kK1sLm
+#EXTINF:0 tvg-logo="http://bit.ly/2kLNpVs" group-title="Series",Priest EP13
+http://bit.ly/2mhfODq
+#EXTINF:0 tvg-logo="http://bit.ly/2kLNpVs" group-title="Series",Priest EP14
+http://bit.ly/2m96gKu
+#EXTINF:0 tvg-logo="http://bit.ly/2kLNpVs" group-title="Series",Priest EP15
+http://bit.ly/2lVIEc7
+#EXTINF:0 tvg-logo="http://bit.ly/2kLNpVs" group-title="Series",Priest EP16
+http://bit.ly/2mgnWnI
