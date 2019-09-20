@@ -1,6 +1,8 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2msCmkL" group-title="Movies",Gatao-2
+http://bit.ly/2kHHd0Z
 #EXTINF:0 tvg-logo="http://bit.ly/2m4d8J0" group-title="Movies",Deadpool
 http://bit.ly/2mqehej
 #EXTINF:0 tvg-logo="http://bit.ly/2kUKU3o" group-title="Movies",Deadpool2
