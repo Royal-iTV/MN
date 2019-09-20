@@ -1,6 +1,18 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2kTIJNt" group-title="Movies",Resident Evil
+http://bit.ly/2kUyrN6
+#EXTINF:0 tvg-logo="http://bit.ly/2kHILbj" group-title="Movies",Resident Evil:Apocalypse
+http://bit.ly/2lZpS3M
+#EXTINF:0 tvg-logo="http://bit.ly/2kUadCF" group-title="Movies",Resident Evil:Extinction
+http://bit.ly/2kWHInL
+#EXTINF:0 tvg-logo="http://bit.ly/2mrZlMM" group-title="Movies",Resident Evil:Afterlife
+http://bit.ly/2mm8XZf
+#EXTINF:0 tvg-logo="http://bit.ly/2mp1c4R" group-title="Movies",Resident Evil:Retribution
+http://bit.ly/2m6nubl
+#EXTINF:0 tvg-logo="http://bit.ly/2mp1nx3" group-title="Movies",Resident Evil:The Final Chapter
+http://bit.ly/2kUaTbb
 #EXTINF:0 tvg-logo="http://bit.ly/2msCmkL" group-title="Movies",Gatao-2
 http://bit.ly/2kHHd0Z
 #EXTINF:0 tvg-logo="http://bit.ly/2m4d8J0" group-title="Movies",Deadpool
