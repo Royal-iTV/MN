@@ -1,6 +1,10 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2m4d8J0" group-title="Movies",Deadpool
+http://bit.ly/2mqehej
+#EXTINF:0 tvg-logo="http://bit.ly/2kUKU3o" group-title="Movies",Deadpool2
+http://bit.ly/2mk5tqb
 #EXTINF:0 tvg-logo="http://bit.ly/2lWIq4D" group-title="Movies",Aladdin
 http://bit.ly/2mm1EB0
 #EXTINF:0 tvg-logo="http://bit.ly/2lMZVnY" group-title="Movies",Super 30
