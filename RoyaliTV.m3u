@@ -1,6 +1,8 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2kX8ufU" group-title="Movies",Passengers
+http://bit.ly/2kwA9Ej
 #EXTINF:0 tvg-logo="http://bit.ly/2kTIJNt" group-title="Movies",Resident Evil
 http://bit.ly/2kUyrN6
 #EXTINF:0 tvg-logo="http://bit.ly/2kHILbj" group-title="Movies",Resident Evil:Apocalypse
