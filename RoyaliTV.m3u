@@ -1,6 +1,11 @@
 
 #EXTM3U
-
+#EXTINF:0 tvg-logo="http://bit.ly/2m9kbQH" group-title="Movies",The Conjuring
+http://bit.ly/2m7ANby
+#EXTINF:0 tvg-logo="http://bit.ly/2kZyzL8" group-title="Movies",The Conjuring 2
+http://bit.ly/2m2os8G
+#EXTINF:0 tvg-logo="http://bit.ly/2lwR89W" group-title="Movies",Annabelle Comes Home
+http://bit.ly/2mWOR8f
 #EXTINF:0 tvg-logo="http://bit.ly/2kX8ufU" group-title="Movies",Passengers
 http://bit.ly/2kwA9Ej
 #EXTINF:0 tvg-logo="http://bit.ly/2kTIJNt" group-title="Movies",Resident Evil
