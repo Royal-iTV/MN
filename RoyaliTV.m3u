@@ -1,5 +1,11 @@
 
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2lDbX3H" group-title="Movies",Tolkien 
+http://bit.ly/2nkJeRv
+#EXTINF:0 tvg-logo="http://bit.ly/2nkKHqZ" group-title="Movies",Gantz:O
+http://bit.ly/2mPmNDE
+#EXTINF:0 tvg-logo="http://bit.ly/2maKVAS" group-title="Movies",The Intruder 
+http://bit.ly/2m9mmEp
 #EXTINF:0 tvg-logo="http://bit.ly/2m9kbQH" group-title="Movies",The Conjuring
 http://bit.ly/2m7ANby
 #EXTINF:0 tvg-logo="http://bit.ly/2kZyzL8" group-title="Movies",The Conjuring 2
