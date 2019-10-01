@@ -1,5 +1,11 @@
 
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2n7LNH5" group-title="Movies",Precious Cargo
+http://bit.ly/2o2Ddcy
+#EXTINF:0 tvg-logo="http://bit.ly/2mv3j7N" group-title="Movies",Transformers
+http://bit.ly/2oOoG4H
+#EXTINF:0 tvg-logo="http://bit.ly/2n7pscI" group-title="Movies",Crawl
+http://bit.ly/2oP8wYR
 #EXTINF:0 tvg-logo="http://bit.ly/2m6snl8" group-title="Movies",Detective Dee: The Four Heavenly Kings
 http://bit.ly/2ma369L
 #EXTINF:0 tvg-logo="http://bit.ly/2osPHuj" group-title="Movies",The Wolf Of Wall Street
