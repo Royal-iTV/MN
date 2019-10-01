@@ -401,7 +401,7 @@ http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Channel_7.png" group-title="TV",Channel 7
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Mahar_TV.png" group-title="TV",Mahar
+#EXTINF:-1 tvg-logo="http://bit.ly/2o7WtFr" group-title="TV",Mahar
 http://maharlive.b-cdn.net/stream.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Mitv.png" group-title="TV",Mitv
 http://220.158.149.14:9999/live/TV00000000000000000090@HHZT;LIVE
