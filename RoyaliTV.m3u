@@ -1,5 +1,9 @@
 
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2oIzQYF" group-title="Movies",Transformers: Age of Extinction
+http://bit.ly/2pHghR1
+#EXTINF:0 tvg-logo="http://bit.ly/2nhOq9e" group-title="Movies",Transformers: Dark of the Moon
+http://bit.ly/2oc6CBr
 #EXTINF:0 tvg-logo="http://bit.ly/2ossgkA" group-title="Movies",Transformers: Revenge of the Fallen
 http://bit.ly/2pe1ME3
 #EXTINF:0 tvg-logo="http://bit.ly/2mv3j7N" group-title="Movies",Transformers
