@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/352cUo5" group-title="Movies",Transformers: The Last Knight
+http://bit.ly/31ND1wP
 #EXTINF:0 tvg-logo="http://bit.ly/2oIzQYF" group-title="Movies",Transformers: Age of Extinction
 http://bit.ly/2pHghR1
 #EXTINF:0 tvg-logo="http://bit.ly/2nhOq9e" group-title="Movies",Transformers: Dark of the Moon
