@@ -2,6 +2,24 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://bit.ly/2IoYXqe" group-title="Movies",Line Walker 2:Invisible Spy
 http://bit.ly/2pP3zjn
+#EXTINF:0 tvg-logo="http://bit.ly/2oSEtzp" group-title="Movies",Thor
+http://bit.ly/2Vfwbh6
+#EXTINF:0 tvg-logo="http://bit.ly/2AL7nEg" group-title="Movies",Thor:The Dark World
+http://bit.ly/2oRhLI4
+#EXTINF:0 tvg-logo="http://bit.ly/2oW4M84" group-title="Movies",Thor:Ragnarok
+http://bit.ly/3321Mpl
+#EXTINF:0 tvg-logo="http://bit.ly/2LLNUtq" group-title="Movies",Wonder Woman
+http://bit.ly/2VjA5Wf
+#EXTINF:0 tvg-logo="http://bit.ly/2ofRenK" group-title="Movies",Toy Story
+http://bit.ly/30P525Y
+#EXTINF:0 tvg-logo="http://bit.ly/32Xh9iO" group-title="Movies",Toy Story 2
+http://bit.ly/2VbUOeK
+#EXTINF:0 tvg-logo="http://bit.ly/2IoRwQ8" group-title="Movies",Toy Story 3
+http://bit.ly/2Om7q1u
+#EXTINF:0 tvg-logo="http://bit.ly/2ImnRHa" group-title="Movies",Monster University
+http://bit.ly/2VbVBwe
+#EXTINF:0 tvg-logo="http://bit.ly/2OoLum7" group-title="Movies",Monsters Inc
+http://bit.ly/2VbVBwe
 #EXTINF:0 tvg-logo="http://bit.ly/2OnDoKA" group-title="Movies",Avengers:Endgame
 http://bit.ly/2o6qaYd
 #EXTINF:0 tvg-logo="http://bit.ly/2OjYQjB" group-title="Movies",Captain America:The First Avenger
