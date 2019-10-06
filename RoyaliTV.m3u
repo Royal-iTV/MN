@@ -1,8 +1,13 @@
 
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2m1SbOV" group-title="MTV",Madi အခ်စ္ျဖင့္လႊမ္းေစ
-http://bit.ly/2Itm8zR
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/10/06/plarsenalbournemouthwk8.jpg" group-title="Sport",Arsenal Vs Bournemount SD
+http://bit.ly/2pNY2t7
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/10/06/AAIfKgJ.jpg" group-title="Sport",Southampton Vs Chelsea SD
+http://bit.ly/2ol2kYx
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/10/06/plmancitywolveswk8.jpg" group-title="Sport",ManCity Vs Wolves SD
+http://bit.ly/2oTSyN2
+
 #EXTINF:0 tvg-logo="http://bit.ly/2oZrls9" group-title="Movies",Green Lantern:EMERALD KNIGHTS
 http://bit.ly/332MUa0
 #EXTINF:0 tvg-logo="http://bit.ly/2LSr3wy" group-title="Movies",Shaft
