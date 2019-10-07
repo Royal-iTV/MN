@@ -1,89 +1,22 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://bit.ly/2kFBIzJ" group-title="Mm",Up to Date
-http://bit.ly/2mdugMJ
-#EXTINF:0 tvg-logo="http://bit.ly/2m5wUUy" group-title="Mm",Hluttaw Live
-http://bit.ly/2m8QTBO
-#EXTINF:0 tvg-logo="http://bit.ly/2m5wUUy" group-title="Mm",Hluttaw
-http://bit.ly/2kGpmY8
-#EXTINF:0 tvg-logo="http://bit.ly/2kw4mDy" group-title="Mm",Cartoon
-http://bit.ly/2lJPWzU
-#EXTINF:0 tvg-logo="http://bit.ly/2kFAPHi" group-title="Mm",BabyTv
-http://bit.ly/2kgxKNS
-#EXTINF:0 tvg-logo="http://bit.ly/2kI7nQZ" group-title="Mm",NickJr
-http://bit.ly/2kw5OFY
-#EXTINF:0 tvg-logo="http://bit.ly/2m5xpOq" group-title="Mm",Nick
-http://bit.ly/2mdu1Bj
-#EXTINF:0 tvg-logo="http://bit.ly/2m8QHT6" group-title="Mm",BBC Earth
-http://bit.ly/2mdumE5
-#EXTINF:0 tvg-logo="http://bit.ly/2lNqw4f" group-title="Mm",Discovery Channel
-http://bit.ly/2m8QQWE
-#EXTINF:0 tvg-logo="http://bit.ly/2kIdyEF" group-title="Mm",HGTV
-http://bit.ly/2kdugLY
-#EXTINF:0 tvg-logo="http://bit.ly/2kgH5Ft" group-title="Mm",AFC
-http://bit.ly/2lJCtrR
 #EXTINF:0 tvg-logo="http://bit.ly/2kFIaXt" group-title="Mm",SKYNET Sport1
-http://bit.ly/2lKl9Ty
+https://live.dufree4k.net/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2lL7vzs" group-title="Mm",SKYNET Sport2
-http://bit.ly/2m8RbZq
+https://live.dufree4k.net/03_skynetsport2_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2kduGlD" group-title="Mm",SKYNET Sport3
-http://bit.ly/2lLqPws
+https://live.dufree4k.net/03_skynetsport3_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2lQcAq2" group-title="Mm",SKYNET Sport4
-http://bit.ly/2lQ9jXM
+https://live.dufree4k.net/03_skynetsport4_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2lNvX39" group-title="Mm",SKYNET Sport5
-http://bit.ly/2lRp8NT
+https://live.dufree4k.net/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2kdkiu1" group-title="Mm",SKYNET Sport6
-http://bit.ly/2kdgzg1
-#EXTINF:0 tvg-logo="http://bit.ly/2lRte8J" group-title="Mm",SKYNET Sport+
-http://bit.ly/2kxneSD
-#EXTINF:0 tvg-logo="http://bit.ly/2kdz4Rw" group-title="Mm",SKYNET Sport HD
-http://bit.ly/2kFEgxN
-#EXTINF:0 tvg-logo="http://bit.ly/2lQdJhk" group-title="Mm",Fox Sport1
-http://bit.ly/2kvQMQB
-#EXTINF:0 tvg-logo="http://bit.ly/2kbm12Y" group-title="Mm",Fox Sport2
-http://bit.ly/2lQ4ais
-#EXTINF:0 tvg-logo="http://bit.ly/2mesniZ" group-title="Mm",FOx Sport3
-http://bit.ly/2lNrz4b
-#EXTINF:0 tvg-logo="http://bit.ly/2kioQQ0" group-title="Mm",CNBC Golf
-http://bit.ly/2kw5hUw
-#EXTINF:0 tvg-logo="http://bit.ly/2lQemHI" group-title="Mm",EDGE Sport
-http://bit.ly/2lIvqiZ
-#EXTINF:0 tvg-logo="http://bit.ly/2kIdpB7" group-title="Mm",Euro Sport
-http://bit.ly/2kFE5CD
-#EXTINF:0 tvg-logo="http://bit.ly/2lL6rLY" group-title="Mm",Fight Sport
-http://bit.ly/2lPFVRO
-#EXTINF:0 tvg-logo="http://bit.ly/2meueEn" group-title="Mm",SKYNET Music
-http://bit.ly/2kFzhgB
-#EXTINF:0 tvg-logo="http://bit.ly/2kbjRQU" group-title="Mm",MTV Now
-http://bit.ly/2mcHbhY
-#EXTINF:0 tvg-logo="http://bit.ly/2lMqNV4" group-title="Mm",Netgeo People 
-http://bit.ly/2mdvpUx
-#EXTINF:0 tvg-logo="http://bit.ly/2kIkdi6" group-title="Mm",TLC 
-http://bit.ly/2kFEvJd
-#EXTINF:0 tvg-logo="http://bit.ly/2ktuyi5" group-title="Mm",Fashion One
-http://bit.ly/2lQ9Wk6
-#EXTINF:0 tvg-logo="http://bit.ly/2mcJv8G" group-title="Mm",Knowledge
-http://bit.ly/2lMIdkB
-#EXTINF:0 tvg-logo="http://bit.ly/2lQ8AWA" group-title="Mm",MTV live HD
-http://bit.ly/2merRRZ
-#EXTINF:0 tvg-logo="http://bit.ly/2mcJilU" group-title="Mm",NetgeoWild 
-http://bit.ly/2m7KUNz
-#EXTINF:0 tvg-logo="http://bit.ly/2lPI5AU" group-title="Mm",Animal Planet 
-http://bit.ly/2lJR2vw
-#EXTINF:0 tvg-logo="http://bit.ly/2kdsIBL" group-title="Mm",History 
-http://bit.ly/2kw6ZoS
-#EXTINF:0 tvg-logo="http://bit.ly/2kIOwp5" group-title="Mm",Cinemax 
-http://bit.ly/2kcDTdN
-#EXTINF:0 tvg-logo="http://bit.ly/2mctxvd" group-title="Mm",Fox Movies 
-http://bit.ly/2kdhgpD
-#EXTINF:0 tvg-logo="http://bit.ly/2kIjqOa" group-title="Mm",HBO
-http://bit.ly/2kIN9qr
-#EXTINF:0 tvg-logo="http://bit.ly/2mepD5b" group-title="Mm",Fox Action
-http://bit.ly/2kFzy37
-#EXTINF:0 tvg-logo="http://bit.ly/2kgzTco" group-title="Mm",FOX HD
-http://bit.ly/2lJRslA
-#EXTINF:0 tvg-logo="http://bit.ly/2lS6ohh" group-title="Mm",Drama
-http://bit.ly/2m7LxGV
-#EXTINF:0 tvg-logo="http://bit.ly/2ktt1IR" group-title="Mm",PayParView
-http://bit.ly/2lJDvUL
-#EXTINF:0 tvg-logo="http://bit.ly/2kdlkGx" group-title="Mm",World Drama
-http://bit.ly/2kbhw8A
+https://live.dufree4k.net/03_skynetsport6_480p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/2VluQ8D" group-title="Mm",True Premier HD2
+https://live.dufree4k.net/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2ItzWuh" group-title="Mm",True Premier HD3
+https://live.dufree4k.net/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2AQ6sm0" group-title="Mm",True Premier HD4
+https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2ANKakV" group-title="Mm",True Premier HD5
+https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
