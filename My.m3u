@@ -20,3 +20,16 @@ https://live.dufree4k.net/02_PremierHD3_720p/chunklist.m3u8
 https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2ANKakV" group-title="Mm",True Premier HD5
 https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/30Sxl3h" group-title="Mm",SportTV1
+http://213-167-154-155.netvarp.is/beint/sporttv1/mono.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/30Sxl3h" group-title="Mm",SportTV2
+http://213-167-154-115.netvarp.is/beint/sporttv2/mono.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/30Sxl3h" group-title="Mm",SportTV3
+http://213-167-154-115.netvarp.is/beint/sporttv3/mono.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/30Sxl3h" group-title="Mm",SportTV4
+http://213-167-154-115.netvarp.is/beint/sporttv4/mono.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/30Sxl3h" group-title="Mm",SportTV5
+http://213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/30Sxl3h" group-title="Mm",SportTV6
+http://213-167-154-115.netvarp.is/beint/sporttv6/mono.m3u8
