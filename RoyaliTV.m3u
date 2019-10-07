@@ -295,48 +295,6 @@ http://bit.ly/2mjmJMo
 
 #EXTINF:0 tvg-logo="" group-title="Sport",RTM Sport
 http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist_b3696000.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2lz4h2n" group-title="Sport",MY:Astro Sport1
-http://mu02.v2iptv.com:8880/ZH12M001019/hh8219w4/1722
-#EXTINF:0 tvg-logo="http://bit.ly/2lYIktP" group-title="Sport",MY:Astro Sport2
-http://mu02.v2iptv.com:8880/ZH12M001019/hh8219w4/1721
-#EXTINF:0 tvg-logo="http://bit.ly/2n2Yfrd" group-title="Sport",MY:Astro Sport3
-http://mu02.v2iptv.com:8880/ZH12M001019/hh8219w4/1720
-#EXTINF:0 tvg-logo="http://bit.ly/2m1bQiF" group-title="Sport",MY:Astro Sport4
-http://mu02.v2iptv.com:8880/ZH12M001019/hh8219w4/1719
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/super-soccor.jpg" group-title="Sport",Super Soccer
-http://210.210.155.35/uq2663/h/h20/index.m3u8?rizkizakaria-SuperSoccer-join-telegram=@iptvondemand
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/hd.jpg" group-title="Sport",BeinSport HD
-http://185.246.209.109:8080/BEIN1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/Bein1.png" group-title="Sport",BeinSport 1HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/04/30/bein-2.png" group-title="Sport",BeinSport2HD
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/BeIN_Sports_3_HD.png" group-title="Sport",BeinSport3HD
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/444444.png" group-title="Sport",BeinSport4HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/bein-5.png" group-title="Sport",BeinSport5HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/BLaliga.jpg" group-title="Sport",BeinSport Laliga
-http://23.237.22.82:8086/udp/127.0.0.1:56022
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/444444.png" group-title="Sport",BeinSport4HD
-http://zeusplayer.club/live/247/beINSports/bein4-hq.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/bein-5.png" group-title="Sport",BeinSport5HD
-http://zeusplayer.club/live/247/beINSports/bein5-hq.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/bein_sports_06_hd.png" group-title="Sport",BeinSport 6HD
-http://zeusplayer.club/live/247/beINSports/bein6-hq.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/bein_sports_07_hd.png" group-title="Sport",BeinSport 7HD
-http://zeusplayer.club/live/247/beINSports/bein7-hq.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/bein8.png" group-title="Sport",BeinSport 8HD
-http://zeusplayer.club/live/247/beINSports/bein8-hq.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/Bein-sport-9.png" group-title="Sport",BeinSport 9HD
-http://zeusplayer.club/live/247/beINSports/bein9-hq.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/Bein-sport-10.png" group-title="Sport",BeinSport 10HD
-http://zeusplayer.club/live/247/beINSports/bein10-hq.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/Bein-Sports-11.jpg" group-title="Sport",BeinSport 11HD
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD11.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/Bein-Sport-12.png" group-title="Sport",BeinSport 12HD
-http://zeusplayer.club/live/247/beINSports/bein12-hq.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/26/setanta-sport1.png" group-title="Sport",Sentana Sport 1
 http://ott-cdn.ucom.am/s81/index.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/26/setanta-sport2.jpg" group-title="Sport",Sentana Sport 2
@@ -383,10 +341,6 @@ http://185.246.209.109:8080/MSG/index.m3u8
 http://185.246.209.109:8080/NBA9/index.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/NHL_Network_2012.jpg" group-title="Sport",NHL Network
 http://185.246.209.109:8080/NHL_NETWORK/index.m3u8
-#EXTINF:0 tvg-logo=" " group-title="Sport",NWCT
-http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Orange_Sport.png" group-title="Sport",Orange Sport
-http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/SBS-Golf.gif" group-title="Golf",SBS Golf 
 http://122.129.115.21:1935/edgedol/_definst_/tao128/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Golf",NBC Golf 
