@@ -1,6 +1,10 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2OuALXn" group-title="Movies",Furie
+http://bit.ly/2AV7bCG
+#EXTINF:0 tvg-logo="http://bit.ly/2ARx723" group-title="Movies",Isabelle
+http://bit.ly/2oZoxeO
 #EXTINF:0 tvg-logo="http://bit.ly/2ARysWC" group-title="Movies",The Incredibles
 http://bit.ly/2VgYcFc
 #EXTINF:0 tvg-logo="http://bit.ly/2ItKrOa" group-title="Movies",The Incredibles 2
