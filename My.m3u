@@ -1,4 +1,44 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2LXTIQJ " group-title="Sport",Sport.tv1
+https://goool7.ws/lba/123/g6/tv1pt.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2p6Wj1B" group-title="Sport",Sport.tv2
+https://goool7.ws/lba/123/g1/sport2port.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Ms7gTs" group-title="Sport",Sport.tv3
+https://goool7.ws/lba/123/g2/pt3sport.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Or34pE" group-title="Sport",Sport.tv4
+https://goool7.ws/lba/123/g9/portugalsport4.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2AQJ0oH" group-title="Sport",Sport.tv5
+https://goool7.ws/lba/123/g8/ptsport5.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/31WiIgX" group-title="Sport",Arena Sport1
+https://goool7.ws/lba/123/g6/arena1rs.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Ovo6n6" group-title="Sport",Arena Sport2
+https://goool7.ws/lba/123/g7/arena2sport.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2pNvS1k" group-title="Sport",Arena Sport3
+https://goool7.ws/lba/123/g1/sportarena3rs.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/338rqIQ" group-title="Sport",Arena Sport
+https://goool7.ws/lba/123/g3/arenaserbia4.m3u84
+#EXTINF:0 tvg-logo="http://bit.ly/2MttiFI" group-title="Sport",Arena Sport5
+https://goool7.ws/lba/123/g7/ar5sport.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/2Osjazu" group-title="Sport",BT Sport 1
+https://goool7.ws/lba/123/g2/btuk1.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2ooD5Vo" group-title="Sport",BT Sport 2
+https://goool7.ws/lba/123/g3/ukbt2sport.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2MiBWqk" group-title="Sport",BT Sport 3
+https://goool7.ws/lba/123/g6/3btsporteu.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Sport",Mengkacak Sport1
+https://goool7.ws/lba/123/g6/ukrfoot1.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sport",Mengkacak Sport2
+https://goool7.ws/lba/123/g1/football2ukraine.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/2oezBow" group-title="Sport",SuperSport 2
+https://goool7.ws/lba/123/g2/ss2al.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/31Yrpaf" group-title="Sport",SuperSport 3
+https://goool7.ws/lba/123/g8/albaniasport3.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2LY79jq" group-title="Sport",SuperSport 4
+https://goool7.ws/lba/123/g10/super4sport.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2kFIaXt" group-title="Mm",SKYNET Sport1
 https://live.dufree4k.net/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2lL7vzs" group-title="Mm",SKYNET Sport2
