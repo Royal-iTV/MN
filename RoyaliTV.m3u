@@ -1,6 +1,9 @@
 
 #EXTM3U
-
+#EXTINF:0 tvg-logo="http://bit.ly/2MsTLCW" group-title="Movies",Critters Attack! (2019)
+http://bit.ly/35i1EE7
+#EXTINF:0 tvg-logo="http://bit.ly/3102C4y" group-title="Movies",Homestay (2018)
+http://bit.ly/2IxRS7a
 #EXTINF:0 tvg-logo="http://bit.ly/2OuALXn" group-title="Movies",Furie
 http://bit.ly/2AV7bCG
 #EXTINF:0 tvg-logo="http://bit.ly/2ARx723" group-title="Movies",Isabelle
