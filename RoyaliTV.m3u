@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2AYavNd" group-title="Movies",Jackie Chan Movies
+http://bit.ly/324mJQm
 #EXTINF:0 tvg-logo="http://bit.ly/35na39j" group-title="Movies",Running with the Devil (2019)
 http://bit.ly/33iyq6c
 #EXTINF:0 tvg-logo="http://bit.ly/2MsTLCW" group-title="Movies",Critters Attack! (2019)
