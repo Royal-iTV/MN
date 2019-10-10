@@ -300,6 +300,9 @@ http://bit.ly/2mjkHfe
 #EXTINF:0 tvg-logo="http://bit.ly/2kBzyBn" group-title="Movies",So Close
 http://bit.ly/2mjmJMo
 
+#EXTINF:0 tvg-logo="http://bit.ly/2kdz4Rw" group-title="Mm",SKYNET Sport HD
+https://live.youlive-cdn.com/03_skynetsporthd_720p/chunklist.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="Sport",RTM Sport
 http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist_b3696000.m3u8
