@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/Bein1.png" group-title="Sport",BeinSport 1HD
 http://185.180.221.217:2082/live/4lkjlksd_hlhjfklsdfdfd/6OoVFXJeKU/1.ts
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/04/30/bein-2.png" group-title="Sport",BeinSport2HD
