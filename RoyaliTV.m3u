@@ -307,73 +307,73 @@ http://bit.ly/2mjkHfe
 #EXTINF:0 tvg-logo="http://bit.ly/2kBzyBn" group-title="Movies",So Close
 http://bit.ly/2mjmJMo
 
-#EXTINF:-1 tvg-ID="" tvg-name="AXN" group-title="TV" tvg-logo="https://stream.co.id/img/axn.png", ID: AXN
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/axn.png" group-title="TV",AXN
 https://delivery.macan.live/stream/id_axn/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="Sony ONE" group-title="TV" tvg-logo="https://stream.co.id/img/sonyone.png", ID: Sony One
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/sonyone.png" group-title="TV",Sony One
 https://delivery.macan.live/stream/sonyone/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="Arirang" group-title="TV" tvg-logo="https://stream.co.id/img/arirang.png", ID: Arirang
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/arirang.png" group-title="TV",Arirang
 https://delivery.macan.live/stream/arirang/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="FOX" group-title="TV" tvg-logo="https://stream.co.id/img/fox.png", ID: FOX
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/fox.png" group-title="TV",FOX
 https://delivery.macan.live/stream/id_fox/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Crime" group-title="TV" tvg-logo="https://stream.co.id/img/fox_crime.png", ID: FOX Crime
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/fox_crime.png" group-title="TV",FOX Crime
 https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Life" group-title="TV" tvg-logo="https://stream.co.id/img/fox_life.png", ID: FOX Life (ex. Star World)
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/fox_life.png" group-title="TV",FOX Life
 https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Movies Premium" group-title="TV" tvg-logo="https://stream.co.id/img/fox_movies_premium.png", ID: FOX Movies Premium
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/fox_movies_premium.png" group-title="TV",FOX Movies Premium
 https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Action Movies" group-title="TV" tvg-logo="https://stream.co.id/img/fox_action_movies.png", ID: FOX Action Movies
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/fox_action_movies.png" group-title="TV",FOX Action Movies
 https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Family Movies" group-title="TV" tvg-logo="https://stream.co.id/img/fox_family_movies.png", ID: FOX Family Movies
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/fox_family_movies.png" group-title="TV",FOX Family Movies
 https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="TEST: HBO" group-title="TV" tvg-logo="https://stream.co.id/img/hbo.png", TEST: HBO HD (English)
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/hbo.png" group-title="TV",HBO HD (English)
 https://delivery.macan.live/stream/hbo_en/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="TEST: HBO" group-title="TV" tvg-logo="https://stream.co.id/img/hbo_family.png", TEST: HBO Family HD (English)
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/hbo_family.png" group-title="TV",HBO Family HD(English)
 https://delivery.macan.live/stream/hbo_family_en/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="TEST: HBO" group-title="TV" tvg-logo="https://stream.co.id/img/hbo_hits.png", TEST: HBO Hits HD (English)
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/hbo_hits.png" group-title="TV",HBO Hits HD(English)
 https://delivery.macan.live/stream/hbo_hits_en/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="TEST: HBO" group-title="TV" tvg-logo="https://stream.co.id/img/hbo_signature.png", TEST: HBO Signature HD (English)
+#EXTINF:-1 tvg-ID="" tvg-logo="https://stream.co.id/img/hbo_signature.png" group-title="TV",HBO Signature HD (English)
 https://delivery.macan.live/stream/hbo_signature_en/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="TEST: HBO" group-title="TV" tvg-logo="https://stream.co.id/img/red_hbo.png", TEST: RED by HBO HD (English)
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/red_hbo.png" group-title="TV",RED by HBO HD(English)
 https://delivery.macan.live/stream/red_hbo_en/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="TEST: HBO" group-title="TV" tvg-logo="https://stream.co.id/img/cinemaxa.png", TEST: Cinemax by HBO (English)
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/cinemaxa.png" group-title="TV",Cinemax by HBO(English)
 https://delivery.macan.live/stream/cinemax/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="Star Chinese Movies" group-title="TV" tvg-logo="https://stream.co.id/img/star_chinese_movies.png", ID: Star Chinese Movies
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/star_chinese_movies.png" group-title="TV",Star Chinese Movies
 https://delivery.macan.live/stream/id_scm/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="FX" group-title="TV" tvg-logo="https://stream.co.id/img/fx.png", ID: FX
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/fx.png" group-title="TV",FX
 https://delivery.macan.live/stream/id_fx/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="Channel V. Int" group-title="TV" tvg-logo="https://stream.co.id/img/channel_v_int.png", ID: Channel V. Int
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/channel_v_int.png"group-title="TV",Channel [V]
 https://delivery.macan.live/stream/id_channelv/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="tvN" group-title="TV" tvg-logo="https://stream.co.id/img/tvn.png", ID: tvN
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/tvn.png" group-title="TV",tvN
 https://delivery.macan.live/stream/id_tvn/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="Sony GEM TV" group-title="TV" tvg-logo="https://stream.co.id/img/gem.jpg", ID: Sony GEM TV
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/gem.jpg" group-title="TV",Sony GEM TV
 https://delivery.macan.live/stream/id_gem/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="AFC" group-title="TV" tvg-logo="https://stream.co.id/img/afc.png", ID: AFC
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/afc.png" group-title="TV",AFC
 https://delivery.macan.live/stream/id_afc/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="NHK World" group-title="News" tvg-logo="https://stream.co.id/img/nhk_world.png", ID: NHK World
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/nhk_world.png" group-title="TV",NHK World
 https://delivery.macan.live/stream/id_nhkworld/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="BBC World News" group-title="News" tvg-logo="https://stream.co.id/img/bbc_world_news.png", ID: BBC World News
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/bbc_world_news.png" group-title="TV",BBC World News
 https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="Channel News Asia" group-title="News" tvg-logo="https://stream.co.id/img/cna.png", ID: Channel News Asia
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/cna.png" group-title="TV",Channel News Asia
 https://delivery.macan.live/stream/id_tvn/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="Bloomberg" group-title="News" tvg-logo="https://stream.co.id/img/bloomberg.png", ID: Bloomberg
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/bloomberg.png" group-title="TV",Bloomberg
 https://delivery.macan.live/stream/id_tvn/index.m3u8?token=zaltv-free
-tvg-ID="" tvg-name="Disney Channel" group-title="Kids" tvg-logo="https://stream.co.id/img/disneychannel.png", ID: Disney Channel
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/disneychannel.png" group-title="TV",Disney Channel
 https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="Disney Junior" group-title="Kids" tvg-logo="https://stream.co.id/img/disneyjunior.png", ID: Disney Junior
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/disneyjunior.png" group-title="TV",Disney Junior
 https://delivery.macan.live/stream/disneyjunior/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="Animax" group-title="TV" tvg-logo="https://stream.co.id/img/animax.png", ID: Animax
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/animax.png" group-title="TV",Animax
 https://delivery.macan.live/stream/id_animax/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" group-title="TV" tvg-logo="https://stream.co.id/img/animalplanet.png", ID: Animal Planet
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/animalplanet.png" group-title="TV",Animal Planet
 https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" group-title="TV" tvg-logo="https://stream.co.id/img/discoverychannel.png", ID: Discovery Channel
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/discoverychannel.png" group-title="TV",Discovery Channel
 https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Asia" group-title="TV" tvg-logo="https://stream.co.id/img/discoveryasia.png", ID: Discovery Asia
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/discoveryasia.png" group-title="TV",Discovery Asia
 https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo People" group-title="TV" tvg-logo="https://stream.co.id/img/natgeopeople.png", ID: Nat Geo People
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/natgeopeople.png" group-title="TV",Nat Geo People
 https://delivery.macan.live/stream/id_netgeopeople/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Wild" group-title="TV" tvg-logo="https://stream.co.id/img/natgeowild.png", ID: Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/natgeowild.png" group-title="TV",Nat Geo Wild
 https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=zaltv-free
-#EXTINF:-1 tvg-ID="" tvg-name="National Geographic" group-title="TV" tvg-logo="https://stream.co.id/img/ngc.png", ID: National Geographic
+#EXTINF:-1 group-title="TV" tvg-logo="https://stream.co.id/img/ngc.png" group-title="TV",National Geographic
 https://delivery.macan.live/stream/id_ngc/index.m3u8?token=zaltv-free
 
 
