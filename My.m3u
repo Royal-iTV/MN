@@ -1,4 +1,25 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/Bein1.png" group-title="Sport",BeinSport 1HD
+http://185.180.221.217:2082/live/4lkjlksd_hlhjfklsdfdfd/6OoVFXJeKU/1.ts
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/04/30/bein-2.png" group-title="Sport",BeinSport2HD
+http://185.180.221.217:2082/live/4lkjlksd_hlhjfklsdfdfd/6OoVFXJeKU/2.ts
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/BeIN_Sports_3_HD.png" group-title="Sport",BeinSport3HD
+http://185.180.221.217:2082/live/4lkjlksd_hlhjfklsdfdfd/6OoVFXJeKU/3.ts
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/444444.png" group-title="Sport",BeinSport4HD
+http://185.180.221.217:2082/live/4lkjlksd_hlhjfklsdfdfd/6OoVFXJeKU/4.ts
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/bein-5.png" group-title="Sport",BeinSport5HD
+http://185.180.221.217:2082/live/4lkjlksd_hlhjfklsdfdfd/6OoVFXJeKU/5.ts
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/bein_sports_06_hd.png" group-title="Sport",BeinSport 6HD
+http://185.180.221.217:2082/live/4lkjlksd_hlhjfklsdfdfd/6OoVFXJeKU/6.ts
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/bein_sports_07_hd.png" group-title="Sport",BeinSport 7HD
+http://185.180.221.217:2082/live/4lkjlksd_hlhjfklsdfdfd/6OoVFXJeKU/21.ts
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/bein8.png" group-title="Sport",BeinSport 8HD
+http://185.180.221.217:2082/live/4lkjlksd_hlhjfklsdfdfd/6OoVFXJeKU/22.ts
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/Bein-sport-9.png" group-title="Sport",BeinSport 9HD
+http://185.180.221.217:2082/live/4lkjlksd_hlhjfklsdfdfd/6OoVFXJeKU/23.ts
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/Bein-sport-10.png" group-title="Sport",BeinSport 10HD
+http://185.180.221.217:2082/live/4lkjlksd_hlhjfklsdfdfd/6OoVFXJeKU/35.ts
+
 #EXTINF:0 tvg-logo="http://bit.ly/2LXTIQJ " group-title="Sport",Sport.tv1
 https://goool7.ws/lba/123/g6/tv1pt.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2p6Wj1B" group-title="Sport",Sport.tv2
