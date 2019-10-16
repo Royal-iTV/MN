@@ -1,6 +1,12 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="" group-title="Movies",CHOW YUN FAT Movies
+http://bit.ly/2VPigii
+#EXTINF:0 tvg-logo="" group-title="Movies",MR BEAN Movies
+http://bit.ly/2pk4iZr
+#EXTINF:0 tvg-logo="" group-title="Movies",JET LE Movies
+http://bit.ly/2MJhhMd
 #EXTINF:0 tvg-logo="http://bit.ly/2AYavNd" group-title="Movies",Jackie Chan Movies
 http://bit.ly/324mJQm
 #EXTINF:0 tvg-logo="http://bit.ly/316rwiI" group-title="Movies",Stephen Chow Movies
