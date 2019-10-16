@@ -350,6 +350,8 @@ https://delivery.macan.live/stream/id_afc/index.m3u8?token=zaltv-free
 #EXTINF:-1 tvg-logo="https://stream.co.id/img/nhk_world.png" group-title="TV",NHK World
 https://delivery.macan.live/stream/id_nhkworld/index.m3u8?token=zaltv-free
 
+#EXTINF:0 tvg-logo="http://bit.ly/2kdz4Rw" group-title="TV",Sport HD
+https://tv.xpeer-cdn.com/03_skynetsporthd_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
