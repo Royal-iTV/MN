@@ -335,8 +335,23 @@ http://bit.ly/2mjkHfe
 #EXTINF:0 tvg-logo="http://bit.ly/2kBzyBn" group-title="Movies",So Close
 http://bit.ly/2mjmJMo
 
-#EXTINF:-1 tvg-logo="https://stream.co.id/img/axn.png" group-title="TV",AXN
-https://live.youlive-cdn.com/02_AXNHD_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/2kFIaXt" group-title="Mm",SKYNET Sport1
+http://221.178.148.115:9981/stream/channelid/2131729618?profile=pass
+#EXTINF:0 tvg-logo="http://bit.ly/2lL7vzs" group-title="Mm",SKYNET Sport2
+http://221.178.148.115:9981/stream/channelid/995885125?profile=pass
+#EXTINF:0 tvg-logo="http://bit.ly/2kduGlD" group-title="Mm",SKYNET Sport3
+http://221.178.148.115:9981/stream/channelid/1592443304?profile=pass
+#EXTINF:0 tvg-logo="http://bit.ly/2lQcAq2" group-title="Mm",SKYNET Sport4
+http://221.178.148.115:9981/stream/channelid/774721098?profile=pass
+#EXTINF:0 tvg-logo="http://bit.ly/2lNvX39" group-title="Mm",SKYNET Sport5
+http://221.178.148.115:9981/stream/channelid/426904342?profile=pass
+#EXTINF:0 tvg-logo="http://bit.ly/2kdkiu1" group-title="Mm",SKYNET Sport6
+http://221.178.148.115:9981/stream/channelid/285699748?profile=pass
+#EXTINF:0 tvg-logo="http://bit.ly/2lRte8J" group-title="Mm",SKYNET Sport+
+http://221.178.148.115:9981/stream/channelid/768345644?profile=pass
+#EXTINF:0 tvg-logo="http://bit.ly/2kdz4Rw" group-title="Mm",SKYNET Sport HD
+http://221.178.148.115:9981/stream/channelid/2013868628?profile=pass
 
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
