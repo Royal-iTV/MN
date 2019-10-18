@@ -343,6 +343,15 @@ http://bit.ly/2mjkHfe
 #EXTINF:0 tvg-logo="http://bit.ly/2kBzyBn" group-title="Movies",So Close
 http://bit.ly/2mjmJMo
 
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/axn.png" group-title="TV",AXN
+http://nitro.ltd:25461/live/Andy/Andy/39217.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2m8QHT6" group-title="TV",BBC Earth
+http://nitro.ltd:25461/live/Andy/Andy/38851.m3u8
+#EXTINF:-1 tvg-logo="https://stream.co.id/img/hbo.png" group-title="TV",HBO HD (English)
+http://nitro.ltd:25461/live/Andy/Andy/39075.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2kIkdi6" group-title="TV",TLC 
+http://nitro.ltd:25461/live/Andy/Andy/38743.m3u8
+
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Destination
