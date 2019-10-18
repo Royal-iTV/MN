@@ -1,6 +1,14 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2oIeJGq" group-title="Movies",Baahubali:The Beginning
+http://bit.ly/35Lfcbu
+#EXTINF:0 tvg-logo="http://bit.ly/2BmBqCM" group-title="Movies",Baahubali 2:The Conclusion
+http://bit.ly/33Kg51V
+#EXTINF:0 tvg-logo="http://bit.ly/2MODyZb" group-title="Movies",The Mule (2018)
+http://bit.ly/35Ju0Yc
+#EXTINF:0 tvg-logo="http://bit.ly/2P7v9D5" group-title="Movies",The Hustle(2019)
+http://bit.ly/2OZAnR4
 #EXTINF:0 tvg-logo="http://bit.ly/31mc7uS" group-title="Movies",CHOW YUN FAT Movies
 http://bit.ly/2VPigii
 #EXTINF:0 tvg-logo="http://bit.ly/33uvN18" group-title="Movies",MR BEAN Movies
