@@ -61,30 +61,35 @@ https://goool7.ws/lba/123/g2/ss2al.m3u8
 https://goool7.ws/lba/123/g8/albaniasport3.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2LY79jq" group-title="Sport",SuperSport 4
 https://goool7.ws/lba/123/g10/super4sport.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2kFIaXt" group-title="Mm",SKYNET Sport1
-https://live.dufree4k.net/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2lL7vzs" group-title="Mm",SKYNET Sport2
-https://live.dufree4k.net/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2kduGlD" group-title="Mm",SKYNET Sport3
-https://live.dufree4k.net/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2lQcAq2" group-title="Mm",SKYNET Sport4
-https://live.dufree4k.net/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2lNvX39" group-title="Mm",SKYNET Sport5
-https://live.dufree4k.net/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2kdkiu1" group-title="Mm",SKYNET Sport6
-https://live.dufree4k.net/03_skynetsport6_480p/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="http://bit.ly/2kdz4Rw" group-title="Mm",SKYNET Sport HD
-https://live.youlive-cdn.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2kFIaXt" group-title="Sport",SKYNET Sport1
+http://221.178.148.115:9981/stream/channelid/2131729618?profile=pass
+#EXTINF:0 tvg-logo="http://bit.ly/2lL7vzs" group-title="Sport",SKYNET Sport2
+http://221.178.148.115:9981/stream/channelid/995885125?profile=pass
+#EXTINF:0 tvg-logo="http://bit.ly/2kduGlD" group-title="Sport",SKYNET Sport3
+http://221.178.148.115:9981/stream/channelid/1592443304?profile=pass
+#EXTINF:0 tvg-logo="http://bit.ly/2lQcAq2" group-title="Sport",SKYNET Sport4
+http://221.178.148.115:9981/stream/channelid/774721098?profile=pass
+#EXTINF:0 tvg-logo="http://bit.ly/2lNvX39" group-title="Sport",SKYNET Sport5
+http://221.178.148.115:9981/stream/channelid/426904342?profile=pass
+#EXTINF:0 tvg-logo="http://bit.ly/2kdkiu1" group-title="Sport",SKYNET Sport6
+http://221.178.148.115:9981/stream/channelid/285699748?profile=pass
+#EXTINF:0 tvg-logo="http://bit.ly/2lRte8J" group-title="Sport",SKYNET Sport+
+http://221.178.148.115:9981/stream/channelid/768345644?profile=pass
+#EXTINF:0 tvg-logo="http://bit.ly/2kdz4Rw" group-title="Sport",SKYNET Sport HD
+http://221.178.148.115:9981/stream/channelid/2013868628?profile=pass
 
-#EXTINF:0 tvg-logo="http://bit.ly/2VluQ8D" group-title="Mm",True Premier HD2
-https://live.dufree4k.net/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2ItzWuh" group-title="Mm",True Premier HD3
-https://live.dufree4k.net/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2AQ6sm0" group-title="Mm",True Premier HD4
-https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2ANKakV" group-title="Mm",True Premier HD5
-https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/2P4aD6i" group-title="Sport",True Premier HD1
+https://tv.xpeer-cdn.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2VluQ8D" group-title="Sport",True Premier HD2
+https://tv.xpeer-cdn.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2ItzWuh" group-title="Sport",True Premier HD3
+https://tv.xpeer-cdn.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2AQ6sm0" group-title="Sport",True Premier HD4
+https://tv.xpeer-cdn.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2ANKakV" group-title="Sport",True Premier HD5
+https://tv.xpeer-cdn.com/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/30Sxl3h" group-title="Mm",SportTV1
 http://213-167-154-155.netvarp.is/beint/sporttv1/mono.m3u8
