@@ -1,17 +1,6 @@
 
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2P4aD6i" group-title="Sport",True Premier HD1
-https://tv.xpeer-cdn.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2VluQ8D" group-title="Sport",True Premier HD2
-https://tv.xpeer-cdn.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2ItzWuh" group-title="Sport",True Premier HD3
-https://tv.xpeer-cdn.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2AQ6sm0" group-title="Sport",True Premier HD4
-https://tv.xpeer-cdn.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2ANKakV" group-title="Sport",True Premier HD5
-https://tv.xpeer-cdn.com/02_PremierHD5_720p/chunklist.m3u8
-
 #EXTINF:0 tvg-logo="http://bit.ly/2oIeJGq" group-title="Movies",Baahubali:The Beginning
 http://bit.ly/35Lfcbu
 #EXTINF:0 tvg-logo="http://bit.ly/2BmBqCM" group-title="Movies",Baahubali 2:The Conclusion
@@ -362,6 +351,17 @@ http://nitro.ltd:25461/live/Andy/Andy/38851.m3u8
 http://nitro.ltd:25461/live/Andy/Andy/39075.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2kIkdi6" group-title="TV",TLC 
 http://nitro.ltd:25461/live/Andy/Andy/38743.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/2P4aD6i" group-title="Sport",True Premier HD1
+https://tv.xpeer-cdn.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2VluQ8D" group-title="Sport",True Premier HD2
+https://tv.xpeer-cdn.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2ItzWuh" group-title="Sport",True Premier HD3
+https://tv.xpeer-cdn.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2AQ6sm0" group-title="Sport",True Premier HD4
+https://tv.xpeer-cdn.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2ANKakV" group-title="Sport",True Premier HD5
+https://tv.xpeer-cdn.com/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
