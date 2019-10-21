@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2kdz4Rw" group-title="Sport" parent-code="123451",SKYNET Sport HD
+http://221.178.148.115:9981/stream/channelid/2013868628?profile=pass
+
 #EXTINF:0 tvg-logo="http://bit.ly/2MtNIiY" group-title="Movies",The Girl with the Dragon Tattoo
 http://bit.ly/32wOEJ0
 #EXTINF:0 tvg-logo="http://bit.ly/2P16xM4" group-title="Movies",Scary Stories to Tell in the Dark
