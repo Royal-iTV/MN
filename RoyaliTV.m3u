@@ -424,6 +424,39 @@ https://tv.xpeer-cdn.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2ANKakV" group-title="Sport",True Premier HD5
 https://tv.xpeer-cdn.com/02_PremierHD5_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SfrIYx3.png" group-title="SPORT", BEIN SPORTS 1 UAE
+http://95.170.215.121/hls/m3u8/Bein-Sport-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYePXKu.png" group-title="SPORT", BEIN SPORTS 2 UAE
+http://95.170.215.121/hls/m3u8/Bein-Sport-2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qssU1tn.png" group-title="SPORT", BEIN SPORTS 3 UAE
+http://95.170.215.121/hls/m3u8/Bein-Sport-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOeS4hE.png" group-title="SPORT", BEIN SPORTS 4 UAE
+http://95.170.215.121/hls/m3u8/Bein-Sport-4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TwB4TSE.png" group-title="SPORT", BEIN SPORTS 5 UAE
+http://95.170.215.121/hls/m3u8/Bein-Sport-5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q0z3pTs.png" group-title="SPORT", BEIN SPORTS 6 UAE
+http://95.170.215.121/hls/m3u8/Bein-Sport-6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Egit7W.png" group-title="SPORT", BEIN SPORTS 7 UAE
+http://95.170.215.121/hls/m3u8/Bein-Sport-7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AOK73fI.png" group-title="SPORT", BEIN SPORTS 8 UAE
+http://95.170.215.121/hls/m3u8/Bein-Sport-8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/er21rbn.png" group-title="SPORT", BEIN SPORTS 9 UAE
+http://95.170.215.121/hls/m3u8/Bein-Sport-9.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JqqfCwP.png" group-title="SPORT", BEIN SPORTS 10 
+http://95.170.215.121/hls/m3u8/Bein-Sport-10.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oCCySQU.png" group-title="SPORT", BEIN SPORTS 11 
+http://95.170.215.121/hls/m3u8/Bein-Sport-11.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KlwnE1k.png" group-title="SPORT", BEIN SPORTS 12 
+http://95.170.215.121/hls/m3u8/Bein-Sport-12.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CXpAoYj.png" group-title="SPORT", BEIN SPORTS 13 
+http://95.170.215.121/hls/m3u8/Bein-Sport-13.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cr4BmJY.png" group-title="SPORT", BEIN SPORTS 14 
+http://95.170.215.121/hls/m3u8/Bein-Sport-14.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHFiLUL.png" group-title="SPORT", BEIN SPORTS 15 
+http://95.170.215.121/hls/m3u8/Bein-Sport-15.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fiA6SqF.png" group-title="SPORT", BEIN SPORTS 16 
+http://95.170.215.121/hls/m3u8/Bein-Sport-16.m3u8
+
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Destination
