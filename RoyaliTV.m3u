@@ -1,6 +1,13 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/SBS-Golf.gif" group-title="Golf",SBS Golf 
+http://122.129.115.21:1935/edgedol/_definst_/tao128/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Golf",NBC Golf 
+http://54.39.124.28/pro.php/http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/jtbc-Golf.jpg" group-title="Golf",jtbc Golf 
+http://122.129.115.21:1935/edgedol/_definst_/tao129/playlist.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E01
 http://bit.ly/2MCFipA
 #EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E02
@@ -21,13 +28,6 @@ https://www.dl.dropboxusercontent.com/s/wdkumeasejk1dfm/Nezha.mp4
 https://dl.dropboxusercontent.com/s/hfopf0a9loo4iz4/Eli.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2qBFk8J" group-title="Movies",The Battle:Roar to Victory(2019)
 https://dl.dropboxusercontent.com/s/h3184nvjho8uuml/The%20Battle%20Roar%20To%20Victory.mp4?dl=0
-
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/SBS-Golf.gif" group-title="Golf",SBS Golf 
-http://122.129.115.21:1935/edgedol/_definst_/tao128/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Golf",NBC Golf 
-http://54.39.124.28/pro.php/http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/jtbc-Golf.jpg" group-title="Golf",jtbc Golf 
-http://122.129.115.21:1935/edgedol/_definst_/tao129/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2oyq5Nb" group-title="Series",Troll Hunter S01E01
 https://dl.dropboxusercontent.com/s/hmaiso1uy200bar/Trollhunters.S01E01.mp4
