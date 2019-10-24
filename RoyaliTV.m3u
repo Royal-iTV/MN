@@ -1,6 +1,11 @@
 
 #EXTM3U
-
+#EXTINF:0 tvg-logo="http://bit.ly/2pLSAXS" group-title="Movies",The Forest of Love(2019)
+http://bit.ly/32Iskw9
+#EXTINF:0 tvg-logo="http://bit.ly/32OSHAE" group-title="Movies",Missbehavior( 2019 )
+http://bit.ly/33Z77OK
+#EXTINF:0 tvg-logo="http://bit.ly/361OUln" group-title="Movies",The Kitchen(2019)
+http://bit.ly/2qGqfCK
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/SBS-Golf.gif" group-title="Golf",SBS Golf 
 http://122.129.115.21:1935/edgedol/_definst_/tao128/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Golf",NBC Golf 
