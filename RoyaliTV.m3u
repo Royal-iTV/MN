@@ -1,5 +1,16 @@
 
 #EXTM3U
+
+#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP1-2
+http://bit.ly/2NdLxyZ
+#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP3-4
+http://bit.ly/32HPPFv
+#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP5-6
+http://bit.ly/363KVol
+#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP7-8
+http://bit.ly/345CgQG
+#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP9-10
+http://bit.ly/2MMH1Zy
 #EXTINF:0 tvg-logo="http://bit.ly/2pLSAXS" group-title="Movies",The Forest of Love(2019)
 http://bit.ly/32Iskw9
 #EXTINF:0 tvg-logo="http://bit.ly/32OSHAE" group-title="Movies",Missbehavior( 2019 )
