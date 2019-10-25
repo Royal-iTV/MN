@@ -1,6 +1,8 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2PtK7DB" group-title="Movies",The Forbidden Kingdom
+http://bit.ly/2MKl11e
 #EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP1-2
 http://bit.ly/2NdLxyZ
 #EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP3-4
