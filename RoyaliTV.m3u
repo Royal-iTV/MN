@@ -1,52 +1,5 @@
 
 #EXTM3U
-
-#EXTINF:0 tvg-logo="http://bit.ly/2PtK7DB" group-title="Movies",The Forbidden Kingdom
-http://bit.ly/2MKl11e
-#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP1-2
-http://bit.ly/2NdLxyZ
-#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP3-4
-http://bit.ly/32HPPFv
-#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP5-6
-http://bit.ly/363KVol
-#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP7-8
-http://bit.ly/345CgQG
-#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP9-10
-http://bit.ly/2MMH1Zy
-#EXTINF:0 tvg-logo="http://bit.ly/2pLSAXS" group-title="Movies",The Forest of Love(2019)
-http://bit.ly/32Iskw9
-#EXTINF:0 tvg-logo="http://bit.ly/32OSHAE" group-title="Movies",Missbehavior( 2019 )
-http://bit.ly/33Z77OK
-#EXTINF:0 tvg-logo="http://bit.ly/361OUln" group-title="Movies",The Kitchen(2019)
-http://bit.ly/2qGqfCK
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/SBS-Golf.gif" group-title="Golf",SBS Golf 
-http://122.129.115.21:1935/edgedol/_definst_/tao128/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Golf",NBC Golf 
-http://54.39.124.28/pro.php/http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/jtbc-Golf.jpg" group-title="Golf",jtbc Golf 
-http://122.129.115.21:1935/edgedol/_definst_/tao129/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E01
-http://bit.ly/2MCFipA
-#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E02
-http://bit.ly/2pIZ4Xv
-#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E03
-http://bit.ly/2W3US0k
-#EXTINF:0 tvg-logo="http://bit.ly/2Bz0ZjM" group-title="Movies",Snow Flower And The Secret Fan
-http://bit.ly/2BBnJQm
-#EXTINF:0 tvg-logo="http://bit.ly/2MDjABR" group-title="Movies",Sweetheart(2019)
-https://dl.dropboxusercontent.com/s/3dbh3knjak4t9gg/SweetHeart.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2PaoXu2" group-title="Movies",The Bravest(2019)
-https://dl.dropboxusercontent.com/s/8ba6lwvbwyfxp4u/The%20Bravest.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2BylBZO" group-title="Movies",Saaho (2019)
-https://dl.dropboxusercontent.com/s/ah4qiu04iyxd5mh/SAAHO.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2qxXect" group-title="Movies",Ne Zha (2019)
-https://www.dl.dropboxusercontent.com/s/wdkumeasejk1dfm/Nezha.mp4
-#EXTINF:0 tvg-logo="http://bit.ly/35T3BqN" group-title="Movies",Eli(2019)
-https://dl.dropboxusercontent.com/s/hfopf0a9loo4iz4/Eli.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2qBFk8J" group-title="Movies",The Battle:Roar to Victory(2019)
-https://dl.dropboxusercontent.com/s/h3184nvjho8uuml/The%20Battle%20Roar%20To%20Victory.mp4?dl=0
-
 #EXTINF:0 tvg-logo="http://bit.ly/2oyq5Nb" group-title="Series",Troll Hunter S01E01
 https://dl.dropboxusercontent.com/s/hmaiso1uy200bar/Trollhunters.S01E01.mp4
 #EXTINF:0 tvg-logo="http://bit.ly/2oyq5Nb" group-title="Series",Troll Hunter S01E02
@@ -99,6 +52,106 @@ https://dl.dropboxusercontent.com/s/p3qmtvacvw2feba/Trollhunters.S01E24..mp4
 https://dl.dropboxusercontent.com/s/42kor3vxfalwnq2/Trollhunters.S01E25.mp4
 #EXTINF:0 tvg-logo="http://bit.ly/2oyq5Nb" group-title="Series",Troll Hunter S01E26
 https://dl.dropboxusercontent.com/s/r6cbp30bco0f5fj/Trollhunters.S01E26.mp4
+
+#EXTINF:0 tvg-logo="http://bit.ly/2JoJVSd" group-title="Series",Troll Hunter S02E01
+https://openload.co/stream/RB80W7dUcYo~1572157343~65.18.0.0~mbt-vDzT?mime=true
+#EXTINF:0 tvg-logo="http://bit.ly/2JoJVSd" group-title="Series",Troll Hunter S02E02
+https://openload.co/stream/NOdBBUnzAB0~1572160347~65.18.0.0~joJqeKs4?mime=true
+#EXTINF:0 tvg-logo="http://bit.ly/2JoJVSd" group-title="Series",Troll Hunter S02E03
+https://openload.co/stream/BeWkrjLO3YY~1572163789~65.18.0.0~5GJuXrlO?mime=true
+#EXTINF:0 tvg-logo="http://bit.ly/2JoJVSd" group-title="Series",Troll Hunter S02E04
+https://dl.dropboxusercontent.com/s/7ujjwkc2mw8y661/trollhunters.s02e04.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2JoJVSd" group-title="Series",Troll Hunter S02E05
+https://dl.dropboxusercontent.com/s/uw1uegnovxjbp4r/trollhunters.s02e05.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2JoJVSd" group-title="Series",Troll Hunter S02E06
+https://dl.dropboxusercontent.com/s/j3nj3hlkq9y3lvd/trollhunters.s02e06.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2JoJVSd" group-title="Series",Troll Hunter S02E07
+https://dl.dropboxusercontent.com/s/mhd21kl9zdnbtcq/trollhunters.s02e07.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2JoJVSd" group-title="Series",Troll Hunter S02E08
+https://dl.dropboxusercontent.com/s/yyqw8m1w11vrnjs/trollhunters.s02e08.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2JoJVSd" group-title="Series",Troll Hunter S02E09
+https://dl.dropboxusercontent.com/s/ptjcc754vm9rdek/trollhunters.s02e09.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2JoJVSd" group-title="Series",Troll Hunter S02E10
+https://dl.dropboxusercontent.com/s/9uak89ulmp1oeuo/trollhunters.s02e10.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2JoJVSd" group-title="Series",Troll Hunter S02E11
+https://dl.dropboxusercontent.com/s/g4cqi8g7mlldyq6/trollhunters.s02e11.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2JoJVSd" group-title="Series",Troll Hunter S02E12
+https://dl.dropboxusercontent.com/s/zt9ebjdel9robuf/trollhunters.s02e12.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2JoJVSd" group-title="Series",Troll Hunter S02E13
+https://dl.dropboxusercontent.com/s/joo4ljlaqq3hjli/trollhunters.s02e13.mp4?dl=0
+
+#EXTINF:0 tvg-logo="http://bit.ly/32Op1DB" group-title="Series",Troll Hunter S03E01
+https://dl.dropboxusercontent.com/s/dvg4t5l6vvnbzdq/Trollhunters.S03E01.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/32Op1DB" group-title="Series",Troll Hunter S03E02
+https://dl.dropboxusercontent.com/s/t5k3hsbuxkz18sb/Trollhunters.S03E02.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/32Op1DB" group-title="Series",Troll Hunter S03E03
+https://dl.dropboxusercontent.com/s/0ldp2vdjs688739/Trollhunters.S03E03.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/32Op1DB" group-title="Series",Troll Hunter S03E04
+https://dl.dropboxusercontent.com/s/pic2q5o26titlov/Trollhunters.S03E04.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/32Op1DB" group-title="Series",Troll Hunter S03E05
+https://dl.dropboxusercontent.com/s/ile8e2fudl5vusd/Trollhunters.S03E05.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/32Op1DB" group-title="Series",Troll Hunter S03E06
+https://dl.dropboxusercontent.com/s/wfqls7k9dbuatj8/Trollhunters.S03E06.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/32Op1DB" group-title="Series",Troll Hunter S03E07
+https://dl.dropboxusercontent.com/s/ct1gykq5lfc5lw6/Trollhunters.S03E07.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/32Op1DB" group-title="Series",Troll Hunter S03E08
+https://dl.dropboxusercontent.com/s/j9jfp9s2sqgyhem/Trollhunters.S03E08.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/32Op1DB" group-title="Series",Troll Hunter S03E09
+https://dl.dropboxusercontent.com/s/4kwlph6izkv95wu/Trollhunters.S03E09.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/32Op1DB" group-title="Series",Troll Hunter S03E10
+https://dl.dropboxusercontent.com/s/edj79vfzty8slwl/Trollhunters.S03E10.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/32Op1DB" group-title="Series",Troll Hunter S03E11
+https://dl.dropboxusercontent.com/s/8mlbyoblzh7wy2i/Trollhunters.S03E11.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/32Op1DB" group-title="Series",Troll Hunter S03E12
+https://dl.dropboxusercontent.com/s/9z72ewv6n152v78/Trollhunters.S03E12.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/32Op1DB" group-title="Series",Troll Hunter S03E13
+https://dl.dropboxusercontent.com/s/5jej7fh0k9jv6at/Trollhunters.S03E13.mp4?dl=0
+
+#EXTINF:0 tvg-logo="http://bit.ly/2PtK7DB" group-title="Movies",The Forbidden Kingdom
+http://bit.ly/2MKl11e
+#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP1-2
+http://bit.ly/2NdLxyZ
+#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP3-4
+http://bit.ly/32HPPFv
+#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP5-6
+http://bit.ly/363KVol
+#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP7-8
+http://bit.ly/345CgQG
+#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP9-10
+http://bit.ly/2MMH1Zy
+#EXTINF:0 tvg-logo="http://bit.ly/2pLSAXS" group-title="Movies",The Forest of Love(2019)
+http://bit.ly/32Iskw9
+#EXTINF:0 tvg-logo="http://bit.ly/32OSHAE" group-title="Movies",Missbehavior( 2019 )
+http://bit.ly/33Z77OK
+#EXTINF:0 tvg-logo="http://bit.ly/361OUln" group-title="Movies",The Kitchen(2019)
+http://bit.ly/2qGqfCK
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/SBS-Golf.gif" group-title="Golf",SBS Golf 
+http://122.129.115.21:1935/edgedol/_definst_/tao128/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Golf",NBC Golf 
+http://54.39.124.28/pro.php/http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/jtbc-Golf.jpg" group-title="Golf",jtbc Golf 
+http://122.129.115.21:1935/edgedol/_definst_/tao129/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E01
+http://bit.ly/2MCFipA
+#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E02
+http://bit.ly/2pIZ4Xv
+#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E03
+http://bit.ly/2W3US0k
+#EXTINF:0 tvg-logo="http://bit.ly/2Bz0ZjM" group-title="Movies",Snow Flower And The Secret Fan
+http://bit.ly/2BBnJQm
+#EXTINF:0 tvg-logo="http://bit.ly/2MDjABR" group-title="Movies",Sweetheart(2019)
+https://dl.dropboxusercontent.com/s/3dbh3knjak4t9gg/SweetHeart.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2PaoXu2" group-title="Movies",The Bravest(2019)
+https://dl.dropboxusercontent.com/s/8ba6lwvbwyfxp4u/The%20Bravest.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2BylBZO" group-title="Movies",Saaho (2019)
+https://dl.dropboxusercontent.com/s/ah4qiu04iyxd5mh/SAAHO.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2qxXect" group-title="Movies",Ne Zha (2019)
+https://www.dl.dropboxusercontent.com/s/wdkumeasejk1dfm/Nezha.mp4
+#EXTINF:0 tvg-logo="http://bit.ly/35T3BqN" group-title="Movies",Eli(2019)
+https://dl.dropboxusercontent.com/s/hfopf0a9loo4iz4/Eli.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2qBFk8J" group-title="Movies",The Battle:Roar to Victory(2019)
+https://dl.dropboxusercontent.com/s/h3184nvjho8uuml/The%20Battle%20Roar%20To%20Victory.mp4?dl=0
 
 #EXTINF:0 tvg-logo="http://bit.ly/2kdz4Rw" group-title="Sport" parent-code="123451",SKYNET Sport HD
 http://221.178.148.115:9981/stream/channelid/2013868628?profile=pass
