@@ -1,7 +1,8 @@
 
 #EXTM3U
-#EXTINF:-1,FOX SPORTS 2
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/fs2.png" group-title="Sport",FoxSport2
 http://221.178.148.115:9981/stream/channelid/1232604094?profile=pass
+#EXTINF:0 tvg-logo="http://bit.ly/2pREJ2a" group-title="Sport",FoxSport3
 #EXTINF:-1,FOX SPORTS 3
 http://221.178.148.115:9981/stream/channelid/1262347504?profile=pass
 #EXTINF:0 tvg-logo="http://bit.ly/3682Vhr" group-title="Movies",Watchmen(2019)S01E01
