@@ -153,6 +153,14 @@ http://tvservice.pro:80/914126949717/u7PdRLaTktnqNbH/63812
 #EXTINF:-1 group-title="Sport",beIN SPORTS NBA HD
 http://tvservice.pro:80/914126949717/u7PdRLaTktnqNbH/27884
 
+#EXTINF:-1,tvg-logo="" group-title="Sport",FIGHT SPORTS HD
+http://221.178.148.115:9981/stream/channelid/1749356553?profile=pass
+#EXTINF:-1,tvg-logo="" group-title="Sport",FOX SPORTS 1
+http://221.178.148.115:9981/stream/channelid/1140464058?profile=pass
+#EXTINF:-1,tvg-logo="" group-title="Sport",FOX SPORTS 2
+http://221.178.148.115:9981/stream/channelid/1232604094?profile=pass
+#EXTINF:-1,tvg-logo="" group-title="Sport",FOX SPORTS 3
+http://221.178.148.115:9981/stream/channelid/1262347504?profile=pass
 #EXTINF:0 tvg-logo="http://bit.ly/2kFIaXt" group-title="Sport",SKYNET Sport1
 http://221.178.148.115:9981/stream/channelid/2131729618?profile=pass
 #EXTINF:0 tvg-logo="http://bit.ly/2lL7vzs" group-title="Sport",SKYNET Sport2
