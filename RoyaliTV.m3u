@@ -503,28 +503,6 @@ http://bit.ly/2mjkHfe
 #EXTINF:0 tvg-logo="http://bit.ly/2kBzyBn" group-title="Movies",So Close
 http://bit.ly/2mjmJMo
 
-#EXTINF:-1 tvg-logo="https://stream.co.id/img/axn.png" group-title="TV",AXN
-http://nitro.ltd:25461/live/Andy/Andy/39217.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2m8QHT6" group-title="TV",BBC Earth
-http://nitro.ltd:25461/live/Andy/Andy/38851.m3u8
-#EXTINF:-1 tvg-logo="https://stream.co.id/img/hbo.png" group-title="TV",HBO HD (English)
-http://nitro.ltd:25461/live/Andy/Andy/39075.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2kIkdi6" group-title="TV",TLC 
-http://nitro.ltd:25461/live/Andy/Andy/38743.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 1
-https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 2
-https://5-226-137-173.netvarp.is/beint/sporttv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 3
-https://213-167-154-115.netvarp.is/beint/sporttv3/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 4
-https://213-167-154-115.netvarp.is/beint/sporttv4/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 5
-https://213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 6
-https://213-167-154-115.netvarp.is/beint/sporttv6/mono.m3u8
-
 #EXTINF:0 tvg-logo="http://bit.ly/2P4aD6i" group-title="Sport",True Premier HD1
 https://tv.xpeer-cdn.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2VluQ8D" group-title="Sport",True Premier HD2
