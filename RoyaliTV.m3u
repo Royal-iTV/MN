@@ -1,37 +1,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/bein1.png" group-title="usee", bein1  
-https://edgejt7.useetv.com/joss/17/bein1/chunklist_w603132791_b1344100_sleng.m3u8?enc=5bpq8K8xqcP2lr6N8wcGtw&exp=1572246007
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/bein2.png" group-title="usee", bein2  
-https://cdnmdc1.useetv.com/joss/17/bein2/chunklist_w791070752_b1344100_sleng.m3u8?enc=ujpTuPKCm9FsDDjCGOpxFw&exp=1572246309
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/rugby.png" group-title="usee", rugby  
-https://edgejt7.useetv.com/joss/17/rugby/chunklist_w1972254881_b1344100_sleng.m3u8?enc=IpTJ61HxS-BwC7AT3J-ZVA&exp=1572246602
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/useesport.png" group-title="usee", useesport  
-https://cdnkbl2.useetv.com/joss/15/useesport/chunklist_w1851354994_b1344100_sleng.m3u8?enc=4FHOgqDQtrVZUVeyhrKvLg&exp=1572246603
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/useesports2.png" group-title="usee", useesports2  
-https://cdnmdc1.useetv.com/joss/17/useesports2/chunklist_w460406416_b1344100_sleng.m3u8?enc=f_iBkopF15Ep83PRnIrU6g&exp=1572248409
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/champion1.png" group-title="usee", champion1  
-https://cdnmdc1.useetv.com/joss/194/champion1/chunklist_w1941427680_b1344100_sleng.m3u8?enc=DljXmzaYmmSWHpqoOwcVPw&exp=1572246614
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/champion2.png" group-title="usee", champion2  
-https://cdnkbl2.useetv.com/joss/194/champion2/chunklist_w473398093_b1344100_sleng.m3u8?enc=grUWJBuFJAzRFTw9LmR5zA&exp=1572246903
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/foxsport1.png" group-title="usee", foxsport1  
-https://edgejt6.useetv.com/joss/17/foxsport1/chunklist_w1036442151_b1344100_sleng.m3u8?enc=7VHJY7a0YnxU9LR5ui6SsA&exp=1572246903
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/foxsport2.png" group-title="usee", foxsport2  
-https://edgejt6.useetv.com/joss/17/foxsport2/chunklist_w1110563262_b1344100_sleng.m3u8?enc=cgLUcjwDLKuTb-Tw_BXnvQ&exp=1572246906
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/foxsport3.png" group-title="usee", foxsport3  
-https://cdnbpp1.useetv.com/joss/17/foxsport3/chunklist_w1149088434_b1344100_sleng.m3u8?enc=JncIruXAyZB8hfu2I9wpFg&exp=1572247202
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/natgeo.png" group-title="usee", natgeo  
-https://cdnbal1.useetv.com/joss/17/natgeo/chunklist_w1311145403_b1344100_sleng.m3u8?enc=K0GNSyNSZW7H9Nim7SzhVQ&exp=1572247213
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/natgeopeople.png" group-title="usee", natgeopeople  
-https://cdnmdc2.useetv.com/joss/17/natgeopeople/chunklist_w1180651096_b1344100_sleng.m3u8?enc=Cvf-jWMvhB7FbAe-fSwqWw&exp=1572247214
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/natgeowild.png" group-title="usee", natgeowild  
-https://cdnbpp1.useetv.com/joss/17/natgeowild/chunklist_w857804533_b1344100_sleng.m3u8?enc=bstpXtM8e4NTxzVimrg6IA&exp=1572247534
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/disco.png" group-title="usee", disco  
-https://edgejt6.useetv.com/joss/17/disco/chunklist_w329226962_b1344100_sleng.m3u8?enc=fDYrkSh_wjXaZBuPolFg1A&exp=1572247215
-
-
-
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/fs2.png" group-title="Sport",FoxSport2
 http://221.178.148.115:9981/stream/channelid/1232604094?profile=pass
 #EXTINF:0 tvg-logo="http://bit.ly/2pREJ2a" group-title="Sport",FoxSport3
