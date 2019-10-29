@@ -1,6 +1,8 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/36eCN4x" group-title="Movies",A Dog's Journey
+https://dl.dropboxusercontent.com/s/j8lg7bf35xkuxd8/A%20Dogs%20Journey.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2BU2Dg1" group-title="Movies",The Refuge(2019)
 https://dl.dropboxusercontent.com/s/5xqzadh7wnubv5e/The%20Refuge.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/36c3Lty" group-title="Movies",The Bad Guys: Reign of Chaos(2019)
