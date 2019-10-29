@@ -1,6 +1,14 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2NjXd3m" group-title="Movies",X-Man:The Last Stand
+http://bit.ly/2q13Y23
+#EXTINF:0 tvg-logo="http://bit.ly/2BUrfWd" group-title="Movies",X-Man:First Class
+http://bit.ly/31UIQrD
+#EXTINF:0 tvg-logo="http://bit.ly/2NpZzxT" group-title="Movies",X-Man:Days Of Future Part
+http://bit.ly/2BPSb9u
+#EXTINF:0 tvg-logo="http://bit.ly/2qMsVP5" group-title="Movies",X-Men:Apocalypse
+http://bit.ly/31PdsuA
 #EXTINF:0 tvg-logo="http://bit.ly/34bAEog" group-title="Movies",Hell Boy
 http://bit.ly/2JvZJCs
 #EXTINF:0 tvg-logo="http://bit.ly/2MXkbOR" group-title="Movies",Hell Boy 2
