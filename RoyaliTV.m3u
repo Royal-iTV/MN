@@ -1,6 +1,10 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/34bAEog" group-title="Movies",Hell Boy
+http://bit.ly/2JvZJCs
+#EXTINF:0 tvg-logo="http://bit.ly/2MXkbOR" group-title="Movies",Hell Boy 2
+http://bit.ly/2BP13fp
 #EXTINF:0 tvg-logo="http://bit.ly/36eCN4x" group-title="Movies",A Dog's Journey
 https://dl.dropboxusercontent.com/s/j8lg7bf35xkuxd8/A%20Dogs%20Journey.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2BU2Dg1" group-title="Movies",The Refuge(2019)
