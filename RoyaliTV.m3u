@@ -1,6 +1,17 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E01
+http://bit.ly/2MCFipA
+#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E02
+http://bit.ly/2pIZ4Xv
+#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E03
+http://bit.ly/2W3US0k
+#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E04
+https://archive.org/download/xmenapocalypse2016/Batwoman.S01E04.mp4
+
+#EXTINF:0 tvg-logo="http://bit.ly/330dZLp" group-title="Movies",Kingdom(2019)
+https://archive.org/download/kingdom_201910/kingdom.mp4
 #EXTINF:0 tvg-logo="http://bit.ly/2NjXd3m" group-title="Movies",X-Man:The Last Stand
 http://bit.ly/2q13Y23
 #EXTINF:0 tvg-logo="http://bit.ly/2BUrfWd" group-title="Movies",X-Man:First Class
@@ -161,13 +172,6 @@ https://dl.dropboxusercontent.com/s/9z72ewv6n152v78/Trollhunters.S03E12.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/32Op1DB" group-title="Series",Troll Hunter S03E13
 https://dl.dropboxusercontent.com/s/5jej7fh0k9jv6at/Trollhunters.S03E13.mp4?dl=0
 
-
-#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E01
-http://bit.ly/2MCFipA
-#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E02
-http://bit.ly/2pIZ4Xv
-#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E03
-http://bit.ly/2W3US0k
 #EXTINF:0 tvg-logo="http://bit.ly/2Bz0ZjM" group-title="Movies",Snow Flower And The Secret Fan
 http://bit.ly/2BBnJQm
 #EXTINF:0 tvg-logo="http://bit.ly/2MDjABR" group-title="Movies",Sweetheart(2019)
