@@ -1,14 +1,14 @@
 
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E01
-http://bit.ly/2MCFipA
-#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E02
-http://bit.ly/2pIZ4Xv
-#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E03
-http://bit.ly/2W3US0k
-#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E04
-https://archive.org/download/xmenapocalypse2016/Batwoman.S01E04.mp4
+#EXTINF:0 tvg-logo="http://bit.ly/2JAAzmo" group-title="Movies",Jade Dynasty( 2019 )
+https://archive.org/download/jadedynasty/Jade%20Dynasty.mp4
+#EXTINF:0 tvg-logo="http://bit.ly/2PvrbUG" group-title="Movies",Good Boys(2019)
+https://archive.org/download/jadedynasty/Good%20Boys.mp4
+#EXTINF:0 tvg-logo="http://bit.ly/2BWmIm5" group-title="Movies",Ip Man and Four Kings(2019)
+https://archive.org/download/jadedynasty/Ip%20Man%20and%20Four%20Kings.mp4
+#EXTINF:0 tvg-logo="http://bit.ly/2N0WS6D" group-title="Movies",Polaroid(2019)
+https://archive.org/download/polaroid2019/Polaroid%20%282019%29.mp4
 #EXTINF:0 tvg-logo="http://bit.ly/2NkyLim" group-title="Movies",Stuber(2019)
 http://bit.ly/2q78qfz
 #EXTINF:0 tvg-logo="http://bit.ly/3301QGi" group-title="Movies",The Art of Racing in the Rain(2019)
@@ -35,9 +35,16 @@ https://dl.dropboxusercontent.com/s/5xqzadh7wnubv5e/The%20Refuge.mp4?dl=0
 https://dl.dropboxusercontent.com/s/v6ieo6i8v0szrdw/The%20Bad%20Guys%20Reign%20of%20Chaos.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/332OY2x" group-title="Movies",Wild Rose(2019)
 https://dl.dropboxusercontent.com/s/tou8ccglf8u9z23/Wild%20Rose%202019.mp4?dl=0
-
 #EXTINF:0 tvg-logo="http://bit.ly/2PtK7DB" group-title="Movies",The Forbidden Kingdom
 http://bit.ly/2MKl11e
+#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E01
+http://bit.ly/2MCFipA
+#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E02
+http://bit.ly/2pIZ4Xv
+#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E03
+http://bit.ly/2W3US0k
+#EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Movies",BatWoman(2019)S01E04
+https://archive.org/download/xmenapocalypse2016/Batwoman.S01E04.mp4
 #EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP1-2
 http://bit.ly/2NdLxyZ
 #EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP3-4
