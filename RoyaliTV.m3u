@@ -72,11 +72,9 @@ http://54.39.124.28/pro.php/http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/jtbc-Golf.jpg" group-title="Golf",jtbc Golf 
 http://122.129.115.21:1935/edgedol/_definst_/tao129/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/fs2.png" group-title="Sport",FoxSport2
-http://221.178.148.115:9981/stream/channelid/1232604094?profile=pass
-#EXTINF:0 tvg-logo="http://bit.ly/2pREJ2a" group-title="Sport",FoxSport3
-#EXTINF:-1,FOX SPORTS 3
-http://221.178.148.115:9981/stream/channelid/1262347504?profile=pass
+#EXTINF:0 tvg-logo="http://bit.ly/2q65rEl" group-title="Thai",MCOT
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/3682Vhr" group-title="Movies",Watchmen(2019)S01E01
 https://dl.dropboxusercontent.com/s/cwzcec6expr399r/Watchmen.S01E01.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2oyq5Nb" group-title="Series",Troll Hunter S01E01
