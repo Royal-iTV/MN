@@ -1,6 +1,10 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2N57eCD" group-title="Movies",The Angry Birds Movie2(2019)
+https://archive.org/download/theangrybirdsmovie2_201911/The%20Angry%20Birds%20Movie2.mp4
+#EXTINF:0 tvg-logo="http://bit.ly/2WwFkT0" group-title="Movies",Zombi Child(2019)
+https://archive.org/download/zombichild/Zombi%20Child.mp4
 #EXTINF:0 tvg-logo="http://bit.ly/2JAAzmo" group-title="Movies",Jade Dynasty( 2019 )
 https://archive.org/download/jadedynasty/Jade%20Dynasty.mp4
 #EXTINF:0 tvg-logo="http://bit.ly/2PvrbUG" group-title="Movies",Good Boys(2019)
