@@ -531,17 +531,6 @@ http://bit.ly/2mjkHfe
 #EXTINF:0 tvg-logo="http://bit.ly/2kBzyBn" group-title="Movies",So Close
 http://bit.ly/2mjmJMo
 
-#EXTINF:0 tvg-logo="http://bit.ly/2P4aD6i" group-title="Sport",True Premier HD1
-https://tv.xpeer-cdn.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2VluQ8D" group-title="Sport",True Premier HD2
-https://tv.xpeer-cdn.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2ItzWuh" group-title="Sport",True Premier HD3
-https://tv.xpeer-cdn.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2AQ6sm0" group-title="Sport",True Premier HD4
-https://tv.xpeer-cdn.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2ANKakV" group-title="Sport",True Premier HD5
-https://tv.xpeer-cdn.com/02_PremierHD5_720p/chunklist.m3u8
-
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Destination
