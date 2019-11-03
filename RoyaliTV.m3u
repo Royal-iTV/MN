@@ -1,6 +1,20 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/36D3b8u" group-title="Movies",Luce(2019)
+https://dl.dropboxusercontent.com/s/8khgz18m1tbf125/Luce.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/33fvIic" group-title="Movies",Adopt a Highway(2019)
+https://dl.dropboxusercontent.com/s/2phiizxjiebj84k/Adopt%20A%20Highway.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2PJqRBN" group-title="Movies",Them That Follow(2019)
+https://dl.dropboxusercontent.com/s/u0up20yct4ikl6c/Them%20That%20Follow.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/33djHK7" group-title="Movies",Deadwood: The Movie(2019)
+https://dl.dropboxusercontent.com/s/cpnq8q1ednrag7b/Deadwood%20The%20Movie.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2PFjBHi" group-title="Movies",Kill Chain(2019)
+https://dl.dropboxusercontent.com/s/zii207d9tl7ojdy/Kill%20Chain.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/34zR5LB" group-title="Movies",The Mummy: Rebirth(2019)
+https://dl.dropboxusercontent.com/s/x5v1xtwfu7uukl7/The%20Mummy%20Rebirth.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2oCAasa" group-title="Movies",The Farewell(2019)
+https://dl.dropboxusercontent.com/s/1lca9x0b4i0tbfg/The%20Farewell.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2N57eCD" group-title="Movies",The Angry Birds Movie2(2019)
 https://dl.dropboxusercontent.com/s/orz1crj54fvys2g/The%20Angry%20Birds%20Movie2.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2WwFkT0" group-title="Movies",Zombi Child(2019)
