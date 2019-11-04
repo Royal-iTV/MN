@@ -1,6 +1,8 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/34qWTqr" group-title="Movies",idol(2019)
+https://dl.dropboxusercontent.com/s/xvzdy3nqn1jdosd/Idol.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2C9RMPj" group-title="Movies",Peanut Butter Falcon(2019)
 https://dl.dropboxusercontent.com/s/zt4gnkobr2r1i25/The%20Peanut%20Butter%20Falcon.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2qdURv3" group-title="Movies",The King(2019)
