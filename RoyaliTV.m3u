@@ -1,6 +1,14 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2C9RMPj" group-title="Movies",Peanut Butter Falcon(2019)
+https://dl.dropboxusercontent.com/s/zt4gnkobr2r1i25/The%20Peanut%20Butter%20Falcon.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2qdURv3" group-title="Movies",The King(2019)
+https://dl.dropboxusercontent.com/s/0hzndtu11kotvwa/The%20King.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2WKnQmn" group-title="Movies",Chhichhore(2019)
+https://dl.dropboxusercontent.com/s/h69hjphyzo6kqnq/Chhichhore.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/36ujynF" group-title="Movies",The Death of Superman(2018)
+http://bit.ly/2C7WNYy
 #EXTINF:0 tvg-logo="http://bit.ly/36D3b8u" group-title="Movies",Luce(2019)
 https://dl.dropboxusercontent.com/s/8khgz18m1tbf125/Luce.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/33fvIic" group-title="Movies",Adopt a Highway(2019)
