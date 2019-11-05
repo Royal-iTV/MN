@@ -601,6 +601,8 @@ http://edge-stream-07.otv.co.th/livestream/Reader-Channel.stream/playlist.m3u8
 http://edge-stream-07.otv.co.th./livestream/MNTV.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2lCw29Y" group-title="TV",MRTV Entertainment
 http://edge-stream-07.otv.co.th./livestream/MRTV-Entertainment.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2JQvtCr" group-title="TV",DVB
+https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2k53JQT" group-title="Radio",Padamyar FM
 http://s2.radio.co/s969e6c4b7/listen
