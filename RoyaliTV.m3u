@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-EXTINF:0 tvg-logo="http://bit.ly/2K4t8UO" group-title="Movies",The Mummy(1999)
+#EXTINF:0 tvg-logo="http://bit.ly/2K4t8UO" group-title="Movies",The Mummy(1999)
 http://bit.ly/2pJozbA
 #EXTINF:0 tvg-logo="http://bit.ly/2K0WEL3" group-title="Movies",The Mummy: Returns(2001)
 http://bit.ly/34FiFXz
