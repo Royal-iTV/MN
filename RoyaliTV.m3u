@@ -1,6 +1,16 @@
 
 #EXTM3U
 
+EXTINF:0 tvg-logo="http://bit.ly/2K4t8UO" group-title="Movies",The Mummy(1999)
+http://bit.ly/2pJozbA
+#EXTINF:0 tvg-logo="http://bit.ly/2K0WEL3" group-title="Movies",The Mummy: Returns(2001)
+http://bit.ly/34FiFXz
+#EXTINF:0 tvg-logo="http://bit.ly/2CpPrjn" group-title="Movies",The Mummy:Tomb of The Dragon Emperor(2008)
+http://bit.ly/2Nwx42N
+#EXTINF:0 tvg-logo="http://bit.ly/2WUjQjj" group-title="Movies",The Mummy(2017)
+http://bit.ly/2Crnsjr
+#EXTINF:0 tvg-logo="http://bit.ly/2pSxrvs" group-title="Movies",The Scorpion King
+http://bit.ly/2PVD8Dk
 #EXTINF:0 tvg-logo="http://bit.ly/2CjAIq2" group-title="Movies",Love Revolution
 https://dl.dropboxusercontent.com/s/6c94j3nkqgqow36/Love%20Revolution.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2PU6wKi" group-title="Movies",Dora and the Lost City of Gold(2019)
