@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/36Uycov" group-title="Movies",Primal(2019)
+http://bit.ly/2O3BHA9
 #EXTINF:0 tvg-logo="http://bit.ly/2Q8Irzl" group-title="Movies",Ghost in the Graveyard(2019)
 https://dl.dropboxusercontent.com/s/h5jbxy8gu6vbfhs/Ghost%20In%20The%20Graveyard.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2X9DU1m" group-title="Movies",Joker(2019)
