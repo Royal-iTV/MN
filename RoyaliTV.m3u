@@ -1,5 +1,15 @@
 
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2Ok3Zqz" group-title="Movies",Angel Has Fallen(2019)
+https://dl.dropboxusercontent.com/s/k5thsrsb3zo9hes/Angel%20has%20Fallen.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2CzLFUD" group-title="Movies",Danger Close:The Battle of Long Tan(2019)
+https://dl.dropboxusercontent.com/s/kcivbr5a5ouicc1/Danger%20CloseThe%20Battle%20of%20Long%20Tan.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2qReucs" group-title="Movies",Metamorphosis(2019)
+https://dl.dropboxusercontent.com/s/9hqdzuqv9t09uq9/Metamorphosis.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/370yj1J" group-title="Movies",Asuran(2019)
+https://dl.dropboxusercontent.com/s/o58qhmrsq51ctyl/ASURAN.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2NKZDtv" group-title="Movies",The Man Without Gravity(2019)
+https://dl.dropboxusercontent.com/s/eiqewjtjesx0a11/The%20Man%20Without%20Gravity%20.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/36Uycov" group-title="Movies",Primal(2019)
 http://bit.ly/2O3BHA9
 #EXTINF:0 tvg-logo="http://bit.ly/2Q8Irzl" group-title="Movies",Ghost in the Graveyard(2019)
