@@ -1,5 +1,15 @@
 
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2Ok3Zqz" group-title="Movies",Angel Has Fallen(2019)
+https://dl.dropboxusercontent.com/s/k5thsrsb3zo9hes/Angel%20has%20Fallen.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2CzLFUD" group-title="Movies",Danger Close:The Battle of Long Tan(2019)
+https://dl.dropboxusercontent.com/s/kcivbr5a5ouicc1/Danger%20CloseThe%20Battle%20of%20Long%20Tan.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2qReucs" group-title="Movies",Metamorphosis(2019)
+https://dl.dropboxusercontent.com/s/9hqdzuqv9t09uq9/Metamorphosis.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/370yj1J" group-title="Movies",Asuran(2019)
+https://dl.dropboxusercontent.com/s/o58qhmrsq51ctyl/ASURAN.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2NKZDtv" group-title="Movies",The Man Without Gravity(2019)
+https://dl.dropboxusercontent.com/s/eiqewjtjesx0a11/The%20Man%20Without%20Gravity%20.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/36Uycov" group-title="Movies",Primal(2019)
 http://bit.ly/2O3BHA9
 #EXTINF:0 tvg-logo="http://bit.ly/2Q8Irzl" group-title="Movies",Ghost in the Graveyard(2019)
@@ -284,8 +294,6 @@ http://bit.ly/324mJQm
 http://bit.ly/317ny9C
 #EXTINF:0 tvg-logo="http://bit.ly/2ozog2d" group-title="Movies",Andy lau Movies
 http://bit.ly/2B4ClHz
-#EXTINF:0 tvg-logo="http://bit.ly/2MD2x1C" group-title="MTV",ArTi ChitNayPho
-http://bit.ly/2McjzEA
 #EXTINF:0 tvg-logo="http://bit.ly/33nHI0G" group-title="Movies",The Lion King(2019)
 http://bit.ly/33nHnLs
 #EXTINF:0 tvg-logo="http://bit.ly/35wEkCq" group-title="Movies",Donnybrook(2018)
@@ -600,11 +608,11 @@ http://bit.ly/2mjkHfe
 #EXTINF:0 tvg-logo="http://bit.ly/2kBzyBn" group-title="Movies",So Close
 http://bit.ly/2mjmJMo
 
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Paris
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="TV",Fashion Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Destination
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="TV",Fashion Destination
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Midnight
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="TV",Fashion Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Channel_K.png" group-title="TV",Channel K
