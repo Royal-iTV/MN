@@ -691,6 +691,15 @@ http://edge-stream-07.otv.co.th./livestream/MRTV-Entertainment.stream/playlist.m
 #EXTINF:0 tvg-logo="http://bit.ly/2JQvtCr" group-title="TV",DVB
 https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Docu-Box.jpg" group-title="Knowledge",Docu Box
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-People.jpg" group-title="Knowledge",National GEO People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/National_Geographic_logo.png" group-title="Knowledge",National GEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-Wild.jpg" group-title="Knowledge",National GEO Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/2k53JQT" group-title="Radio",Padamyar FM
 http://s2.radio.co/s969e6c4b7/listen
 #EXTINF:0 tvg-logo="http://bit.ly/2k5L0ER" group-title="Radio",Cherry FM
