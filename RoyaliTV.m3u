@@ -1,5 +1,12 @@
 
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/34YsJv0" group-title="Movies",Fagara(2019)
+https://dl.dropboxusercontent.com/s/7j5szdsdvz2zhbb/Fagara.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2KqJN58" group-title="Movies",Mao Zedong 1949(2019)
+https://dl.dropboxusercontent.com/s/f8b1dfhih2qc899/Mao%20Zedong%201949.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/351MJNf" group-title="Movies",The living dead:untamed(2019)
+https://dl.dropboxusercontent.com/s/zafvc72bylxs4tb/the%20living%20deaduntamed.mp4?dl=0
+
 #EXTINF:0 tvg-logo="http://bit.ly/2Xmxr3j" group-title="Movies",Section 375(2019)
 https://dl.dropboxusercontent.com/s/f2m3hzqegmmn3rw/Section%20375.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/375diTK" group-title="Movies",Late Night(2019)
