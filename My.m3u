@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2Qoc1Bc" group-title="Series",Chernobyl(2019)S01E01
+https://dl.dropboxusercontent.com/s/q06rf0652xpi3dd/Chernobyl.S01E01.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2Qoc1Bc" group-title="Series",Chernobyl(2019)S01E02
+https://dl.dropboxusercontent.com/s/uemheyfwi7bj8a6/Chernobyl.S01E02.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2Qoc1Bc" group-title="Series",Chernobyl(2019)S01E03
+https://dl.dropboxusercontent.com/s/fc6axviuhc4dbqy/Chernobyl.S01E03.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2Qoc1Bc" group-title="Series",Chernobyl(2019)S01E04
+https://dl.dropboxusercontent.com/s/3wviih43u4o03q6/Chernobyl.S01E04.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2Qoc1Bc" group-title="Series",Chernobyl(2019)S01E05
+https://dl.dropboxusercontent.com/s/09cto4ecmsi4q04/Chernobyl.S01E05.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2XhNkI7" group-title="Movies",Let It Snow(2019)
+https://dl.dropboxusercontent.com/s/z79jdca4c0nrmza/Let%20It%20Snow.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/34YsJv0" group-title="Movies",Fagara(2019)
 https://dl.dropboxusercontent.com/s/7j5szdsdvz2zhbb/Fagara.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2KqJN58" group-title="Movies",Mao Zedong 1949(2019)
@@ -678,6 +690,15 @@ http://edge-stream-07.otv.co.th./livestream/MNTV.stream/playlist.m3u8
 http://edge-stream-07.otv.co.th./livestream/MRTV-Entertainment.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2JQvtCr" group-title="TV",DVB
 https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Docu-Box.jpg" group-title="Knowledge",Docu Box
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-People.jpg" group-title="Knowledge",National GEO People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/National_Geographic_logo.png" group-title="Knowledge",National GEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-Wild.jpg" group-title="Knowledge",National GEO Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2k53JQT" group-title="Radio",Padamyar FM
 http://s2.radio.co/s969e6c4b7/listen
