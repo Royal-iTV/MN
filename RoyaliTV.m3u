@@ -343,8 +343,6 @@ http://bit.ly/324mJQm
 http://bit.ly/317ny9C
 #EXTINF:0 tvg-logo="http://bit.ly/2ozog2d" group-title="Movies",Andy lau Movies
 http://bit.ly/2B4ClHz
-#EXTINF:0 tvg-logo="http://bit.ly/2MD2x1C" group-title="MTV",ArTi ChitNayPho
-http://bit.ly/2McjzEA
 #EXTINF:0 tvg-logo="http://bit.ly/33nHI0G" group-title="Movies",The Lion King(2019)
 http://bit.ly/33nHnLs
 #EXTINF:0 tvg-logo="http://bit.ly/35wEkCq" group-title="Movies",Donnybrook(2018)
@@ -659,12 +657,6 @@ http://bit.ly/2mjkHfe
 #EXTINF:0 tvg-logo="http://bit.ly/2kBzyBn" group-title="Movies",So Close
 http://bit.ly/2mjmJMo
 
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Destination
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="LifeStyle",Fashion Midnight
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Channel_K.png" group-title="TV",Channel K
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
@@ -703,14 +695,21 @@ http://edge-stream-07.otv.co.th./livestream/MRTV-Entertainment.stream/playlist.m
 #EXTINF:0 tvg-logo="http://bit.ly/2JQvtCr" group-title="TV",DVB
 https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Docu-Box.jpg" group-title="Knowledge",Docu Box
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Docu-Box.jpg" group-title="TV",Docu Box
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-People.jpg" group-title="Knowledge",National GEO People
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-People.jpg" group-title="TV",National GEO People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/National_Geographic_logo.png" group-title="Knowledge",National GEO
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/National_Geographic_logo.png" group-title="TV",National GEO
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-Wild.jpg" group-title="Knowledge",National GEO Wild
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-Wild.jpg" group-title="TV",National GEO Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="TV",Fashion Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="TV",Fashion Destination
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/28/fashion-tv.png" group-title="TV",Fashion Midnight
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2k53JQT" group-title="Radio",Padamyar FM
 http://s2.radio.co/s969e6c4b7/listen
