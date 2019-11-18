@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:0 tvg-logo="http://bit.ly/2XmbNfm" group-title="Movies",Guna 369(2019)
+https://dl.dropboxusercontent.com/s/o5rk0utyhhi4z79/GUNA%20369.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2XuPPXK" group-title="Movies",Cosmos(2019)
+https://dl.dropboxusercontent.com/s/00k1ddn3jie68ds/Cosmos.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2QqRbkM" group-title="Movies",Olympus Has Fallen
 https://dl.dropboxusercontent.com/s/k7i9yk9sfoahalo/Olympus%20Has%20Fallen.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/346wTRi" group-title="Movies",Lady and the Tramp(2019)
