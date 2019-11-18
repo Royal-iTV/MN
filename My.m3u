@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2NYt9Mh" group-title="Movies",Kakegurui(2019)
+https://dl.dropboxusercontent.com/s/yk46qa519li614v/Kakegurui.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/35hLFoR" group-title="Movies",Badland(2019)
+https://dl.dropboxusercontent.com/s/lsrwjjv8rlu14sn/Badland.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2XmbNfm" group-title="Movies",Guna 369(2019)
 https://dl.dropboxusercontent.com/s/o5rk0utyhhi4z79/GUNA%20369.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2XuPPXK" group-title="Movies",Cosmos(2019)
