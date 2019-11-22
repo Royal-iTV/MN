@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:0 tvg-logo="http://bit.ly/2qzMPNB" group-title="Movies",The Goldfinch(2019)
+https://dl.dropboxusercontent.com/s/tlk4c7mrdf6e4gf/The%20Goldfinch.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2XA9Pbk" group-title="Movies",Jallikattu(2019)
+https://dl.dropboxusercontent.com/s/vlwfc2bg8u2ukq4/Jallikattu.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/35khME9" group-title="Movies",Harpoon(2019)
 https://dl.dropboxusercontent.com/s/l9i7u8ojck79wnl/Harpoon.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/35iSV3s" group-title="Movies",Klaus(2019)
