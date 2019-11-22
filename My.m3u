@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:0 tvg-logo="http://bit.ly/2OyfE54" group-title="Movies",Acceleration(2019)
+https://dl.dropboxusercontent.com/s/x9u5pd0kvp8vij4/Accleration.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2qzMPNB" group-title="Movies",The Goldfinch(2019)
 https://dl.dropboxusercontent.com/s/tlk4c7mrdf6e4gf/The%20Goldfinch.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2XA9Pbk" group-title="Movies",Jallikattu(2019)
