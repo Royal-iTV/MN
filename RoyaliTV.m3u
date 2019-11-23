@@ -2,6 +2,7 @@
 
 #EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="Live",Premier League
 http://cdn.60fps.live/live/nbcsn/playlist.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="Live",premier 1
 https://daily99.global.ssl.fastly.net/live/4/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/34awAVM" group-title="Live",Series-A
