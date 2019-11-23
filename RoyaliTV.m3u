@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2XG8fVt" group-title="Movies",Rambo:Last Blood(2019)
+https://dl.dropboxusercontent.com/s/saih53mqa2skxyn/Rambo-%20Last%20Blood.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2D7GkUV" group-title="Movies",Ready or Not(2019)
+https://dl.dropboxusercontent.com/s/x6vu6vojn9z78rr/Ready%20or%20Not.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/33d9Bbx" group-title="Movies",Noelle(2019)
+https://dl.dropboxusercontent.com/s/vg73tmn1rxxj90g/Noelle.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2qBABnI" group-title="Movies",Sye Raa Narasimha Reddy(2019)
 https://dl.dropboxusercontent.com/s/n1wylfz6hxy2xpb/Sye%20Raa%20Narasimha%20Reddy.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2OdvOlz" group-title="Movies",It Chapter Two(2019)
@@ -61,6 +67,8 @@ https://dl.dropboxusercontent.com/s/mnrfp5b8jqiuwf5/Gemini%20Man.mp4?dl=0
 https://dl.dropboxusercontent.com/s/a4fvyt63xkdh415/The%20Mandalorian.S01E01.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2XiT7x3" group-title="Series",The Mandalorian(2019)S01E02
 https://dl.dropboxusercontent.com/s/m7j50zg8xyc3hsh/The%20Mandalorian.S01E02.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2XiT7x3" group-title="Series",The Mandalorian(2019)S01E03
+https://dl.dropboxusercontent.com/s/z9tuj3omrzn6htx/The%20Mandalorian.S01E03.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2Qoc1Bc" group-title="Series",Chernobyl(2019)S01E01
 https://dl.dropboxusercontent.com/s/q06rf0652xpi3dd/Chernobyl.S01E01.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2Qoc1Bc" group-title="Series",Chernobyl(2019)S01E02
