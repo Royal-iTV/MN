@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="Live",Premier League
-http://cdn.60fps.live/live/nbcsn/chunks.m3u8
+http://cdn.60fps.live/live/nbcsn/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2DfuAzz" group-title="Movies",Once Upon a Time … in Hollywood(2019)
 https://dl.dropboxusercontent.com/s/vh9e9xvebcch2qd/Once%20Upon%20A%20Time%20In%20Hollywood.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2XFnJZL" group-title="Movies",House Arrest(2019)
