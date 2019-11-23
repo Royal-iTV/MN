@@ -2,6 +2,12 @@
 
 #EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="Live",Premier League
 http://cdn.60fps.live/live/nbcsn/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="Live",premier 1
+https://daily99.global.ssl.fastly.net/live/4/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/34awAVM" group-title="Live",Series-A
+https://daily99.global.ssl.fastly.net/live/3/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/33cldvj" group-title="Live",Spain Laliga
+https://daily99.global.ssl.fastly.net/live/2/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2DfuAzz" group-title="Movies",Once Upon a Time … in Hollywood(2019)
 https://dl.dropboxusercontent.com/s/vh9e9xvebcch2qd/Once%20Upon%20A%20Time%20In%20Hollywood.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2XFnJZL" group-title="Movies",House Arrest(2019)
