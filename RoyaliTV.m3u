@@ -2,6 +2,8 @@
 
 #EXTINF:0 tvg-logo="http://bit.ly/34hWBCu" group-title="Live",Football Live
 http://cdn.youpits.com/live/e1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/34hWBCu" group-title="Live",Football Live1
+http://cdn.youpits.com/live/laliga/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="HightLight",Crystal Vs Liverpool
 https://1107942067.rsc.cdn77.org/UpFiles/2019/11/23/34/127544/720p.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="HightLight",ManCity Vs Chelsea
