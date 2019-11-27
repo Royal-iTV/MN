@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/33nu7WL" group-title="TV",PyonePlay Sport
+https://trinity-lh.akamaihd.net/i/Forevergroupchanne_d@94614/master.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2OlK1wG" group-title="Movies",The Courier(2019)
 https://dl.dropboxusercontent.com/s/lgz1ikqr4hj37lj/The%20Courier.mp4?dl=0
