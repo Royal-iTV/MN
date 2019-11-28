@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2rArwfa" group-title="Movies",Line of Duty(2019)
+https://dl.dropboxusercontent.com/s/kjn3y8avuzgcqdv/Line%20Of%20Duty.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2L1qpvB" group-title="Movies",Cheer Up, Mr. Lee(2019)
+https://dl.dropboxusercontent.com/s/ru2dhsze73cwdnf/Cheer%20Up%20Mr.LEE.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/34oUGMt" group-title="Movies",3022(2019)
 https://dl.dropboxusercontent.com/s/4m19pu3nzp27akm/3022.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2OlK1wG" group-title="Movies",The Courier(2019)
