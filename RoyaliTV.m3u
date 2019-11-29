@@ -1,20 +1,9 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2KYzZzo" group-title="HightLight",Liverpool VS Napoli
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/27/42/128992/0.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2KYzZzo" group-title="HightLight",Valencia VS Chelsea
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/27/34/128865/0.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2KYzZzo" group-title="HightLight",Barcelona VS Dorthmund
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/27/42/128985/0.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2KYzZzo" group-title="HightLight",Mancity VS Shakhtar
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/26/34/128527/0.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2KYzZzo" group-title="HightLight",Juventus VS Atletico 
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/26/44/128598/0.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2KYzZzo" group-title="HightLight",Slavia Praha VS Inter
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/27/34/129017/0.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2KYzZzo" group-title="HightLight",Lille VS Ajax
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/27/34/129018/0.m3u8
-
+#EXTINF:0 tvg-logo="http://bit.ly/37J0JxP" group-title="Movies",War(2019)
+https://dl.dropboxusercontent.com/s/iegdfbz5279kh2q/War.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2rEpUAI" group-title="Movies",Abominable(2019)
+https://dl.dropboxusercontent.com/s/eveuku1ye0ggflx/Abominable.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/37LjNLF" group-title="Movies",Back Street Girls: Gokudols(2019)
 https://dl.dropboxusercontent.com/s/0nvy92zoe17tytw/Back%20Street%20Girls-%20Gokudols.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/37Mwkyj" group-title="Movies",Overcomer(2019)
