@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="Live",Premier League
+http://cdn.60fps.live/live/nbcsn/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/37QtGaS" group-title="Movies",See You Soon(2019)
 https://dl.dropboxusercontent.com/s/34n3eyjkzflxyxo/See%20You%20Soon.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/35NEvZo" group-title="Movies",The Irishman(2019)
