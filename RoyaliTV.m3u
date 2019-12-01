@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/34awAVM" group-title="Live",Series-A
+http://cdn.youpits.com/live/e1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/444444.png" group-title="Sport",BeinSport4HD
 https://ewjfn95923gpzlz.belugacdn.link/live/channel5/playlist.m3u8
