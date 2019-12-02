@@ -1,17 +1,16 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Football Live
-http://cdn.youpits.com/live/e1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Football Live1
-http://cdn.youpits.com/live/nbcsn/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Football Live2
-http://cdn.youpits.com/live/r1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Football Live3
-http://cdn.youpits.com/live/sme/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Football Live4
-http://cdn.youpits.com/live/r3/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Football Live5
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/444444.png" group-title="Sport",BeinSport4HD
+https://ewjfn95923gpzlz.belugacdn.link/live/channel5/playlist.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/bein8.png" group-title="Sport",BeinSport 8HD
+https://ewjfn95923gpzlz.belugacdn.link/live/channel2/playlist.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/Bein-Sports-11.jpg" group-title="Sport",BeinSport 11HD
+https://ewjfn95923gpzlz.belugacdn.link/live/channel3/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2p6Wj1B" group-title="Sport",Sport.tv2
+https://ewjfn95923gpzlz.belugacdn.link/live/channel4/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Ms7gTs" group-title="Sport",Sport.tv3
 https://ewjfn95923gpzlz.belugacdn.link/live/channel1/playlist.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Liverpool VS Brighton
 https://1107942067.rsc.cdn77.org/UpFiles/2019/11/30/34/129754/720p.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Tottenham VS Bournemouth
