@@ -1,16 +1,13 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/444444.png" group-title="Sport",BeinSport4HD
-https://ewjfn95923gpzlz.belugacdn.link/live/channel5/playlist.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/bein8.png" group-title="Sport",BeinSport 8HD
-https://ewjfn95923gpzlz.belugacdn.link/live/channel2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/Bein-Sports-11.jpg" group-title="Sport",BeinSport 11HD
-https://ewjfn95923gpzlz.belugacdn.link/live/channel3/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2p6Wj1B" group-title="Sport",Sport.tv2
-https://ewjfn95923gpzlz.belugacdn.link/live/channel4/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Ms7gTs" group-title="Sport",Sport.tv3
-https://ewjfn95923gpzlz.belugacdn.link/live/channel1/playlist.m3u8
-
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Juventus 2:2 Sassuolo
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/1/44/130088/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Norwich 2:2 Arsenal
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/1/34/130224/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Inter 2:1 Spal
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/1/34/130191/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",ManU 2:2 Aston Villa
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/1/42/130305/720p.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Liverpool VS Brighton
 https://1107942067.rsc.cdn77.org/UpFiles/2019/11/30/34/129754/720p.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Tottenham VS Bournemouth
@@ -287,6 +284,16 @@ https://dl.dropboxusercontent.com/s/azobhr33cx0cp04/Missbehavior.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/361OUln" group-title="Movies",The Kitchen(2019)
 https://dl.dropboxusercontent.com/s/hpu1o8bp8vvwejm/The%20Kitchen.mp4?dl=0
 
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/444444.png" group-title="Sport",BeinSport4HD
+https://ewjfn95923gpzlz.belugacdn.link/live/channel5/playlist.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/bein8.png" group-title="Sport",BeinSport 8HD
+https://ewjfn95923gpzlz.belugacdn.link/live/channel2/playlist.m3u8
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/Bein-Sports-11.jpg" group-title="Sport",BeinSport 11HD
+https://ewjfn95923gpzlz.belugacdn.link/live/channel3/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2p6Wj1B" group-title="Sport",Sport.tv2
+https://ewjfn95923gpzlz.belugacdn.link/live/channel4/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Ms7gTs" group-title="Sport",Sport.tv3
+https://ewjfn95923gpzlz.belugacdn.link/live/channel1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Series",BatWoman(2019)S01E01
 https://dl.dropboxusercontent.com/s/g0wv2u4omx6lkl3/Batwoman.S01E01.mp4?dl=0
