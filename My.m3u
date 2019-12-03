@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2rUKuNp" group-title="Movies",Prassthanam(2019)
+https://dl.dropboxusercontent.com/s/dm79clzinqsik0d/Prassthanam.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/33GmnPP" group-title="Movies",Daffodils(2019)
+https://dl.dropboxusercontent.com/s/kaz1qd46cthw3rx/Daffodils.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2rEtOd0" group-title="Movies",Terlalu Tampan(2019)
 https://dl.dropboxusercontent.com/s/canu9zryruh73zv/Terlalu%20Tampan.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/37ZTVvK" group-title="Movies",Downton Abbey(2019)
