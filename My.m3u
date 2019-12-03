@@ -1,52 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Juventus 2:2 Sassuolo
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/1/44/130088/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Norwich 2:2 Arsenal
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/1/34/130224/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Inter 2:1 Spal
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/1/34/130191/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",ManU 2:2 Aston Villa
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/1/42/130305/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Liverpool 2:1 Brighton
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/30/34/129754/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Tottenham 3:2 Bournemouth
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/30/34/129762/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Chelsea 0:1 WestHam
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/30/34/129737/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Bayern VS Leverkusen
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/30/34/129885/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",New 2:2 Mancity
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/30/34/129620/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Deportivo 1:2 Real
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/30/34/129542/720p.m3u8
-
-#EXTINF:0 tvg-logo="http://bit.ly/2KYzZzo" group-title="HightLight",Liverpool VS Napoli
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/27/42/128992/0.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2KYzZzo" group-title="HightLight",Valencia VS Chelsea
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/27/34/128865/0.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2KYzZzo" group-title="HightLight",Barcelona VS Dorthmund
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/27/42/128985/0.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2KYzZzo" group-title="HightLight",Mancity VS Shakhtar
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/26/34/128527/0.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2KYzZzo" group-title="HightLight",Juventus VS Atletico 
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/26/44/128598/0.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2KYzZzo" group-title="HightLight",Slavia Praha VS Inter
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/27/34/129017/0.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2KYzZzo" group-title="HightLight",Lille VS Ajax
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/27/34/129018/0.m3u8
-
-#EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="HightLight",Sheffield Vs Man-U
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/24/34/128079/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="HightLight",Crystal Vs Liverpool
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/23/34/127544/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="HightLight",ManCity Vs Chelsea
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/23/34/127677/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="HightLight",WestHam Vs Tottenham
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/23/34/127311/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="HightLight",Arsenal Vs Southampton
-https://1107942067.rsc.cdn77.org/UpFiles/2019/11/23/34/127525/720p.m3u8
-
 #EXTINF:0 tvg-logo="http://bit.ly/2rEtOd0" group-title="Movies",Terlalu Tampan(2019)
 https://dl.dropboxusercontent.com/s/canu9zryruh73zv/Terlalu%20Tampan.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/37ZTVvK" group-title="Movies",Downton Abbey(2019)
