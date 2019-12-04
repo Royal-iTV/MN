@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2Rh8epS" group-title="Movies",Ad Astra(2019)
+https://dl.dropboxusercontent.com/s/ep7fw2hl3hmimy8/Ad%20Astra.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2r2GPNM" group-title="Movies",I Lost My Body(2019)
+https://dl.dropboxusercontent.com/s/bqqr9uctb9xahou/I%20Lost%20My%20Body.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2rUKuNp" group-title="Movies",Prassthanam(2019)
 https://dl.dropboxusercontent.com/s/dm79clzinqsik0d/Prassthanam.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/33GmnPP" group-title="Movies",Daffodils(2019)
