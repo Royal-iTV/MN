@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2si67HP" group-title="Movies",Grand Isle(2019)
+https://dl.dropboxusercontent.com/s/29mfbaix0uc245q/Grand%20Isle.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2Ef1KQE" group-title="Movies",Knives and Skin(2019)
+https://dl.dropboxusercontent.com/s/x1q7mnbtlwjnor6/Knives%20And%20Skin.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2rFf2mA" group-title="Movies",Bigil(2019)
+https://dl.dropboxusercontent.com/s/uco30e0b69gtasb/Bigil.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2LQmrq4" group-title="Movies",One Must Fall(2019)
+https://dl.dropboxusercontent.com/s/9rogwnwmun6jsr7/One%20Must%20Fall.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2tdgKMD" group-title="Movies",Trauma Center(2019)
 https://dl.dropboxusercontent.com/s/g0rogz8vbj3jeb9/Trauma%20Center.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2RIWlZX" group-title="Movies",Laal Kaptaan(2019)
