@@ -932,6 +932,8 @@ http://edge-stream-07.otv.co.th./livestream/MNTV.stream/playlist.m3u8
 http://edge-stream-07.otv.co.th./livestream/MRTV-Entertainment.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2JQvtCr" group-title="TV",DVB
 https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2sj7aHv" group-title="TV",Fortune TV
+http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Docu-Box.jpg" group-title="TV",Docu Box
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
