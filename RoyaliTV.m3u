@@ -1,6 +1,10 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="Live",Premier League
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Series-A
+http://cdn.60fps.live/live/e/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Laliga
+http://cdn.60fps.live/live/lll/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Premier League
 http://cdn.60fps.live/live/nbcsn/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="Live",premier 1
 https://ewjfn95923gpzlz.belugacdn.link/live/channel1/playlist.m3u8
