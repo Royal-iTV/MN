@@ -39,6 +39,10 @@ http://cdn.60fps.live/live/nbcsn/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="Live",premier 1
 https://ewjfn95923gpzlz.belugacdn.link/live/channel1/playlist.m3u8
 
+#EXTINF:0 tvg-logo="http://bit.ly/2rOzilX" group-title="Movies",6 Underground(2019)
+https://dl.dropboxusercontent.com/s/s9rundt5t04qhko/6%20Underground%20.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2YPN3Ni" group-title="Movies",The Room(2019)
+https://dl.dropboxusercontent.com/s/tdocvxtkngxilsf/The%20Room.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2si67HP" group-title="Movies",Grand Isle(2019)
 https://dl.dropboxusercontent.com/s/29mfbaix0uc245q/Grand%20Isle.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2Ef1KQE" group-title="Movies",Knives and Skin(2019)
