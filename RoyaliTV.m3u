@@ -30,6 +30,11 @@ https://1107942067.rsc.cdn77.org/UpFiles/2019/12/14/34/134068/720p.m3u8
 https://1107942067.rsc.cdn77.org/UpFiles/2019/12/14/34/133965/720p.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight"Mainz 0:4 Dortmund
 https://1107942067.rsc.cdn77.org/UpFiles/2019/12/14/34/133884/720p.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/2rOzilX" group-title="Movies",6 Underground(2019)
+https://dl.dropboxusercontent.com/s/s9rundt5t04qhko/6%20Underground%20.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2YPN3Ni" group-title="Movies",The Room(2019)
+https://dl.dropboxusercontent.com/s/tdocvxtkngxilsf/The%20Room.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2si67HP" group-title="Movies",Grand Isle(2019)
 https://dl.dropboxusercontent.com/s/29mfbaix0uc245q/Grand%20Isle.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2Ef1KQE" group-title="Movies",Knives and Skin(2019)
