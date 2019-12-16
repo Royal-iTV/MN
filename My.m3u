@@ -910,8 +910,6 @@ http://bit.ly/2mjkHfe
 #EXTINF:0 tvg-logo="http://bit.ly/2kBzyBn" group-title="Movies",So Close
 http://bit.ly/2mjmJMo
 
-#EXTINF:0 tvg-logo="http://bit.ly/33nu7WL" group-title="TV",PyonePlay Sport
-https://trinity-lh.akamaihd.net/i/Forevergroupchanne_d@94614/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Channel_K.png" group-title="TV",Channel K
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2ODTGi4" group-title="TV",5Plus
