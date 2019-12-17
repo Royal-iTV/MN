@@ -1,4 +1,13 @@
 #EXTM3U
+
+#EXTINF:0 tvg-logo="http://bit.ly/2qXqidK" group-title="Movies",Code 8(2019)
+https://dl.dropboxusercontent.com/s/ixyz53li73ssnrm/Code%208.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2Z0PU67" group-title="Movies",Juanita(2019)
+https://dl.dropboxusercontent.com/s/jijfa7pa8r8kk4v/Juanita.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2PrqcEO" group-title="Movies",Tee Shot:Ariya Jutanugarn(2019)
+https://dl.dropboxusercontent.com/s/phfnsiotmvx01ol/Tee%20Shot-Ariya%20Jutanugarn.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/34runVn" group-title="Movies",Brittany Runs a Marathon(2019)
+https://dl.dropboxusercontent.com/s/a0dfjy2w44b48tz/Brittany%20Runs%20A%20Marathon.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/36KoaFH" group-title="Movies",Judy(2019)
 https://dl.dropboxusercontent.com/s/d0e240sowelsa15/Judy.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2rOzilX" group-title="Movies",6 Underground(2019)
