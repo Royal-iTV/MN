@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2YWzDiH" group-title="Movies",American Made(2017)
+https://dl.dropboxusercontent.com/s/0tkhzg2h0agu2wg/American%20Made.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2S2xyAj" group-title="Movies",The 9th Precinct(2019)
+https://dl.dropboxusercontent.com/s/45mca8z2jlk2h3d/The%209th%20Precinct.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/35wwyrT" group-title="Movies",Action(2019)
+https://dl.dropboxusercontent.com/s/qwjjo9ya0xw6w8t/Action.mp4?dl=0f
 #EXTINF:0 tvg-logo="http://bit.ly/2qXqidK" group-title="Movies",Code 8(2019)
 https://dl.dropboxusercontent.com/s/ixyz53li73ssnrm/Code%208.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2Z0PU67" group-title="Movies",Juanita(2019)
