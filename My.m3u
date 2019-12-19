@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2sG6RXp" group-title="Movies",Zombieland: Double Tap(2019)
+https://dl.dropboxusercontent.com/s/t7jkrxiralatlw1/Zombieland%20Double%20Tap.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2PDmojP" group-title="Movies",The Sky Is Pink(2019)
+https://dl.dropboxusercontent.com/s/mnntovysr23p5a8/The%20Sky%20Is%20Pink.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2tsxxLC" group-title="Movies",Hello Love Goodbye(2019)
 https://dl.dropboxusercontent.com/s/1mn5e3t082lnt3m/Hello%2C%20Love%20Goodbye.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2M696ds" group-title="Movies",Bacurau(2019)
