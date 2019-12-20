@@ -369,18 +369,9 @@ https://dl.dropboxusercontent.com/s/azobhr33cx0cp04/Missbehavior.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/361OUln" group-title="Movies",The Kitchen(2019)
 https://dl.dropboxusercontent.com/s/hpu1o8bp8vvwejm/The%20Kitchen.mp4?dl=0
 
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/F-SPORTS.png" group-title="Sport",FightSport
-http://210.210.155.35/uq2663/h/h05/01.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/444444.png" group-title="Sport",BeinSport4HD
-https://ewjfn95923gpzlz.belugacdn.link/live/channel5/playlist.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/bein8.png" group-title="Sport",BeinSport 8HD
-https://ewjfn95923gpzlz.belugacdn.link/live/channel2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/24/Bein-Sports-11.jpg" group-title="Sport",BeinSport 11HD
-https://ewjfn95923gpzlz.belugacdn.link/live/channel3/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2p6Wj1B" group-title="Sport",Sport.tv2
-https://ewjfn95923gpzlz.belugacdn.link/live/channel4/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Ms7gTs" group-title="Sport",Sport.tv3
-https://ewjfn95923gpzlz.belugacdn.link/live/channel1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/2tBRekm" group-title="Sport",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/AdSport1.png" group-title="Sport",AdSport1
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/adsports-2.png" group-title="Sport",AdSport2
