@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live
+http://cdn.60fps.live/live/sme/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live-1
+http://cdn.60fps.live/live/nbcsn/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live-2
+http://cdn.60fps.live/live/lll/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Premier League
+http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/46516
+
 #EXTINF:0 tvg-logo="http://bit.ly/36XDtee" group-title="Movies",Dead Kids(2019)
 https://dl.dropboxusercontent.com/s/ppv1ji88lqnnsp4/Dead%20Kids.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/35QaiK0" group-title="Series",The Witcher.S01E01
