@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Marlocs Vs Sevilla
+https://cdn10.dailysport.pw/live/1/1.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Everton Vs Arsenal
 https://auaeb15974tnuzr.belugacdn.link/live/channel1/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Mainz Vs Leverkusen
