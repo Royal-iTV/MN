@@ -1,9 +1,13 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live
+http://cdn.60fps.live/live/sme/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live-1
+http://cdn.60fps.live/live/nbcsn/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live-2
+http://cdn.60fps.live/live/lll/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Premier League
 http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/46516
-#EXTINF:0 tvg-logo="http://bit.ly/2PJRl68" group-title="Sport",Skysport Premier
-https://mmm.sport7.biz/lba/ODFjYTNkN2Y1Yjk5OGI4OTAwODllMThhYjYzZmVmNWM=/g5/sspl.m3u8?token=ODFjYTNkN2Y1Yjk5OGI4OTAwODllMThhYjYzZmVmNWM=&id=MGQ4MzlhMjY4MTQyZmFhMTc2OGFmZjI0NTE2NDU3Yzg=&vip=1572757213&dip=ODg5MDUyMzA3NGNhM2QyZWMwN2RjYjYzMTUzMDU4Mjg=&pip=36.71.232.99&hip=ZmUzOGIxNmI3OWVkMmRjNjU4NmVmNzNmNGZmMjI5NTA=
 
 #EXTINF:0 tvg-logo="http://bit.ly/36XDtee" group-title="Movies",Dead Kids(2019)
 https://dl.dropboxusercontent.com/s/ppv1ji88lqnnsp4/Dead%20Kids.mp4?dl=0
