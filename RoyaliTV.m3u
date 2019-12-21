@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Everton Vs Arsenal
+https://auaeb15974tnuzr.belugacdn.link/live/channel1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Mainz Vs Leverkusen
+https://auaeb15974tnuzr.belugacdn.link/live/channel4/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Inter Vs Genoa
+https://auaeb15974tnuzr.belugacdn.link/live/channel1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Bayern Vs Wolfsburg
+https://auaeb15974tnuzr.belugacdn.link/live/channel3/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live
 http://cdn.60fps.live/live/sme/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live-1
