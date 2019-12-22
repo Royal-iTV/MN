@@ -6,8 +6,8 @@ http://cdn.60fps.live/live/lll/playlist.m3u8
 https://cdn10.dailysport.pw/live/10/10.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Premier League1
 http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/46516
-#EXTINF:0 tvg-logo="http://bit.ly/2sQqegE" group-title="Sport",NBCSN
-https://cdn10.dailysport.pw/live/4/4.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Watford Vs ManU
+http://cdn.60fps.live/live/nbcsn/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/36SXDpw" group-title="Sport",M.LigaDe
 https://cdn10.dailysport.pw/live/5/5.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2EJaoXN" group-title="Sport",M.Laliga1
