@@ -1,19 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2sQqegE" group-title="Sport",NBCSN
-https://cdn10.dailysport.pw/live/4/4.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/36SXDpw" group-title="Sport",M.LigaDe
-https://cdn10.dailysport.pw/live/5/5.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/390ATpv" group-title="Sport",Bundesliga
-https://cdn10.dailysport.pw/live/6/6.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2PJnsCJ" group-title="Sport",M Deportes
-https://cdn10.dailysport.pw/live/9/9.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SfLbMD" group-title="Sport",M.LaLiga
-https://cdn10.dailysport.pw/live/1/1.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3953xpm" group-title="Sport",Eurosport2
-https://cdn10.dailysport.pw/live/3/3.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/36Xwhyx" group-title="Sport",BeinSport
-https://cdn10.dailysport.pw/live/2/2.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Premier League
 http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/46516
 
@@ -411,6 +398,20 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Ad_sport_4.png" group-title="Sport",adsport4
 http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2sQqegE" group-title="Sport",NBCSN
+https://cdn10.dailysport.pw/live/4/4.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/36SXDpw" group-title="Sport",M.LigaDe
+https://cdn10.dailysport.pw/live/5/5.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/390ATpv" group-title="Sport",Bundesliga
+https://cdn10.dailysport.pw/live/6/6.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2PJnsCJ" group-title="Sport",M Deportes
+https://cdn10.dailysport.pw/live/9/9.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SfLbMD" group-title="Sport",M.LaLiga
+https://cdn10.dailysport.pw/live/1/1.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3953xpm" group-title="Sport",Eurosport2
+https://cdn10.dailysport.pw/live/3/3.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/36Xwhyx" group-title="Sport",BeinSport
+https://cdn10.dailysport.pw/live/2/2.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2olcKaV" group-title="Series",BatWoman(2019)S01E01
 https://dl.dropboxusercontent.com/s/g0wv2u4omx6lkl3/Batwoman.S01E01.mp4?dl=0
