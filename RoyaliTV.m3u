@@ -1,21 +1,19 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Marlocs Vs Sevilla
+#EXTINF:0 tvg-logo="http://bit.ly/2sQqegE" group-title="Sport",NBCSN
+https://cdn10.dailysport.pw/live/4/4.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/36SXDpw" group-title="Sport",M.LigaDe
+https://cdn10.dailysport.pw/live/5/5.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/390ATpv" group-title="Sport",Bundesliga
+https://cdn10.dailysport.pw/live/6/6.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2PJnsCJ" group-title="Sport",M Deportes
+https://cdn10.dailysport.pw/live/9/9.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SfLbMD" group-title="Sport",M.LaLiga
 https://cdn10.dailysport.pw/live/1/1.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Everton Vs Arsenal
-https://auaeb15974tnuzr.belugacdn.link/live/channel1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Mainz Vs Leverkusen
-https://auaeb15974tnuzr.belugacdn.link/live/channel4/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Inter Vs Genoa
-https://auaeb15974tnuzr.belugacdn.link/live/channel1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Bayern Vs Wolfsburg
-https://auaeb15974tnuzr.belugacdn.link/live/channel3/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live
-http://cdn.60fps.live/live/sme/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live-1
-http://cdn.60fps.live/live/nbcsn/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live-2
-http://cdn.60fps.live/live/lll/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3953xpm" group-title="Sport",Eurosport2
+https://cdn10.dailysport.pw/live/3/3.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/36Xwhyx" group-title="Sport",BeinSport
+https://cdn10.dailysport.pw/live/2/2.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Premier League
 http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/46516
 
