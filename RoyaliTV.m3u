@@ -1,12 +1,9 @@
 #EXTM3U
 
-
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Everton 0:0 Arsenal
 https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/34/135628/720p.m3u8
-
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",NewCastle 1:0 Crystal
 https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/34/135798/720p.m3u8
-
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",ManCity 3:1 Leicester
 https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/34/135958/720p.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Liverpool 1:0 Flamengo
