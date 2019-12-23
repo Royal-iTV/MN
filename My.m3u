@@ -1,30 +1,34 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Watford 2:0 Man-U
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/22/34/136295/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Tottenham 0:2 Chelsea
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/22/34/136405/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Atlanta 5:0 Milan
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/22/34/136150/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Real Betis 1:2 Atletico
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/22/34/136317/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Real Mdrid 0:0 Athletic
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/22/34/136478/720p.m3u8
 
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",English Championship
-http://cdn.60fps.live/live/sme/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Laliga
-http://cdn.60fps.live/live/lll/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Premier League
-https://cdn10.dailysport.pw/live/10/10.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Premier League1
-http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/46516
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Watford Vs ManU
-http://cdn.60fps.live/live/nbcsn/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/36SXDpw" group-title="Sport",M.LigaDe
-https://cdn10.dailysport.pw/live/5/5.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2EJaoXN" group-title="Sport",M.Laliga1
-https://cdn10.dailysport.pw/live/7/7.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/390ATpv" group-title="Sport",Bundesliga
-https://cdn10.dailysport.pw/live/6/6.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2PJnsCJ" group-title="Sport",M Deportes
-https://cdn10.dailysport.pw/live/9/9.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SfLbMD" group-title="Sport",M.LaLiga
-https://cdn10.dailysport.pw/live/1/1.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3953xpm" group-title="Sport",Eurosport2
-https://cdn10.dailysport.pw/live/3/3.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/36Xwhyx" group-title="Sport",BeinSport
-https://cdn10.dailysport.pw/live/2/2.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Everton 0:0 Arsenal
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/34/135628/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",NewCastle 1:0 Crystal
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/34/135798/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",ManCity 3:1 Leicester
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/34/135958/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Liverpool 1:0 Flamengo
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/34/136008/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Barcelona 4:1 Alaves
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/42/135790/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",PSG 4:1 Amiens
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/42/136046/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Inter 4:0 Genoa
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/34/135939/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Bayern 2:0 Wolfsburg
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/42/135758/720p.m3u8
 
+#EXTINF:0 tvg-logo="http://bit.ly/35QERim" group-title="Movies",Togo(2019)
+https://dl.dropboxusercontent.com/s/q3rkvzbc5tru7t7/Togo.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2rjg9Zb" group-title="Movies",The Lighthouse(2019)
 https://dl.dropboxusercontent.com/s/nwjx59ihq3ryqlx/The%20Lighthouse.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/38ZA8Ns" group-title="Movies",MA
