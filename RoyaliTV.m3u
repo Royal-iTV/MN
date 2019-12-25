@@ -1,32 +1,64 @@
 #EXTM3U
-
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Watford 2:0 Man-U
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/22/34/136295/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Tottenham 0:2 Chelsea
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/22/34/136405/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Atlanta 5:0 Milan
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/22/34/136150/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Real Betis 1:2 Atletico
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/22/34/136317/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Real Mdrid 0:0 Athletic
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/22/34/136478/720p.m3u8
-
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Everton 0:0 Arsenal
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/34/135628/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",NewCastle 1:0 Crystal
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/34/135798/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",ManCity 3:1 Leicester
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/34/135958/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Liverpool 1:0 Flamengo
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/34/136008/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Barcelona 4:1 Alaves
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/42/135790/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",PSG 4:1 Amiens
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/42/136046/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Inter 4:0 Genoa
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/34/135939/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Bayern 2:0 Wolfsburg
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/21/42/135758/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2ofRenK" group-title="Kids",Toy Story
+http://bit.ly/30P525Y
+#EXTINF:0 tvg-logo="http://bit.ly/32Xh9iO" group-title="Kids",Toy Story 2
+http://bit.ly/2VbUOeK
+#EXTINF:0 tvg-logo="http://bit.ly/2IoRwQ8" group-title="Kids",Toy Story 3
+http://bit.ly/2Om7q1u
+#EXTINF:0 tvg-logo="http://bit.ly/2sYWU7B" group-title="Kids",Toy Story 4
+http://bit.ly/2mgnEwY
+#EXTINF:0 tvg-logo="http://bit.ly/2ImnRHa" group-title="Kids",Monster University
+http://bit.ly/2VbVBwe
+#EXTINF:0 tvg-logo="http://bit.ly/2OoLum7" group-title="Kids",Monsters Inc
+http://bit.ly/2VbVBwe
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/moana.jpg" group-title="Kids",Moana
+http://bit.ly/2ZJyVs1
+#EXTINF:0 tvg-logo="http://bit.ly/2ES4eEQ" group-title="Kids",Inside Out
+http://bit.ly/377RE0m
+#EXTINF:0 tvg-logo="http://bit.ly/2PXLZ7n" group-title="Kids",The Book Of Life
+http://bit.ly/2SjLV3k
+#EXTINF:0 tvg-logo="http://bit.ly/33nHI0G" group-title="Kids",The Lion King(2019)
+http://bit.ly/33nHnLs
+#EXTINF:0 tvg-logo="http://bit.ly/399zZXH" group-title="Kids",How To Train Your Drogon
+http://bit.ly/2rukh8M
+#EXTINF:0 tvg-logo="http://bit.ly/2PRRep0" group-title="Kids",How To Train Your Drogon2
+http://bit.ly/2t23VEA
+#EXTINF:0 tvg-logo="http://bit.ly/2oAOoK4" group-title="Kids",HowToTrainYourDragon(2019)
+http://bit.ly/2osAvxN
+#EXTINF:0 tvg-logo="http://bit.ly/2ARysWC" group-title="Kids",The Incredibles
+http://bit.ly/2VgYcFc
+#EXTINF:0 tvg-logo="http://bit.ly/2ItKrOa" group-title="Kids",The Incredibles 2
+http://bit.ly/33jF4cz
+#EXTINF:0 tvg-logo="http://bit.ly/2lWIq4D" group-title="Kids",Aladdin
+http://bit.ly/2mm1EB0
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/alita.jpg" group-title="Kids",Alita:Battle Angel
+http://bit.ly/2Zzy7pu
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Godzilla.jpg" group-title="Kids",Godzilla: King of the Monsters
+http://bit.ly/2UifW2p
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/cars-5045ae432058f.jpg" group-title="Kids",Car
+http://bit.ly/2lv2meS
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/cars-2-55263a5c59c39.jpg" group-title="Kids",Car2
+http://bit.ly/2lSq6JP
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/cars-3-58adcd72a6e0e.jpg" group-title="Kids",Car3
+http://bit.ly/2lZgtcz
+#EXTINF:0 tvg-logo="http://bit.ly/2kkvxkB" group-title="Kids",Mowgli: Legend of the Jungle
+http://bit.ly/2kwG0cF
+#EXTINF:0 tvg-logo="http://bit.ly/2lDEW77" group-title="Kids",Zootopia
+http://bit.ly/2m5xhyJ
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/batman-returns-5b99d3a9c23a1.jpg" group-title="Kids",Batman Returns
+http://bit.ly/2kqqDCo
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/batman--robin-5151a476173dc.jpg" group-title="Kids",Batman & Robin
+http://bit.ly/2kq8PYd
+#EXTINF:0 tvg-logo="http://bit.ly/35iSV3s" group-title="Kids",Klaus(2019)
+https://dl.dropboxusercontent.com/s/46quj4a5j7nkqtj/Klaus.mp4?dl=0    
+#EXTINF:0 tvg-logo="http://bit.ly/2rEpUAI" group-title="Kids",Abominable(2019)
+https://dl.dropboxusercontent.com/s/eveuku1ye0ggflx/Abominable.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2PVk7AL" group-title="Kids",Rango
+http://bit.ly/2SmUfPO
+#EXTINF:0 tvg-logo="http://bit.ly/35TNGIh" group-title="Kids",The Grinch
+http://bit.ly/2Mp3JX6
+#EXTINF:0 tvg-logo="http://bit.ly/375DNHO" group-title="Movies",Wonder Park
+http://bit.ly/2PtGkrs
 
 #EXTINF:0 tvg-logo="http://bit.ly/35PVlYe" group-title="Movies",The Russian Bride(2019)
 https://dl.dropboxusercontent.com/s/77coen55wb9441a/The%20Russian%20Bride.mp4?dl=0
@@ -162,8 +194,6 @@ https://dl.dropboxusercontent.com/s/1e1r97v5a2uvus8/The%20Irishman.mp4?dl=0
 https://dl.dropboxusercontent.com/s/vsqp55808uno4zo/Candle%20in%20the%20Tomb-%20The%20Wrath%20of%20Time.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/37J0JxP" group-title="Movies",War(2019)
 https://dl.dropboxusercontent.com/s/iegdfbz5279kh2q/War.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2rEpUAI" group-title="Movies",Abominable(2019)
-https://dl.dropboxusercontent.com/s/eveuku1ye0ggflx/Abominable.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/37LjNLF" group-title="Movies",Back Street Girls: Gokudols(2019)
 https://dl.dropboxusercontent.com/s/0nvy92zoe17tytw/Back%20Street%20Girls-%20Gokudols.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/37Mwkyj" group-title="Movies",Overcomer(2019)
@@ -229,8 +259,6 @@ https://dl.dropboxusercontent.com/s/tlk4c7mrdf6e4gf/The%20Goldfinch.mp4?dl=0
 https://dl.dropboxusercontent.com/s/vlwfc2bg8u2ukq4/Jallikattu.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/35khME9" group-title="Movies",Harpoon(2019)
 https://dl.dropboxusercontent.com/s/l9i7u8ojck79wnl/Harpoon.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/35iSV3s" group-title="Movies",Klaus(2019)
-https://dl.dropboxusercontent.com/s/46quj4a5j7nkqtj/Klaus.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2KyR7M7" group-title="Movies",Sisters(2019)
 https://dl.dropboxusercontent.com/s/7kuabi0dm1ooval/Sisters.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2KBB2oJ" group-title="Movies",The Last Wish(2019)
@@ -705,8 +733,7 @@ http://bit.ly/324mJQm
 http://bit.ly/317ny9C
 #EXTINF:0 tvg-logo="http://bit.ly/2ozog2d" group-title="Movies",Andy lau Movies
 http://bit.ly/2B4ClHz
-#EXTINF:0 tvg-logo="http://bit.ly/33nHI0G" group-title="Movies",The Lion King(2019)
-http://bit.ly/33nHnLs
+
 #EXTINF:0 tvg-logo="http://bit.ly/35wEkCq" group-title="Movies",Donnybrook(2018)
 http://bit.ly/2IN97kK
 #EXTINF:0 tvg-logo="http://bit.ly/2q79lNb" group-title="Movies",The Trust(2016)
@@ -715,8 +742,7 @@ http://bit.ly/33s649O
 http://bit.ly/329YX5n
 #EXTINF:0 tvg-logo="http://bit.ly/2IMSSUT" group-title="Movies",The Curse of La Llorona(2019)
 http://bit.ly/327mdB4
-#EXTINF:0 tvg-logo="http://bit.ly/2oAOoK4" group-title="Movies",HowToTrainYourDragon(2019)
-http://bit.ly/2osAvxN
+
 #EXTINF:0 tvg-logo="http://bit.ly/35na39j" group-title="Movies",Running with the Devil (2019)
 http://bit.ly/33iyq6c
 #EXTINF:0 tvg-logo="http://bit.ly/2MsTLCW" group-title="Movies",Critters Attack! (2019)
@@ -729,10 +755,6 @@ http://bit.ly/2AV7bCG
 http://bit.ly/2oZoxeO
 #EXTINF:0 tvg-logo="http://bit.ly/31XLIF0" group-title="Movies",The Nun
 http://bit.ly/33dJfpY
-#EXTINF:0 tvg-logo="http://bit.ly/2ARysWC" group-title="Movies",The Incredibles
-http://bit.ly/2VgYcFc
-#EXTINF:0 tvg-logo="http://bit.ly/2ItKrOa" group-title="Movies",The Incredibles 2
-http://bit.ly/33jF4cz
 #EXTINF:0 tvg-logo="http://bit.ly/2pKsyEa" group-title="Movies",Pee Mak
 http://bit.ly/2LQxFvb
 #EXTINF:0 tvg-logo="http://bit.ly/30Q6o03" group-title="Movies",Pee Nak
@@ -753,16 +775,6 @@ http://bit.ly/2oRhLI4
 http://bit.ly/3321Mpl
 #EXTINF:0 tvg-logo="http://bit.ly/2LLNUtq" group-title="Movies",Wonder Woman
 http://bit.ly/2VjA5Wf
-#EXTINF:0 tvg-logo="http://bit.ly/2ofRenK" group-title="Movies",Toy Story
-http://bit.ly/30P525Y
-#EXTINF:0 tvg-logo="http://bit.ly/32Xh9iO" group-title="Movies",Toy Story 2
-http://bit.ly/2VbUOeK
-#EXTINF:0 tvg-logo="http://bit.ly/2IoRwQ8" group-title="Movies",Toy Story 3
-http://bit.ly/2Om7q1u
-#EXTINF:0 tvg-logo="http://bit.ly/2ImnRHa" group-title="Movies",Monster University
-http://bit.ly/2VbVBwe
-#EXTINF:0 tvg-logo="http://bit.ly/2OoLum7" group-title="Movies",Monsters Inc
-http://bit.ly/2VbVBwe
 #EXTINF:0 tvg-logo="http://bit.ly/2OnDoKA" group-title="Movies",Avengers:Endgame
 http://bit.ly/2o6qaYd
 #EXTINF:0 tvg-logo="http://bit.ly/2OjYQjB" group-title="Movies",Captain America:The First Avenger
@@ -832,14 +844,10 @@ http://bit.ly/2msf927
 http://bit.ly/2kTqYxG
 #EXTINF:0 tvg-logo="http://bit.ly/2kqFNrl" group-title="Movies",Escape Plan2:Hades
 http://bit.ly/2kuctAr
-#EXTINF:0 tvg-logo="http://bit.ly/2lWIq4D" group-title="Movies",Aladdin
-http://bit.ly/2mm1EB0
 #EXTINF:0 tvg-logo="http://bit.ly/2lMZVnY" group-title="Movies",Super 30
 http://bit.ly/2klBuO1
 #EXTINF:0 tvg-logo="http://bit.ly/2kNIJyw" group-title="Movies",A Taxi Driver
 http://bit.ly/2kgc3gK
-#EXTINF:0 tvg-logo="http://bit.ly/2mgnIgc" group-title="Movies",Toy Story 4
-http://bit.ly/2mgnEwY
 #EXTINF:0 tvg-logo="http://bit.ly/2kLurhK" group-title="Movies",Goodbye Christopher Robin
 http://bit.ly/2kzeuvf
 #EXTINF:0 tvg-logo="http://bit.ly/2mhXKcj" group-title="Movies",A Dogs Way Home
@@ -862,12 +870,8 @@ http://bit.ly/2Ld2J8g
 http://bit.ly/2ZEqA8E
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/MIB19.jpg" group-title="Movies",Man In Black International
 http://bit.ly/2L9ghBG
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/moana.jpg" group-title="Movies",Moana
-http://bit.ly/2ZJyVs1
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/BloodDiamond.jpg" group-title="Movies",Blood Diamond
 http://bit.ly/2PmPhmh
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/alita.jpg" group-title="Movies",Alita:Battle Angel
-http://bit.ly/2Zzy7pu
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/snowden.jpg" group-title="Movies",Snowden
 http://bit.ly/2HvVhCM
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/30/APOCALYPTO.jpg" group-title="Movies",APOCALYPTO
@@ -900,8 +904,6 @@ http://bit.ly/2MJp8fr
 http://bit.ly/2PsAwhS
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/us.jpg" group-title="Movies",US
 http://bit.ly/32mDBSd
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/Godzilla.jpg" group-title="Movies",Godzilla: King of the Monsters
-http://bit.ly/2UifW2p
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/due-date-533887ace6fb6.png" group-title="Movies",Due Date
 http://bit.ly/34gX4oX
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/31/spider-man.jpg" group-title="Movies",Spider Man
@@ -926,20 +928,10 @@ http://bit.ly/2kfndTe
 http://bit.ly/2jWYwKW
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/Batman-Begins.jpg" group-title="Movies",Batman Begins
 http://bit.ly/2ltgNjr
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/batman-returns-5b99d3a9c23a1.jpg" group-title="Movies",Batman Returns
-http://bit.ly/2kqqDCo
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/batman--robin-5151a476173dc.jpg" group-title="Movies",Batman & Robin
-http://bit.ly/2kq8PYd
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/catch-me-if-you-can-5206c79eeb3a0.jpg" group-title="Movies",Catch Me If You Can
 http://bit.ly/2ly5Rkz
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/71-55c7a711d4e77.jpg" group-title="Movies",'71
 http://bit.ly/2lAoOmU
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/cars-5045ae432058f.jpg" group-title="Movies",Car
-http://bit.ly/2lv2meS
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/cars-2-55263a5c59c39.jpg" group-title="Movies",Car2
-http://bit.ly/2lSq6JP
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/cars-3-58adcd72a6e0e.jpg" group-title="Movies",Car3
-http://bit.ly/2lZgtcz
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/parasite-5d2d5ab30c73d.jpg" group-title="Movies",Parasite 
 http://bit.ly/2lRnZ99
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/the-shallows-577cd688b1922.jpg" group-title="Movies",The Shallows
@@ -970,14 +962,10 @@ http://bit.ly/2lzYKIy
 http://bit.ly/2lyqME9
 #EXTINF:0 tvg-logo="http://bit.ly/2kna2Qc" group-title="Movies",Sui Dhaaga
 http://bit.ly/2m3ybLZ
-#EXTINF:0 tvg-logo="http://bit.ly/2kkvxkB" group-title="Movies",Mowgli: Legend of the Jungle
-http://bit.ly/2kwG0cF
 #EXTINF:0 tvg-logo="http://bit.ly/2k9tHD2" group-title="Movies",ZOE
 http://bit.ly/2k4BCS1
 #EXTINF:0 tvg-logo="http://bit.ly/2lGMwhm" group-title="Movies",The Merciless
 http://bit.ly/2lCdgiS
-#EXTINF:0 tvg-logo="http://bit.ly/2lDEW77" group-title="Movies",Zootopia
-http://bit.ly/2m5xhyJ
 #EXTINF:0 tvg-logo="http://bit.ly/2kyhxDQ" group-title="Movies",Venon
 http://bit.ly/2kwHOlX
 #EXTINF:0 tvg-logo="http://bit.ly/2lBUVCE" group-title="Movies",Train To Busan
