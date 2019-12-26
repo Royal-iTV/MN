@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Premier League
+http://34.102.207.198/live/nbcsn/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/34SOWKB" group-title="Kids",The Addams Family(2019)
 https://dl.dropboxusercontent.com/s/7xualhk19cibeun/The%20Addams%20Family.mp4?dl=0
