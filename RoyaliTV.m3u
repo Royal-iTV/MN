@@ -1,6 +1,18 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Premier League
-http://34.102.207.198/live/nbcsn/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Tottenham 2:1 Brighton
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/26/34/136779/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Bournemouth 1:1 Arsenal
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/26/34/136862/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Everton 1:0 Burnley
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/26/34/136895/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Chelsea 0:2 Southampton
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/26/34/136888/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Man-U 4:1 Newcastle
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/26/34/137006/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Leicester 0:4 Liverpool
+https://1107942067.rsc.cdn77.org/UpFiles/2019/12/26/34/137097/720p.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/2t6xIfi" group-title="4K",Alita:Battle Angel4K(2019)
 https://dl.dropboxusercontent.com/s/jfbz3qhm1fogvbu/Alita%20Battle%20Angel%20%282019%29%204K%20HDR%206CH.mkv?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2kzmQ69" group-title="4K",iT 4K(2017)
