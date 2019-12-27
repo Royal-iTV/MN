@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Premier League
 http://34.102.207.198/live/nbcsn/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2t6xIfi" group-title="4K",Alita:Battle Angel(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2t6xIfi" group-title="4K",Alita:Battle Angel4K(2019)
 https://dl.dropboxusercontent.com/s/jfbz3qhm1fogvbu/Alita%20Battle%20Angel%20%282019%29%204K%20HDR%206CH.mkv?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2kzmQ69" group-title="4K",iT(2017)
+#EXTINF:0 tvg-logo="http://bit.ly/2kzmQ69" group-title="4K",iT 4K(2017)
 https://dl.dropboxusercontent.com/s/fkexc249l0utmox/It%20%282017%29%204K.mkv?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2QljBe5" group-title="4K",Iron Man(2008)
+#EXTINF:0 tvg-logo="http://bit.ly/2QljBe5" group-title="4K",Iron Man4K(2008)
 https://dl.dropboxusercontent.com/s/tbwnwpee7tc5t25/Iron%20Man%20%282008%29%204K.mkv?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2Qn8vp0" group-title="4K",Avatar(2009)
+#EXTINF:0 tvg-logo="http://bit.ly/2Qn8vp0" group-title="4K",Avatar4K(2009)
 https://dl.dropboxusercontent.com/s/d15cqy6l8977awj/Avatar%20%282009%29%204K.mkv?dl=0
 
 #EXTINF:0 tvg-logo="http://bit.ly/34SOWKB" group-title="Kids",The Addams Family(2019)
