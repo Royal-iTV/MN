@@ -1,18 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Tottenham 2:1 Brighton
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/26/34/136779/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Bournemouth 1:1 Arsenal
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/26/34/136862/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Everton 1:0 Burnley
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/26/34/136895/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Chelsea 0:2 Southampton
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/26/34/136888/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Man-U 4:1 Newcastle
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/26/34/137006/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Leicester 0:4 Liverpool
-https://1107942067.rsc.cdn77.org/UpFiles/2019/12/26/34/137097/720p.m3u8
-
 #EXTINF:0 tvg-logo="http://bit.ly/2QmQcjL" group-title="Series",Daybreak.S01E01
 https://dl.dropboxusercontent.com/s/tdsdp4swg6yv2hx/Daybreak.S01E01.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2QmQcjL" group-title="Series",Daybreak.S01E02
@@ -327,6 +314,8 @@ https://dl.dropboxusercontent.com/s/8vaab8c1d7020zq/The%20Mandalorian.S01E05.mp4
 https://dl.dropboxusercontent.com/s/4wif193j166et1x/The%20Mandalorian.S01E06.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2XiT7x3" group-title="Series",The Mandalorian(2019)S01E07
 https://dl.dropboxusercontent.com/s/pwpt0lp16o9sa5x/The%20Mandalorian.S01E07.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2XiT7x3" group-title="Series",The Mandalorian(2019)S01E08
+https://dl.dropboxusercontent.com/s/9pa0ldk8fhmn05u/The%20Mandalorian.S01E08.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2Qoc1Bc" group-title="Series",Chernobyl(2019)S01E01
 https://dl.dropboxusercontent.com/s/q06rf0652xpi3dd/Chernobyl.S01E01.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2Qoc1Bc" group-title="Series",Chernobyl(2019)S01E02
