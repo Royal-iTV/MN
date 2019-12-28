@@ -1,7 +1,19 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Premier League
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live
 http://34.102.207.198/live/nbcsn/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live1
+https://auaeb15974tnuzr.belugacdn.link/live/channel1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live2
+https://auaeb15974tnuzr.belugacdn.link/live/channel5/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live3
+https://auaeb15974tnuzr.belugacdn.link/live/channel4/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live4
+http://cdn.60fps.live/live/sme/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live5
+https://auaeb15974tnuzr.belugacdn.link/live/channel2/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live6
+https://auaeb15974tnuzr.belugacdn.link/live/channel3/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2QmQcjL" group-title="Series",Daybreak.S01E01
 https://dl.dropboxusercontent.com/s/tdsdp4swg6yv2hx/Daybreak.S01E01.mp4?dl=0
