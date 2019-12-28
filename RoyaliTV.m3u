@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Premier League
+http://34.102.207.198/live/nbcsn/playlist.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/2QmQcjL" group-title="Series",Daybreak.S01E01
 https://dl.dropboxusercontent.com/s/tdsdp4swg6yv2hx/Daybreak.S01E01.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2QmQcjL" group-title="Series",Daybreak.S01E02
@@ -578,7 +581,7 @@ https://cdn10.dailysport.pw/live/10/10.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="Sport",Premier League1
 http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/46516
 #EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="Sport",EPL
-http://cdn.60fps.live/live/nbcsn/playlist.m3u8
+http://www.pandar.tv:25461/026350658290/umewZIiOXFzIh1x/46516
 #EXTINF:0 tvg-logo="http://bit.ly/36SXDpw" group-title="Sport",M.LigaDe
 https://cdn10.dailysport.pw/live/5/5.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2EJaoXN" group-title="Sport",M.Laliga1
