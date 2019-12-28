@@ -796,11 +796,11 @@ https://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/kW42rzh.png" group-title="",Thai TV 5
 https://1905117544.rsc.cdn77.org/LS-50041-SIN-20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/egqapQ6.jpg" group-title="",Thai TV 7
-http://live.pjmcdn.info/live/Ch7-HD.stream/playlist.m3u8
+https://1521567559.rsc.cdn77.org/LS-50041-SIN-21/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" group-title="",Channel 8
 http://stream.rs.co.th/ch8-hi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="",Thai PBS 3
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="http://bit.ly/2ZvCFKU" group-title="",TownTV
+https://1521567559.rsc.cdn77.org/LS-50041-SIN-16/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-logo="http://bit.ly/2MtNIiY" group-title="Movies",The Girl with the Dragon Tattoo
