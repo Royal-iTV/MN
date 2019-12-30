@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2tiMGPt" group-title="Sport",LFC TV
+http://stream.tvtap.live:8081/live/lfctv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAxOSAzOjI2OjI4IEFNJmhhc2hfdmFsdWU9UHZZOFVDdWRTRy8xMC81S0xvZHpaZz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:0 tvg-logo="http://bit.ly/358kpsi" group-title="Sport",ManU TV
+http://stream.tvtap.live:8081/live/mutv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAxOSAzOjUwOjEzIEFNJmhhc2hfdmFsdWU9a3RlWTZ2bUNjSEN0M0t4VU4wTGh4Zz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:0 tvg-logo="http://bit.ly/36bu9DA" group-title="Sport",NBC Golf
+http://stream.tvtap.live:8081/live/golf.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAxOSAzOjMzOjMxIEFNJmhhc2hfdmFsdWU9N0hrUkFvOHdiSlZUL0ZVNDVBSkhxQT09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Arsenal 1:2 Chelsea
 https://1107942067.rsc.cdn77.org/UpFiles/2019/12/29/34/137695/720p.m3u8
