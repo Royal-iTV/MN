@@ -1,4 +1,13 @@
 #EXTM3U
+
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live
+http://34.102.207.198/live/nbcsn/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live1
+http://34.102.207.198/live/sme/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live2
+http://34.102.207.198/live/epl1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live3
+http://34.102.207.198/live/epl2/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2tfIuzY" group-title="Movies",New Justice Bao: The Blood Reward(2019)
 https://dl.dropboxusercontent.com/s/edmo96348elssg8/New%20Justice%20Bao.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2ZzV0qh" group-title="Kids",CoCo(2017)
