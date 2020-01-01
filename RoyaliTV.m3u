@@ -8,6 +8,8 @@ http://34.102.207.198/live/sme/playlist.m3u8
 http://34.102.207.198/live/epl1/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live3
 http://34.102.207.198/live/epl2/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live4
+https://auaeb15974tnuzr.belugacdn.link/live/channel2/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2Fd1a6p" group-title="4K",Baywatch 4K(2017)
 https://dl.dropboxusercontent.com/s/77udlh4t7zduzat/Baywatch%204K.mp4?dl=0
