@@ -609,29 +609,18 @@ https://dl.dropboxusercontent.com/s/hpu1o8bp8vvwejm/The%20Kitchen.mp4?dl=0
 
 #EXTINF:0 tvg-logo="http://bit.ly/2tBRekm" group-title="Sport",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Sport",English Championship
-http://cdn.60fps.live/live/sme/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Sport",Laliga
-http://cdn.60fps.live/live/lll/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="Live",Premier League
-https://cdn10.dailysport.pw/live/10/10.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2OfOEbm" group-title="Sport",Premier League1
-http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/46516
-#EXTINF:0 tvg-logo="http://bit.ly/36SXDpw" group-title="Sport",M.LigaDe
-https://cdn10.dailysport.pw/live/5/5.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2EJaoXN" group-title="Sport",M.Laliga1
-https://cdn10.dailysport.pw/live/7/7.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/390ATpv" group-title="Sport",Bundesliga
-https://cdn10.dailysport.pw/live/6/6.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2PJnsCJ" group-title="Sport",M Deportes
-https://cdn10.dailysport.pw/live/9/9.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SfLbMD" group-title="Sport",M.LaLiga
-https://cdn10.dailysport.pw/live/1/1.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3953xpm" group-title="Sport",Eurosport2
-https://cdn10.dailysport.pw/live/3/3.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/36Xwhyx" group-title="Sport",BeinSport
-https://cdn10.dailysport.pw/live/2/2.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2sQqegE" group-title="Sport",NBCSN
+https://cdn.dailysport.pw/epl/1/1.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2sDlqeJ" group-title="Sport",BeinSport2HD
+http://95.170.215.108:1213/hls/m3u8/beinhd.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/39zqUrp" group-title="Sport",ESPN
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/37u72V2" group-title="Sport",Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/36eMXSo" group-title="Sport",SkySport Main Event
+http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/36iz6KC" group-title="Sport",SkySport Premier
+http://95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/AdSport1.png" group-title="Sport",AdSport1
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/adsports-2.png" group-title="Sport",AdSport2
