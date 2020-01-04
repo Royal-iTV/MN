@@ -1,6 +1,21 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Rochdale Vs NewCastle
 http://34.102.207.198/live/bt1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Mancity Vs Port Vale
+http://34.102.207.198/live/nbcsn/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Leicester Vs Wigan
+http://34.102.207.198/live/r2/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Wolves Vs Man-U
+http://34.102.207.198/live/bte/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Fulham Vs Aston Villa
+https://cdn11.dailysport.pw/epl/11/1.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Preston Vs Norwich
+http://34.102.207.198/live/bte/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Brighton VS Sheffield
+http://34.102.207.198/live/nbcsn/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Southampton Vs Huddersfield
+http://34.102.207.198/live/r2/playlist.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/36nBksp" group-title="Movies",Always a Bridesmaid(2019)
 https://dl.dropboxusercontent.com/s/67rjo5rc0s0a6f5/Always%20A%20Bridesmaid.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2MVgF7d" group-title="Movies",Saand Ki Aankh(2019)
