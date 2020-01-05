@@ -4,6 +4,10 @@
 http://weak_spell.carniferou.club/edge/PS1/chunks.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Brescia Vs Lazio 
 http://34.102.207.198/live/e/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live1
+http://34.102.207.198/live/lll/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live2
+http://34.102.207.198/live/nbcsn/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2ZTELUZ" group-title="Kids",The Croods
 https://www.dropbox.com/s/8fz3chkiwff8c8t/The%20Croods.mp4?dl=0
