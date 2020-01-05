@@ -1,21 +1,45 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Rochdale Vs NewCastle
-http://34.102.207.198/live/bt1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Mancity Vs Port Vale
-http://34.102.207.198/live/nbcsn/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Leicester Vs Wigan
-http://34.102.207.198/live/r2/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Wolves Vs Man-U
-http://34.102.207.198/live/bte/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Fulham Vs Aston Villa
-https://cdn11.dailysport.pw/epl/11/1.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Preston Vs Norwich
-http://34.102.207.198/live/bte/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Brighton VS Sheffield
-http://34.102.207.198/live/nbcsn/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Southampton Vs Huddersfield
-http://34.102.207.198/live/r2/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Wolves 0:0 Man-U
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/36/138700/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Mancity 4:1 Port Vale
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/34/138696/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Rotherham United 2:3 Hull City
+https://dl.dropboxusercontent.com/s/9yh66jbb1m2f28p/Rotherham%20United%20vs%20Hull%20City%20%28FA%20Cup%29%20Highlights.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Birmingham 2:1 Blackburn 
+https://www.dropbox.com/s/zscpngvlvcy8xsp/Birmingham%20vs%20Blackburn%20Rovers%20%28FA%20Cup%29%20Highlights.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Brentford 1:0 Stoke City
+https://www.dropbox.com/s/utm748h4buwfgr1/Brentford%20vs%20Stoke%20City%20%28FA%20Cup%29%20Highlights.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Rochdale 1:1 NewCastle
+https://www.dropbox.com/s/7c60uwkwo4r1dqe/Rochdale%20vs%20Newcastle%20United%20%28FA%20Cup%29%20Highlights.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Burnley 4:2 Peterborough 
+https://www.dropbox.com/s/oni1f6snd7z2h9z/Burnley%20vs%20Peterborough%20United%20%28FA%20Cup%29%20Highlights.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Bournemouth 4:0 Luton Town
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/36/138710/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Leicester City 2:0 Wigan
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/36/138751/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Fulham 2:1 Aston Villa
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/36/138588/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Southampton 2:0 Huddersfield
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/36/138597/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Preston 2:4 Norwich City
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/36/138636/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Watford 3:3 Tranmere Rovers
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/36/138604/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Burnley 4:2 Peterborough
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/44/138524/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Espanyol 2:2 Barcelona
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/42/138804/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Atletico 2:1 Levante
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/42/138683/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Getafe 0:3 Real Madrid
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/42/138606/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Valencia 1:0 Eibar
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/44/138523/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Sevilla 1:1 Bilbao
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/3/44/138477/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Valladolid 2:2 Leganes
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/3/42/138456/720p.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/36nBksp" group-title="Movies",Always a Bridesmaid(2019)
 https://dl.dropboxusercontent.com/s/67rjo5rc0s0a6f5/Always%20A%20Bridesmaid.mp4?dl=0
