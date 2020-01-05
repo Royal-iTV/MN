@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live
+http://weak_spell.carniferou.club/edge/PS1/chunks.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Brescia Vs Lazio 
 http://34.102.207.198/live/e/playlist.m3u8
 
