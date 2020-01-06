@@ -1,24 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Chelsea VS NForest
-https://cdn.dailysport.pw/epl/1/1.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Crystal Palace vs Derby County
-http://34.102.207.198/live/e2/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",M-Boro VS Spur
-https://cdn.dailysport.pw/epl/2/2.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Liverpool VS Everton
-http://34.102.207.198/live/e2/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Gilligham VS WestHam
-http://34.102.207.198/live/bt1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Leicester VS Wigan
-https://cdn.dailysport.pw/3/3.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",ManCity VS Port Vale
-https://cdn.dailysport.pw/epl/2/2.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live 
-http://34.102.207.198/live/e/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Live1
-http://34.102.207.198/live/lll/playlist.m3u8
-
 #EXTINF:0 tvg-logo="http://bit.ly/2ZTELUZ" group-title="Kids",The Croods
 https://www.dropbox.com/s/8fz3chkiwff8c8t/The%20Croods.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/36nBksp" group-title="Movies",Always a Bridesmaid(2019)
