@@ -1,27 +1,15 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Napoli 1:3 Inter
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/6/42/139241/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Atlanta 5:0 Parma
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/6/42/139117/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Juventus 4:0 Cagliari
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/6/36/139155/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Arsenal 1:0 Leeds
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/6/36/139245/720p.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Liverpool 1:0 Everton
 https://1107942067.rsc.cdn77.org/UpFiles/2020/1/5/42/138972/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Middlesbrough 1:1 Tottenham 
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/5/36/138900/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Chelsea 2:0 Nottm Forest
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/5/36/138911/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Wolves 0:0 Man-U
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/36/138700/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Mancity 4:1 Port Vale
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/34/138696/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Leicester City 2:0 Wigan
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/36/138751/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Espanyol 2:2 Barcelona
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/42/138804/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Atletico 2:1 Levante
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/42/138683/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Getafe 0:3 Real Madrid
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/4/42/138606/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Roma 0:2 Torino
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/5/36/139044/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Celta Vigo 1:1 Osasuna
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/5/34/139048/720p.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2ZTELUZ" group-title="Kids",The Croods
 https://www.dropbox.com/s/8fz3chkiwff8c8t/The%20Croods.mp4?dl=0
