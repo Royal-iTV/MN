@@ -1,11 +1,22 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Man-U 1:3 ManCity
 https://1107942067.rsc.cdn77.org/UpFiles/2020/1/7/42/139364/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2QZXISd" group-title="Movies",Ana(2020)
+https://dl.dropboxusercontent.com/s/p3kiukvr0q6a6cp/Ana.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/37KnLTX" group-title="Movies",Comedy Central Roast of Bruce Willis(2018)
+https://dl.dropboxusercontent.com/s/sd1gx7nnmpqsw7f/The%20Comedy%20Central%20Roast%20Of%20Bruce%20Willis.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/39NkAwF" group-title="Movies",Back of the Net(2019)
+https://dl.dropboxusercontent.com/s/u59b2f3f40sr5de/Back%20of%20the%20Net.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2QU8QzL" group-title="Movies",The Tuxedo(2002)
+https://dl.dropboxusercontent.com/s/ct3acrc49sajal1/The%20Tuxedo%20%282002%29.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/37GTxRG" group-title="Movies",Minority Report(2002)
+https://dl.dropboxusercontent.com/s/4x5mijnbw95ekk0/Minority%20Report%20%28%202002%20%29.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/301SFoj" group-title="Movies",xXx(2002)
+https://dl.dropboxusercontent.com/s/hbg0t1zq5uzr7ut/xXx.%282002%29.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/30197VZ" group-title="Movies",Ride Like a Girl(2019)
-https://www.dropbox.com/s/umz3pd2pis6qpw2/Ride%20Like%20A%20Girl.mp4?dl=0
+https://dl.dropboxusercontent.com/s/umz3pd2pis6qpw2/Ride%20Like%20A%20Girl.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/36CB74A" group-title="Movies",Hustlers(2019)
 https://dl.dropboxusercontent.com/s/yjx2okr6dvt01bi/Hustlers.mp4?dl=0
-
 #EXTINF:0 tvg-logo="http://bit.ly/35rN0c3" group-title="Movies",Ip Man-4(2019)
 https://dl.dropboxusercontent.com/s/iqc0ht95hv2por9/Ip%20Man%204-CamVersion.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2ZTELUZ" group-title="Kids",The Croods
