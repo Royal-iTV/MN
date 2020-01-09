@@ -1,9 +1,15 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Man-U 1:3 ManCity
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/7/42/139364/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2T2oThP" group-title="Movies",Brave Father Online
+https://dl.dropboxusercontent.com/s/jy3oebybhzvfuww/Brave%20Father%20Online%20Our%20Story%20Of%20Final%20Fantasy%20XIV.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2Fx9EoX" group-title="Movies",Bernie the Dolphin 2(2019)
+https://dl.dropboxusercontent.com/s/5phoacdyud1wbib/Bernie%20The%20Dolphin.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/37Q9CF2" group-title="Movies",Toss It(2019)
+https://dl.dropboxusercontent.com/s/r1y91ppqpgu2y1b/Toss%20It.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/39ZzxvQ" group-title="Movies",Ghost Stories(2019)
 https://dl.dropboxusercontent.com/s/e7bbfrqs93f662d/Ghost%20Stories.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Man-U 1:3 ManCity
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/7/42/139364/720p.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2QZXISd" group-title="Movies",Ana(2020)
 https://dl.dropboxusercontent.com/s/p3kiukvr0q6a6cp/Ana.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/37KnLTX" group-title="Movies",Comedy Central Roast of Bruce Willis(2018)
@@ -23,12 +29,12 @@ https://dl.dropboxusercontent.com/s/yjx2okr6dvt01bi/Hustlers.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/35rN0c3" group-title="Movies",Ip Man-4(2019)
 https://dl.dropboxusercontent.com/s/iqc0ht95hv2por9/Ip%20Man%204-CamVersion.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2ZTELUZ" group-title="Kids",The Croods
-https://www.dropbox.com/s/8fz3chkiwff8c8t/The%20Croods.mp4?dl=0
+https://dl.dropboxusercontent.com/s/8fz3chkiwff8c8t/The%20Croods.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/36nBksp" group-title="Movies",Always a Bridesmaid(2019)
 https://dl.dropboxusercontent.com/s/67rjo5rc0s0a6f5/Always%20A%20Bridesmaid.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2MVgF7d" group-title="Movies",Saand Ki Aankh(2019)
 https://dl.dropboxusercontent.com/s/tvvr5d9lmyxvcpu/Saandi%20Ki%20Aankh.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2Taeocr" group-title="Movies",Brexit: The Uncivil War(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/3028ATH" group-title="Movies",Brexit:The Uncivil War(2019)
 https://dl.dropboxusercontent.com/s/j8ka7qjlst7nxos/Brexit.The%20Uncivil%20War.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/37GyOhd" group-title="Movies",Sullu(2019)
 https://dl.dropboxusercontent.com/s/2s1vhkmjlpo3lda/Sullu.mp4?dl=0
@@ -83,7 +89,6 @@ https://dl.dropboxusercontent.com/s/u1r9eo5zb74goma/Daybreak.S01E08.mp4?dl=0
 https://dl.dropboxusercontent.com/s/e1ijgraoa8xld6j/Daybreak.S01E09.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2QmQcjL" group-title="Series",Daybreak.S01E10
 https://dl.dropboxusercontent.com/s/jtejg1dezkvdeun/Daybreak.S01E10.mp4?dl=0
-
 #EXTINF:0 tvg-logo="http://bit.ly/2t6znBT" group-title="Series",Sacred Games.S01E01
 http://bit.ly/2ETYGtz
 #EXTINF:0 tvg-logo="http://bit.ly/2t6znBT" group-title="Series",Sacred Games.S01E02
@@ -179,7 +184,6 @@ http://bit.ly/2m5xhyJ
 http://bit.ly/2kqqDCo
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/09/04/batman--robin-5151a476173dc.jpg" group-title="Kids",Batman & Robin
 http://bit.ly/2kq8PYd
-
 #EXTINF:0 tvg-logo="http://bit.ly/35iSV3s" group-title="Kids",Klaus(2019)
 https://dl.dropboxusercontent.com/s/46quj4a5j7nkqtj/Klaus.mp4?dl=0    
 #EXTINF:0 tvg-logo="http://bit.ly/2rEpUAI" group-title="Kids",Abominable(2019)
@@ -239,7 +243,6 @@ https://dl.dropboxusercontent.com/s/td9858jg91haq6b/The%20Witcher.S01E06.mp4?dl=
 https://dl.dropboxusercontent.com/s/0ejrf735f7xdfdn/The%20Witcher.S01E07.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/35QaiK0" group-title="Series",The Witcher.S01E08
 https://dl.dropboxusercontent.com/s/bo794d5xguib1rc/The%20Witcher.S01E08.mp4?dl=0
-
 #EXTINF:0 tvg-logo="http://bit.ly/2PMno5r" group-title="Movies",Housefull 4(2019)
 https://dl.dropboxusercontent.com/s/m8v926as0ufsfxt/Housefull%204.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2sKSBg5" group-title="Movies",I See You(2019)
@@ -410,6 +413,7 @@ https://dl.dropboxusercontent.com/s/p5nmyg312ojoi43/The%20Last%20Wish.mp4?dl=0
 https://dl.dropboxusercontent.com/s/9lpj97r6vpln7c4/Defiance.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2r58rRQ" group-title="Movies",Official Secrets(2019)
 https://dl.dropboxusercontent.com/s/knbgdy48jl78yr1/Official%20Secrets.mp4?dl=0
+
 
 #EXTINF:0 tvg-logo="http://bit.ly/301vSc3" group-title="MTV",ZawWinHtut
 https://dl.dropboxusercontent.com/s/lnw7ttu52rze9yb/zwh.mp4?dl=0
