@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/39VysFf" group-title="Movies",Countdown(2019)
+https://dl.dropboxusercontent.com/s/se2tpk26s7p7xp9/Countdown.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2QIh5QN" group-title="Movies",Ford V Ferrari(2019)
+https://dl.dropboxusercontent.com/s/1ch2c8nb9u7wfi5/Ford%20V%20Ferrari.2019.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/35Hy1ee" group-title="Movies",Falling in Love(2019)
+https://dl.dropboxusercontent.com/s/q6iq1hhciwgyfzf/Falling%20Inn%20Love.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2R6H3MA" group-title="Movies",Apparition(2019)
+https://dl.dropboxusercontent.com/s/ao1dlyouqi3311k/Apparition.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2T2oThP" group-title="Movies",Brave Father Online
 https://dl.dropboxusercontent.com/s/jy3oebybhzvfuww/Brave%20Father%20Online%20Our%20Story%20Of%20Final%20Fantasy%20XIV.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2Fx9EoX" group-title="Movies",Bernie the Dolphin 2(2019)
