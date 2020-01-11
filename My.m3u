@@ -2,6 +2,8 @@
 
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Crystal vs Arsenal
 http://34.107.130.240/live/nbcsn/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Cagliari vs Milan
+http://34.107.130.240/live/sa/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Everton Vs Brighton
 https://cdn.dailysport.pw/epl/1/1.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Chelsea vs Burnley
