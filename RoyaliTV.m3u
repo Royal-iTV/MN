@@ -1,6 +1,8 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2QFApOv" group-title="Movies",Svaha:The Sixth Finger(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2QFApOv" group-title="Movies",Svaha:The Sixth Finger
+http://yrsprts.xyz/hls/golf.m3u8?ch=http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2QFApOv" group-title="Movies",Svaha:The Sixth Finger(2019
 http://bit.ly/2TbhGfm
 #EXTINF:0 tvg-logo="http://bit.ly/2tKen4e" group-title="Movies",Ujda Chaman(2019)
 https://dl.dropboxusercontent.com/s/xwsuoycydgg4vd6/Ujda%20Chaman.mp4?dl=0
