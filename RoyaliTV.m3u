@@ -1,15 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Crystal vs Arsenal
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=xhB5M-1aoZRX3eVeWiodAQ&e=1578764914
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Crystal vs Arsenal-1
-https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=xK0unzOOAbkE016FwplF3A&e=1578765035
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Cagliari vs Milan
-https://ul.cdn946.net:8443/hls/x3xmbo.m3u8?s=NJpHBrEpT7ivNVLNkKJRSA&e=1578765260
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Chelsea vs Burnley
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=xhB5M-1aoZRX3eVeWiodAQ&e=1578764914
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Manchester United vs Norwich City
-https://ul.cdn946.net:8443/hls/mysxo54w.m3u8?s=uAsT6Tiz5gQNXebZFlvb4g&e=1578767107
+http://34.107.130.240/live/nbcsn/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2QFApOv" group-title="Movies",Svaha:The Sixth Finger(2019)
 http://bit.ly/2TbhGfm
