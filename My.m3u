@@ -651,6 +651,31 @@ https://dl.dropboxusercontent.com/s/hpu1o8bp8vvwejm/The%20Kitchen.mp4?dl=0
 
 #EXTINF:0 tvg-logo="http://bit.ly/2tBRekm" group-title="Sport",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/35J7ux2" group-title="Sport",Sony Ten1
+http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/36J2wlf" group-title="Sport",Sony Ten2
+https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3809yTb" group-title="Sport",Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3096xgF" group-title="Sport",BeinSport-Extra
+https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/30crXsY" group-title="Sport",CCTV5
+http://111.40.205.122/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2TfGpPA" group-title="Sport",CCTV5+
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/30amyCQ" group-title="Sport",FiveStar Sport
+http://111.48.34.161/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8 1920*1080
+http://111.48.34.161/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/2.m3u8 1280*720
+#EXTINF:0 tvg-logo="http://bit.ly/2uFjpzl" group-title="Sport",Eurosport2-xtra
+http://5.135.92.133:52841/out/u/511_1.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3a163gU" group-title="Sport",Setanta Sport1
+http://92.46.127.146:8080//SetantaSport/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/30kVHEt" group-title="Sport",Setanta Sport2
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2FKAUjP" group-title="Sport",SportTV
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/37ZuYzU" group-title="Sport",Fightbox-HD
+http://84.22.33.254/unicast.fightbox/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2sQqegE" group-title="Sport",NBCSN
 https://cdn.dailysport.pw/epl/1/1.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2sDlqeJ" group-title="Sport",BeinSport2HD
@@ -659,10 +684,6 @@ http://95.170.215.108:1213/hls/m3u8/beinhd.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/37u72V2" group-title="Sport",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/36eMXSo" group-title="Sport",SkySport Main Event
-http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/36iz6KC" group-title="Sport",SkySport Premier
-http://95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/AdSport1.png" group-title="Sport",AdSport1
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/adsports-2.png" group-title="Sport",AdSport2
