@@ -1,6 +1,17 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2QFApOv" group-title="Movies",Svaha:The Sixth Finger(2019
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Crystal vs Arsenal
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=xhB5M-1aoZRX3eVeWiodAQ&e=1578764914
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Crystal vs Arsenal-1
+https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=xK0unzOOAbkE016FwplF3A&e=1578765035
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Cagliari vs Milan
+https://ul.cdn946.net:8443/hls/x3xmbo.m3u8?s=NJpHBrEpT7ivNVLNkKJRSA&e=1578765260
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Chelsea vs Burnley
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=xhB5M-1aoZRX3eVeWiodAQ&e=1578764914
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Manchester United vs Norwich City
+https://ul.cdn946.net:8443/hls/mysxo54w.m3u8?s=uAsT6Tiz5gQNXebZFlvb4g&e=1578767107
+
+#EXTINF:0 tvg-logo="http://bit.ly/2QFApOv" group-title="Movies",Svaha:The Sixth Finger(2019)
 http://bit.ly/2TbhGfm
 #EXTINF:0 tvg-logo="http://bit.ly/2tKen4e" group-title="Movies",Ujda Chaman(2019)
 https://dl.dropboxusercontent.com/s/xwsuoycydgg4vd6/Ujda%20Chaman.mp4?dl=0
@@ -651,6 +662,22 @@ https://dl.dropboxusercontent.com/s/hpu1o8bp8vvwejm/The%20Kitchen.mp4?dl=0
 
 #EXTINF:0 tvg-logo="http://bit.ly/2tBRekm" group-title="Sport",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Osjazu" group-title="Sport",BT Sport 1
+https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=RF3CcSrtTpfAXMp6DsIX1A&e=1578766036
+#EXTINF:0 tvg-logo="http://bit.ly/2ooD5Vo" group-title="Sport",BT Sport 2
+https://ul.cdn946.net:8443/hls/6pr95peo12uua.m3u8?s=cFbK0ndkL6bREQ1zDjwL1Q&e=1578766099
+#EXTINF:0 tvg-logo="http://bit.ly/2MiBWqk" group-title="Sport",BT Sport 3
+https://ul.cdn946.net:8443/hls/qkb3zwl.m3u8?s=x9Szz3pHnK8cMGlp93Fx8g&e=1578766148
+#EXTINF:0 tvg-logo="http://bit.ly/39XQpD2" group-title="Sport",BT Sport ESPN
+https://ul.cdn946.net:8443/hls/irdb59sdaufdqpx.m3u8?s=q1XIteJtxODuJlFup8vi7w&e=1578766202
+#EXTINF:0 tvg-logo="http://bit.ly/37YGFGG" group-title="Sport",Sky Sport Football
+https://ul.cdn946.net:8443/hls/wtswasobwlmgv.m3u8?s=hfrhpbwYI5e45UiHs7am7w&e=1578766338
+#EXTINF:0 tvg-logo="http://bit.ly/2NdHLGD" group-title="Sport",Sky Sport Premier
+https://ul.cdn946.net:8443/hls/u6qndo.m3u8?s=_VUWpnR3fj1I89tnpjlIRg&e=1578766929
+#EXTINF:0 tvg-logo="http://bit.ly/30Sxl3h" group-title="Mm",SportTV1
+https://ul.cdn946.net:8443/hls/sdjyjtgb1q6m4.m3u8?s=1VT_MKo-vSMNPSwrv5ZT9w&e=1578765931
+#EXTINF:0 tvg-logo="http://bit.ly/39WhF4N" group-title="Sport",Fox Sport News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/35J7ux2" group-title="Sport",Sony Ten1
 http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/36J2wlf" group-title="Sport",Sony Ten2
