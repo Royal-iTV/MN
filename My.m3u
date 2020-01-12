@@ -670,6 +670,8 @@ https://streamingserver002.viewtvgroup.com/kapanglivetv-uksat-itv1/tracks-v2a1/m
 
 #EXTINF:0 tvg-logo="http://bit.ly/2Rc1OXp" group-title="Golf",Sky Sport Golf
 https://cstream5.com/hls/skysportsgolf.m3u8
+#EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="Golf",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:0 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Golf",FreeSport
 http://supernimb.selfip.online:8081/mozilla/freesports/playlist.m3u8 
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/SBS-Golf.gif" group-title="Golf",SBS Golf 
