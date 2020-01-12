@@ -677,7 +677,8 @@ http://supernimb.selfip.online:8081/mozilla/freesports/playlist.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/SBS-Golf.gif" group-title="Golf",SBS Golf 
 http://115.139.251.43:9981/stream/channelid/1246293783?profile=pass
 
-
+#EXTINF:0 tvg-logo="http://bit.ly/2uHgZjK" group-title="Sport",Telekom Sport
+http://telekomtv-ro.akamaized.net/shls/LIVE$DolceSportHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:0 tvg-logo="http://bit.ly/2Tgpe0w" group-title="Sport",Olympic
 https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2tBRekm" group-title="Sport",Real Madrid TV
@@ -694,24 +695,12 @@ https://cstream5.com/hls/btsport1.m3u8
 https://cstream5.com/hls/btsport2.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/39WhF4N" group-title="Sport",Fox Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/35J7ux2" group-title="Sport",Sony Ten1
-http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/36J2wlf" group-title="Sport",Sony Ten2
-http://fr-c.movply.stream/hls/sony-ten-2-hd.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3809yTb" group-title="Sport",Sony ESPN
-https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2tMYrOH" group-title="Sport",Sony Six
-http://fr-c.movply.stream/hls/sony-six-hd.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3096xgF" group-title="Sport",BeinSport-Extra
 https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1280x720_2890800/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/30crXsY" group-title="Sport",CCTV5
 http://111.40.205.122/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2TfGpPA" group-title="Sport",CCTV5+
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/30amyCQ" group-title="Sport",FiveStar Sport
-http://111.48.34.161/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/2.m3u8 
-#EXTINF:0 tvg-logo="http://bit.ly/2FJ4rdM" group-title="Sport",Eleven Sport
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-elevensports/CDN/1280x720_3000000/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2uFjpzl" group-title="Sport",Eurosport2-xtra
 https://cstream5.com/hls/eurosport2.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3a163gU" group-title="Sport",Setanta Sport1
