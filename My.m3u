@@ -1,26 +1,15 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Aston Villa 1:6 Man City
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/12/34/140485/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Aston Villa 1:6 Man City
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/12/42/140508/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Bournemouth 0:3 Watford
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/12/42/140361/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Crystal 1:1 Arsenal
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/12/42/140269/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Chelsea 3:0 Burnley
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/12/42/140270/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Everton 1:0 Brighton
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/12/42/140272/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Leicester 1:2 Southampton
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/12/42/140273/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Man-U 4:0 Norwich
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/12/42/140274/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",WOlves 1:1 NewCastle
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/12/42/140276/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Tottenham 0:1 Liverpool
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/12/42/140271/720p.m3u8
-
+#EXTINF:0 tvg-logo="http://bit.ly/3aczXik" group-title="Movies",Terminator: Dark Fate(2019)
+https://dl.dropboxusercontent.com/s/t9twivqapoxsbfq/Terminator%20Dark%20Fate.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2Tner4A" group-title="Kids",Detective Conan: The Fist of Blue Sapphire(2019)
+https://dl.dropboxusercontent.com/s/1gc2lu5hku39dpc/Detective%20Conan%20Movie%2023%20-%20The%20Fist%20Of%20Blue%20Sapphire.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/387ZyXX" group-title="Movies",Killed My Wife(2019)
+https://dl.dropboxusercontent.com/s/92cxq9xt653d9td/Killed%20My%20Wife.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2R9JtKx" group-title="Movies",Junglee(2019)
+https://dl.dropboxusercontent.com/s/rv98lrgqdo7oerh/Junglee.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/386Gutj" group-title="Movies",Ghost Stories of Extreme Taoist(2020)
+https://dl.dropboxusercontent.com/s/wewxlob24gochqm/Ghost%20Stories%20Of%20Extreme%20Taoist.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/35QzuiI" group-title="Movies",The Intern(2015)
 http://bit.ly/30hiT6f
 #EXTINF:0 tvg-logo="http://bit.ly/2QFApOv" group-title="Movies",Svaha:The Sixth Finger(2019)
