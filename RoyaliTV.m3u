@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2TrrAJP" group-title="Movies",007:Dr.No(1962)
+https://dl.dropboxusercontent.com/s/fjw30o6uetcfca4/James%20Bond%20Dr.No%20%281962%29.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2RjsZzG" group-title="Movies",007:From Russia With Love(1963)
+https://dl.dropboxusercontent.com/s/sfa33push71hjzm/James%20Bond%20From%20Russia%20With%20Love%20%281963%29.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/374kvDe" group-title="Movies",007:Gold Finger(1964)
+https://dl.dropboxusercontent.com/s/uwc7n6fsu91fq3h/%28007%29%20Goldfinger%20%281964%29.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2FSbMI9" group-title="Movies",007:Thunderball(1965)
+https://dl.dropboxusercontent.com/s/ulwquxsbz41kirg/James%20Bond%20Thunderball%20%281965%29.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2Rpg2Ex" group-title="Movies",007:Your Only Live Twice(1967)
+https://dl.dropboxusercontent.com/s/82y958xmmhr9onz/007%20-%20You%20Only%20Live%20Twice.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2RkeNq6" group-title="Movies",007:Diamond Are Forever(1971)
+https://dl.dropboxusercontent.com/s/y29dflei8x6yv05/%28007%29Diamonds%20Are%20Forever%20%281971%29.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2R179C5" group-title="Movies",007:The Man With Golden Gun(1974)
+https://dl.dropboxusercontent.com/s/pz9p84p4xa9zloe/007%20-%20The%20Man%20With%20The%20Golden%20Gun.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/360CVDk" group-title="Movies",007:The Spy Who Love Me(1977)
+https://dl.dropboxusercontent.com/s/f5gv52mo3i2seio/007%20-%20The%20Spy%20Who%20Love%20Me.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2FUuTRP" group-title="Movies",007:Moonraker(1979)
+https://dl.dropboxusercontent.com/s/jyl82dg9qy2frka/007%20-%20Moonraker.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/374wtwE" group-title="Movies",007:For Your Eye Only(1981)
+https://dl.dropboxusercontent.com/s/xuq4flsk9hy1ofy/007%20-%20For%20Your%20Eyes%20Only.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2FWjeCe" group-title="Movies",007:Octopussy(1983)
+https://dl.dropboxusercontent.com/s/td3dz3c1goo2r7x/James.Bond.Octopussy.1983.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2Tv5INB" group-title="Movies",007:Licence To Kill(1989)
+https://dl.dropboxusercontent.com/s/yamodmvh4js8tlj/007%20-%20Licence%20to%20Kill.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/36U4fV4" group-title="Movies",007:Casino Royale(2006)
+https://dl.dropboxusercontent.com/s/uszm0uzbuopc9fo/%28007%29%20Casino%20Royale%20%282006%29.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/2suPQzR" group-title="Movies",007:Quantun Of Solace(2008)
+https://dl.dropboxusercontent.com/s/81wys4dqzbsrotx/007%20-%20Quantum%20of%20Solace.mp4?dl=0
+#EXTINF:0 tvg-logo="http://bit.ly/35ZyeJS" group-title="Movies",007:Sky Fall(2012)
+https://dl.dropboxusercontent.com/s/i3q2mrnsxxe041k/007%20-%20Sky%20Fall%20.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/3a7VuJ4" group-title="Movies",Mission: Impossible(1996)
 https://dl.dropboxusercontent.com/s/m3g8y6gasm68puh/Mission%20Impossible.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2uIP5Um" group-title="Movies",Mission:Impossible II(2000)
