@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2sEM4UC" group-title="Live",Watford Vs Tottenham
+https://sportbar.biz/lba/MTMzOTkzYjkzMzUwMTMzZTNmN2I4OGNlY2IzNzY2NjA=/g5/plcanalplus.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2TzG2zz" group-title="Live",Arsenal Vs Sheffield
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=o0j4sLvjPDCC4N79s6Q-YA&e=1579358614
+#EXTINF:0 tvg-logo="http://bit.ly/38jKO8A" group-title="Live",ManCity Vs Crystal
+http://sg.ocache.xyz/sports/supersp3.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/2G15Exl" group-title="Movies",Gundu(2019)
 https://dl.dropboxusercontent.com/s/9n0z7fnl9pgtu0u/Gundu.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/3aqUwYL" group-title="Movies",90ml(2019)
