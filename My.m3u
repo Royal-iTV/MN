@@ -1,8 +1,17 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://bit.ly/2sEM4UC" group-title="Live",Watford Vs Tottenham
+https://drn7drsb8qt78.cloudfront.net/1/1.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2sEM4UC" group-title="Live",Watford Vs Tottenham 1
+http://cdn.60fps.live/live/epl12/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2sEM4UC" group-title="Live",Watford Vs Tottenham 2
 https://sportbar.biz/lba/MTMzOTkzYjkzMzUwMTMzZTNmN2I4OGNlY2IzNzY2NjA=/g5/plcanalplus.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2TzG2zz" group-title="Live",Arsenal Vs Sheffield
+#EXTINF:0 tvg-logo="http://bit.ly/2sEM4UC" group-title="Live",Watford Vs Tottenham 3
+http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/2TzG2zz" group-title="Live",Arsenal Vs Sheffield 
 https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=o0j4sLvjPDCC4N79s6Q-YA&e=1579358614
+#EXTINF:0 tvg-logo="http://bit.ly/2TzG2zz" group-title="Live",Arsenal Vs Sheffield 1
+http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/38jKO8A" group-title="Live",ManCity Vs Crystal
 http://sg.ocache.xyz/sports/supersp3.m3u8
 
