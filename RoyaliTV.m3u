@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="hightlight",Watford 0:0 Tottenham
 https://1107942067.rsc.cdn77.org/UpFiles/2020/1/18/42/141220/720p.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="hightlight",Arsenal 1:1 Sheffield 
@@ -19,6 +20,8 @@ https://1107942067.rsc.cdn77.org/UpFiles/2020/1/18/36/141446/720p.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2ua9IbU" group-title="Live",Liverpool Vs Man-U
 http://sg.ocache.xyz/sports/supersp3.m3u8
 
+#EXTINF:0 tvg-logo="http://bit.ly/2RwqUAj" group-title="Movies",Chappie(2015)
+http://bit.ly/369yRR8
 #EXTINF:0 tvg-logo="http://bit.ly/30xXgPg" group-title="Movies",Lone Survivor(2013)
 http://bit.ly/2LcSL5u
 #EXTINF:0 tvg-logo="http://bit.ly/2R849DZ" group-title="Movies",American Sniper(2014)
@@ -67,6 +70,7 @@ https://dl.dropboxusercontent.com/s/uszm0uzbuopc9fo/%28007%29%20Casino%20Royale%
 https://dl.dropboxusercontent.com/s/81wys4dqzbsrotx/007%20-%20Quantum%20of%20Solace.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/35ZyeJS" group-title="Movies",007:Sky Fall(2012)
 https://dl.dropboxusercontent.com/s/i3q2mrnsxxe041k/007%20-%20Sky%20Fall%20.mp4?dl=0
+
 #EXTINF:0 tvg-logo="http://bit.ly/3a7VuJ4" group-title="Movies",Mission: Impossible(1996)
 https://dl.dropboxusercontent.com/s/m3g8y6gasm68puh/Mission%20Impossible.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2uIP5Um" group-title="Movies",Mission:Impossible II(2000)
@@ -759,6 +763,8 @@ http://supernimb.selfip.online:8081/mozilla/freesports/playlist.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/SBS-Golf.gif" group-title="Golf",SBS Golf 
 http://115.139.251.43:9981/stream/channelid/1246293783?profile=pass
 
+#EXTINF:0 tvg-logo="http://bit.ly/2kdz4Rw" group-title="Sport",SKYNET Sport HD
+http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2uHgZjK" group-title="Sport",Telekom Sport
 http://telekomtv-ro.akamaized.net/shls/LIVE$DolceSportHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:0 tvg-logo="http://bit.ly/2Tgpe0w" group-title="Sport",Olympic
@@ -794,7 +800,7 @@ https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playl
 #EXTINF:0 tvg-logo="http://bit.ly/37ZuYzU" group-title="Sport",Fightbox-HD
 http://84.22.33.254/unicast.fightbox/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2sQqegE" group-title="Sport",NBCSN
-http://87.120.36.62:8080/hls/streama113992/index.m3u8
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=_KkgYBKN8XVZWg__Mmy0Xw&e=1579267494
 #EXTINF:0 tvg-logo="http://bit.ly/2sDlqeJ" group-title="Sport",BeinSport2HD
 http://95.170.215.108:1213/hls/m3u8/beinhd.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/39zqUrp" group-title="Sport",ESPN
@@ -1253,14 +1259,6 @@ http://bit.ly/2lVbKbE
 http://bit.ly/2lABwBY
 #EXTINF:0 tvg-logo="http://bit.ly/2kvXkhW" group-title="Movies",47 Ronin
 http://bit.ly/2lF9Qfq
-#EXTINF:0 tvg-logo="http://bit.ly/2kxYpWp" group-title="Movies",The Bourne Identity
-http://bit.ly/2m3qbut
-#EXTINF:0 tvg-logo="http://bit.ly/2knjEKL" group-title="Movies",The Bourne Supremacy
-http://bit.ly/2m2vLgG
-#EXTINF:0 tvg-logo="http://bit.ly/2kjmgJz" group-title="Movies",The Bourne Ultimatum
-http://bit.ly/2lzYKIy
-#EXTINF:0 tvg-logo="http://bit.ly/2kyBIl5" group-title="Movies",The Bourne Legacy
-http://bit.ly/2lyqME9
 #EXTINF:0 tvg-logo="http://bit.ly/2kna2Qc" group-title="Movies",Sui Dhaaga
 http://bit.ly/2m3ybLZ
 #EXTINF:0 tvg-logo="http://bit.ly/2k9tHD2" group-title="Movies",ZOE
