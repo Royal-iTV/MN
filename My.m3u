@@ -1,21 +1,20 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://bit.ly/2sEM4UC" group-title="Live",Watford Vs Tottenham
-http://cdn.60fps.live/live/epl1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2sEM4UC" group-title="Live",Watford Vs Tottenham 1
-http://cdn.60fps.live/live/epl12/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2sEM4UC" group-title="Live",Watford Vs Tottenham 2
-https://sportbar.biz/lba/MTMzOTkzYjkzMzUwMTMzZTNmN2I4OGNlY2IzNzY2NjA=/g5/plcanalplus.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2sEM4UC" group-title="Live",Watford Vs Tottenham 3
-http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
-
-#EXTINF:0 tvg-logo="http://bit.ly/2TzG2zz" group-title="Live",Arsenal Vs Sheffield 
-http://cdn.60fps.live/live/epl1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2TzG2zz" group-title="Live",Arsenal Vs Sheffield 1
-http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/38jKO8A" group-title="Live",ManCity Vs Crystal
-http://cdn.60fps.live/live/epl1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/38jKO8A" group-title="Live",ManCity Vs Crystal 1
-http://sg.ocache.xyz/sports/supersp3.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="hightlight",Watford 0:0 Tottenham
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/18/42/141220/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="hightlight",Arsenal 1:1 Sheffield 
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/18/42/141332/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="hightlight",ManCity 2:2 Crystal
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/18/42/141358/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="hightlight",Brighton 1:1 Aston Villa
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/18/44/141364/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="hightlight",Norwich 1:0 Bournemouth
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/18/44/141357/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="hightlight",Southamptom 2:3 Wolves
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/18/35/141389/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="hightlight",Westham 1:1 Everton
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/18/42/141375/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="hightlight",Newcastle 1:0 Chelsea
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/18/36/141446/720p.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2NEPjTj" group-title="Movies",Harriet(2019)
 https://dl.dropboxusercontent.com/s/zfbs25xr3m4xma1/Harriet.mp4?dl=0
