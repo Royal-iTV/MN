@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/3arHJ84" group-title="Live",Burnley VS Leicester
-http://cdn.60fps.live/live/epl11/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2ua9IbU" group-title="Live",Liverpool Vs Man-U
-http://sg.ocache.xyz/sports/supersp3.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="hightlight",Liverpool 2:0 Man-U
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/19/44/141799/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="hightlight",Burnley 2:1 Leicester
+https://1107942067.rsc.cdn77.org/UpFiles/2020/1/20/42/141928/720p.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="hightlight",Watford 0:0 Tottenham
 https://1107942067.rsc.cdn77.org/UpFiles/2020/1/18/42/141220/720p.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="hightlight",Arsenal 1:1 Sheffield 
