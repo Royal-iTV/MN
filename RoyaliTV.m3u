@@ -822,6 +822,8 @@ https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1280x
 http://111.40.205.122/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2TfGpPA" group-title="Sport",CCTV5+
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2uiRnto" group-title="Sport",Eurosport1
+https://cstream5.com/hls/eurosport1.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2uFjpzl" group-title="Sport",Eurosport2-xtra
 https://cstream5.com/hls/eurosport2.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3a163gU" group-title="Sport",Setanta Sport1
