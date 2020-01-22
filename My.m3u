@@ -13,6 +13,9 @@ https://1107942067.rsc.cdn77.org/UpFiles/2020/1/21/42/142092/720p.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Bournemouth 3:1 Brighton
 https://1107942067.rsc.cdn77.org/UpFiles/2020/1/21/36/142094/720p.m3u8
 
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids",CARTOON NETWORK
+http://198.255.23.18:2095/streams/128_.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2RdCYHT" group-title="Movies",Bala(2019)
 https://dl.dropboxusercontent.com/s/ao1dlyouqi3311k/Apparition.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2um18GY" group-title="Movies",The Host(2020)
