@@ -19,12 +19,14 @@ https://1107942067.rsc.cdn77.org/UpFiles/2020/1/21/42/142092/720p.m3u8
 https://1107942067.rsc.cdn77.org/UpFiles/2020/1/21/36/142094/720p.m3u8
 #EXTINF:-1 logo="http://bit.ly/37i1MEc" group-title="Kids",Cartoon Network
 http://198.255.23.18:2095/streams/128_.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/2RhHYLu" group-title="Movies",Hitman Agent-47(2015)
-https://dl.dropboxusercontent.com/s/ycsb5tsfo9jlg13/Hitman%20Agent%2047.mp4?dl=0
+https://dl.dropboxusercontent.com/s/l9gfp5f1v52kfkg/Hitman%20Agent%2047.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/37m6RLx" group-title="Movies",xXx:Return Of Xander Cage(2017)
-https://dl.dropboxusercontent.com/s/03m5ebmpmc3i6m8/XXx%20Return%20Of%20Xander%20Cage.mp4?dl=0
+https://dl.dropboxusercontent.com/s/urz47395rigjyxd/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2NSf7v6" group-title="Movies",Logan(2017)
-https://dl.dropboxusercontent.com/s/esfirjozpicz74o/Logan.mp4?dl=0
+https://dl.dropboxusercontent.com/s/7ca5z7f3jhvpnfy/index.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/3aD8jeu" group-title="Movies",Hero(2019)
 https://dl.dropboxusercontent.com/s/l7vuif6jmg4g9bs/Hero.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2RdCYHT" group-title="Movies",Bala(2019)
