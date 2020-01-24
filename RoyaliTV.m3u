@@ -784,8 +784,6 @@ http://supernimb.selfip.online:8081/mozilla/freesports/playlist.m3u8
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/SBS-Golf.gif" group-title="Golf",SBS Golf 
 http://115.139.251.43:9981/stream/channelid/1246293783?profile=pass
 
-#EXTINF:0 tvg-logo="http://bit.ly/2kdz4Rw" group-title="Sport",SKYNET Sport HD
-http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2Rir7bv" group-title="Sport",SporTV
 http://198.255.23.18:2095/streams/70_.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2Gdkzo9" group-title="Sport",SporTV2
