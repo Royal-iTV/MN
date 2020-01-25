@@ -4,6 +4,23 @@
 http://103.194.171.4/live/S-2/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Brentford Vs Leicester1
 http://34.107.241.191/live/b1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Brentford Vs Leicester2
+https://cdn2.dailysport.pw/epl1/epl1.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Burnley Vs Norwich
+http://103.194.171.4/live/S-3/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Conventry Vs Brimingham
+http://34.107.241.191/live/epl1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Millwall Vs Sheff Utd
+https://cdn2.dailysport.pw/epl4/epl4.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Newcastle Vs Oxford Utd
+https://cdn2.dailysport.pw/epl2/epl2.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Portsmouth Vs Barnsley
+https://cdn2.dailysport.pw/epl1/epl1.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Reading Vs Cardiff
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Southampton Vs Tottenham
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Westham Vs West Brom
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Hull City Vs Chelsea
 #EXTINF:0 tvg-logo="http://bit.ly/2OnDoKA" group-title="4K",Avengers:Endgame
 https://dl.dropboxusercontent.com/s/1stdk3j3xuzcgsa/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2RpBRVp" group-title="4K",Alita:Battle Angel
