@@ -1,26 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Wolves 1:2 Liverpool
-https://dl.dropboxusercontent.com/s/yy9la5xe7etzs6n/wolves1-2Liv.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Man-U 0:2 Burnley
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/22/42/142370/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Leicester 4:1 West Ham
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/23/42/142371/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Tottenham 2:1 Norwich
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/22/42/142281/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Chelsea 2:2 Arsenal
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/21/36/142144/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Aston Villa 2:1 Watford
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/21/36/142107/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Crystal 0:2 Southampton
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/21/36/142101/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Everton 2:2 Newcastle
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/21/42/142115/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Sheff Utd 0:1 Man City
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/21/42/142092/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Bournemouth 3:1 Brighton
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/21/36/142094/720p.m3u8
-#EXTINF:-1 logo="http://bit.ly/37i1MEc" group-title="Kids",Cartoon Network
-http://198.255.23.18:2095/streams/128_.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2RpBRVp" group-title="4K",Alita:Battle Angel
+https://dl.dropboxusercontent.com/s/fkwufvvygp8gybr/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2RhHYLu" group-title="Movies",Hitman Agent-47(2015)
 https://dl.dropboxusercontent.com/s/l9gfp5f1v52kfkg/Hitman%20Agent%2047.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/37m6RLx" group-title="Movies",xXx:Return Of Xander Cage(2017)
