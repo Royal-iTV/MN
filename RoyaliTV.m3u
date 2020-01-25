@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:0 tvg-logo="http://bit.ly/2ua9IbU" group-title="Live",Brentford Vs Leicester
+http://103.194.171.4/live/S-2/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2ua9IbU" group-title="Live",Brentford Vs Leicester1
+http://34.107.241.191/live/b1/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2OnDoKA" group-title="4K",Avengers:Endgame
 https://dl.dropboxusercontent.com/s/1stdk3j3xuzcgsa/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2RpBRVp" group-title="4K",Alita:Battle Angel
