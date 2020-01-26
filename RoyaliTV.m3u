@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",ManCity Vs Fulham
-https://d000.global.ssl.fastly.net/epl/1/chunks.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",ManCity Vs Fulham1
-https://dl.dropboxusercontent.com/s/gqsic4ygxqi5yao/supersp3.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Tranmere v Man Utd
+http://sg.ocache.xyz/sports/supersp3.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2RhHYLu" group-title="Movies",Hitman Agent-47(2015)
 https://dl.dropboxusercontent.com/s/l9gfp5f1v52kfkg/Hitman%20Agent%2047.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/37m6RLx" group-title="Movies",xXx:Return Of Xander Cage(2017)
