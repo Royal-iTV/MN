@@ -1,30 +1,8 @@
 #EXTM3U
-
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Brentford Vs Leicester
-http://103.194.171.4/live/S-2/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Brentford Vs Leicester1
-http://34.107.241.191/live/b1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Brentford Vs Leicester2
-https://cdn2.dailysport.pw/epl1/epl1.m3u8
-
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Burnley Vs Norwich
-http://103.194.171.4/live/S-3/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Conventry Vs Brimingham
-http://34.107.241.191/live/epl1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Millwall Vs Sheff Utd
-https://cdn2.dailysport.pw/epl4/epl4.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Newcastle Vs Oxford Utd
-https://cdn2.dailysport.pw/epl2/epl2.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Portsmouth Vs Barnsley
-https://cdn2.dailysport.pw/epl1/epl1.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Reading Vs Cardiff
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Southampton Vs Tottenham
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Westham Vs West Brom
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Hull City Vs Chelsea
-#EXTINF:0 tvg-logo="http://bit.ly/2OnDoKA" group-title="4K",Avengers:Endgame
-https://dl.dropboxusercontent.com/s/1stdk3j3xuzcgsa/index.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2RpBRVp" group-title="4K",Alita:Battle Angel
-https://dl.dropboxusercontent.com/s/fkwufvvygp8gybr/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",ManCity Vs Fulham
+https://d000.global.ssl.fastly.net/epl/1/chunks.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",ManCity Vs Fulham1
+https://dl.dropboxusercontent.com/s/gqsic4ygxqi5yao/supersp3.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2RhHYLu" group-title="Movies",Hitman Agent-47(2015)
 https://dl.dropboxusercontent.com/s/l9gfp5f1v52kfkg/Hitman%20Agent%2047.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/37m6RLx" group-title="Movies",xXx:Return Of Xander Cage(2017)
