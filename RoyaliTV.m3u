@@ -1,15 +1,14 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Southampton 1:1 Tottenham Hotspur 
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/25/42/142881/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Hull 1:2 Chelsea
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/25/42/142995/720p
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",ManCity 4:0 Fulham
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/26/42/143224/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Tranmere 0:6 Man Utd
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/26/42/143319/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Shrewsbury 2:2 Liverpool
-https://1107942067.rsc.cdn77.org/UpFiles/2020/1/26/42/143400/720p.m3u8
-
+#EXTINF:0 tvg-logo="http://bit.ly/3aMYUkM" group-title="Movies",BirdBox(2018)
+https://dl.dropboxusercontent.com/s/ou07xtkqm51m5va/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/38Pbkab" group-title="Movies",Bharat Ane Nenu(2018)
+https://dl.dropboxusercontent.com/s/92yzk7rmthhdty3/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/38CuiAG" group-title="Movies",Hala(2019)
+https://dl.dropboxusercontent.com/s/78ahi00c8njxcoh/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/36v5k4Q" group-title="Series",Venky Mama(2019)
+https://dl.dropboxusercontent.com/s/2sju9zco49g21ul/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2RvyNHq" group-title="Series",Pandemic(2020)
+https://dl.dropboxusercontent.com/s/cwtdrr1xnfmzek4/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3aN0eEr" group-title="Movies",Season Of Witch(2011)
 https://dl.dropboxusercontent.com/s/th1c74v8y64bu8p/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3aMk9De" group-title="Movies",Bhaijaan(2015)
