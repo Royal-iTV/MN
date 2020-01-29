@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/3aPWhie" group-title="Movies",Motichoor Chaknachoor(2019)
+https://dl.dropboxusercontent.com/s/63r9ss1ooa8dojg/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2O6P9nQ" group-title="Movies",Gotro(2019)
+https://dl.dropboxusercontent.com/s/b0chee73yvwlzjq/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3aMYUkM" group-title="Movies",BirdBox(2018)
 https://dl.dropboxusercontent.com/s/ou07xtkqm51m5va/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/38Pbkab" group-title="Movies",Bharat Ane Nenu(2018)
