@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/38ZhJjd" group-title="Movies",PK(2014)
+https://dl.dropboxusercontent.com/s/vsfq6iln0wv6i7l/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2tO7Y8x" group-title="Movies",Oblivion(2013)
+https://dl.dropboxusercontent.com/s/cyilnpe3opdot37/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2S0z3gC" group-title="Movies",Snatch(2000)
 https://dl.dropboxusercontent.com/s/meprtb9nz4tgvj3/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/36DAKWu" group-title="Movies",Snitch(2013)
