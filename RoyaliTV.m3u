@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2S0z3gC" group-title="Movies",Snatch(2000)
+https://dl.dropboxusercontent.com/s/meprtb9nz4tgvj3/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/36DAKWu" group-title="Movies",Snitch(2013)
+https://dl.dropboxusercontent.com/s/1v4rzfn68k09rt5/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3aTjznq" group-title="Movies",G.I. Joe:The Rise of Cobra(2009)
+https://dl.dropboxusercontent.com/s/mi4k6sn13dp4357/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/311Unql" group-title="Movies",G.I. Joe:Retaliation(2013)
+https://dl.dropboxusercontent.com/s/tncnuu1ndalxoo4/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2RzwZx2" group-title="Movies",True Sight(2019)
+https://dl.dropboxusercontent.com/s/s8guespuw0algf9/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3aPWhie" group-title="Movies",Motichoor Chaknachoor(2019)
 https://dl.dropboxusercontent.com/s/63r9ss1ooa8dojg/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2O6P9nQ" group-title="Movies",Gotro(2019)
