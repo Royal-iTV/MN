@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Granada Vs Espanyol
 http://us.ocache.xyz/sports/supersp7.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Bologna Vs Brescia
@@ -13,7 +12,7 @@ https://g.dailysport.pw/4/4.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Bournemouth Vs Aston Villa
 http://us.ocache.xyz/sports/supersp11.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Crystal Vs Sheff Utd
-https://cstream9.com/hls/btsport1.m3u8
+http://35.244.197.47/live/epl3/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Liverpool Vs Southampton
 http://us.ocache.xyz/sports/nbcsn.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Newcastle Vs Norwich
@@ -21,9 +20,11 @@ http://us.ocache.xyz/sports/supersp8.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Watford Vs Everton
 http://us.ocache.xyz/sports/supersp5.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",WestHam Vs Brighton
-https://cstream9.com/hls/tivibuspor2_tr.m3u8
+http://35.244.197.47/live/epl6/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Man Utd Vs Wolves
 http://us.ocache.xyz/sports/supersp3.m3u8
+
+
 #EXTINF:0 tvg-logo="http://bit.ly/3b4ahVx" group-title="Movies",Doctor Sleep(2019)
 https://dl.dropboxusercontent.com/s/co7lczq79ex6tlv/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2UcrXIw" group-title="Movies",Jolly LLB(2013)
