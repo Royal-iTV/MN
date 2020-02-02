@@ -1,27 +1,19 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Granada Vs Espanyol
-http://us.ocache.xyz/sports/supersp7.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Bologna Vs Brescia
-http://us.ocache.xyz/sports/supersp9.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Leicester Vs Chelsea
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Leicester 2:2 Chelsea
 http://us.ocache.xyz/sports/nbcsn.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Leicester Vs Chelsea1
-http://us.ocache.xyz/sports/supersp3.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Leicester Vs Chelsea2
-https://g.dailysport.pw/4/4.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Bournemouth Vs Aston Villa
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Bournemouth 2:1 Aston Villa
 http://us.ocache.xyz/sports/supersp11.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Crystal Vs Sheff Utd
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Crystal 0:1 Sheff Utd
 http://35.244.197.47/live/epl3/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Liverpool Vs Southampton
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Liverpool 4:0 Southampton
 http://us.ocache.xyz/sports/nbcsn.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Newcastle Vs Norwich
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Newcastle 0:0 Norwich
 http://us.ocache.xyz/sports/supersp8.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Watford Vs Everton
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Watford 2:3 Everton
 http://us.ocache.xyz/sports/supersp5.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",WestHam Vs Brighton
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",WestHam 3:3 Brighton
 http://35.244.197.47/live/epl6/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Man Utd Vs Wolves
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Man Utd 0:0 Wolves
 http://us.ocache.xyz/sports/supersp3.m3u8
 
 
