@@ -1,20 +1,12 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Leicester 2:2 Chelsea
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/1/34/144265/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Bournemouth 2:1 Aston Villa
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/1/36/144449/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Crystal 0:1 Sheff Utd
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/2/42/144696/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Liverpool 4:0 Southampton
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/1/42/144494/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Newcastle 0:0 Norwich
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/2/42/144698/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Watford 2:3 Everton
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/1/42/144691/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",WestHam 3:3 Brighton
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/2/42/144692/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Man Utd 0:0 Wolves
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/1/34/144567/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Juventus Vs Fiorentina
+https://dl.dropboxusercontent.com/s/6ddxefvlv3jv91o/supersp9.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Ac Milan Vs HellasVerona
+https://dl.dropboxusercontent.com/s/hzun8jd43u985ei/nbcsn.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Burnley Vs Arsenal
+https://dl.dropboxusercontent.com/s/gqsic4ygxqi5yao/supersp3.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Tottenham Vs ManCity
+https://dl.dropboxusercontent.com/s/gqsic4ygxqi5yao/supersp3.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2OmahXr" group-title="Movies",Ironclad(2011)
 https://dl.dropboxusercontent.com/s/fz68hk3t8vrc46j/index.m3u8
