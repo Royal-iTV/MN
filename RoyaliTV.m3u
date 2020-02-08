@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",Everton Vs Crystal Palace
+http://us.ocache.xyz/sports/nbcsn.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/31zJufB" group-title="Kids",White Snake(2019)
 https://dl.dropboxusercontent.com/s/ltm9o5zrus6vw9s/index.m3u8
 
