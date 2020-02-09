@@ -4,6 +4,16 @@
 https://dl.dropboxusercontent.com/s/mb9d21tc14ek06t/supersp7.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2UxQ6JY" group-title="Live",Espanyol Vs Mallorca
 http://35.244.174.243/live/l/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2UEuoEi" group-title="Live",SPAL Vs Sassuolo
+https://dl.dropboxusercontent.com/s/6ddxefvlv3jv91o/supersp9.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2UxQ6JY" group-title="Live",Sociedad Vs Bilbao
+https://dl.dropboxusercontent.com/s/mb9d21tc14ek06t/supersp7.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2OzOVWD" group-title="Live",Sheff United Vs B'mouth
+https://dl.dropboxusercontent.com/s/gqsic4ygxqi5yao/supersp3.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2UxQ6JY" group-title="Live",Osasuna Vs R-Madrid
+https://dl.dropboxusercontent.com/s/mb9d21tc14ek06t/supersp7.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2UEuoEi" group-title="Live",Parma Vs Lazio
+https://dl.dropboxusercontent.com/s/6ddxefvlv3jv91o/supersp9.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/31zJufB" group-title="Kids",White Snake(2019)
 https://dl.dropboxusercontent.com/s/ltm9o5zrus6vw9s/index.m3u8
