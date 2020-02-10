@@ -1,19 +1,19 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2UxQ6JY" group-title="Live",Espanyol Vs Mallorca
-https://dl.dropboxusercontent.com/s/mb9d21tc14ek06t/supersp7.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2UxQ6JY" group-title="Live",Espanyol Vs Mallorca
-http://35.244.174.243/live/l/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2UEuoEi" group-title="Live",SPAL Vs Sassuolo
-https://dl.dropboxusercontent.com/s/6ddxefvlv3jv91o/supersp9.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2UxQ6JY" group-title="Live",Sociedad Vs Bilbao
-https://dl.dropboxusercontent.com/s/mb9d21tc14ek06t/supersp7.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2OzOVWD" group-title="Live",Sheff United Vs B'mouth
-https://dl.dropboxusercontent.com/s/gqsic4ygxqi5yao/supersp3.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2UxQ6JY" group-title="Live",Osasuna Vs R-Madrid
-https://dl.dropboxusercontent.com/s/mb9d21tc14ek06t/supersp7.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2UEuoEi" group-title="Live",Parma Vs Lazio
-https://dl.dropboxusercontent.com/s/6ddxefvlv3jv91o/supersp9.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Sheff UTD 2:1 Bournemouth
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/9/42/146133/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Inter 4:2 Milan
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/9/36/146418/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Napoli 2:3 Lecce
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/9/36/146139/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Parma 0:1 Lazio
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/9/42/146284/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Osasuna 1:4 Real Medrid
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/9/42/146188/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Celta Vigo 2:1 Sevilla
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/9/42/146274/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Real Betis 2:3 Barcelona
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/9/36/146419/720p.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/31zJufB" group-title="Kids",White Snake(2019)
 https://dl.dropboxusercontent.com/s/ltm9o5zrus6vw9s/index.m3u8
