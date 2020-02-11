@@ -1,20 +1,6 @@
 #EXTM3U
-
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Sheff UTD 2:1 Bournemouth
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/9/42/146133/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Inter 4:2 Milan
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/9/36/146418/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Napoli 2:3 Lecce
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/9/36/146139/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Parma 0:1 Lazio
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/9/42/146284/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Osasuna 1:4 Real Medrid
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/9/42/146188/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Celta Vigo 2:1 Sevilla
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/9/42/146274/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",Real Betis 2:3 Barcelona
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/9/36/146419/720p.m3u8
-
+#EXTINF:0 tvg-logo="http://bit.ly/2uqZnZN" group-title="Movies",Pati Patni Aur Woh(2019)
+https://dl.dropboxusercontent.com/s/zyt0to5mq2jeb32/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/39pLIB1" group-title="Movies",iSmart Shankar(2019)
 https://dl.dropboxusercontent.com/s/a32r7rsf73110oy/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/31LOn5h" group-title="Movies",Mardaani 2(2019)
@@ -736,7 +722,8 @@ https://dl.dropboxusercontent.com/s/9lpj97r6vpln7c4/Defiance.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2r58rRQ" group-title="Movies",Official Secrets(2019)
 https://dl.dropboxusercontent.com/s/knbgdy48jl78yr1/Official%20Secrets.mp4?dl=0
 
-
+#EXTINF:0 tvg-logo="http://bit.ly/39mLzy6" group-title="MTV",Danaryi
+https://dl.dropboxusercontent.com/s/vc8s5n7tb7q2m8w/media.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/301vSc3" group-title="MTV",ZawWinHtut
 https://dl.dropboxusercontent.com/s/lnw7ttu52rze9yb/zwh.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2r7rHP1" group-title="MTV",AcDc-Hightway To Hell
