@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/31GkLX4" group-title="Movies",Warning: Do Not Play(2019)
+https://dl.dropboxusercontent.com/s/7wf9fyq6iygb3td/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2uqZnZN" group-title="Movies",Pati Patni Aur Woh(2019)
 https://dl.dropboxusercontent.com/s/zyt0to5mq2jeb32/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/39pLIB1" group-title="Movies",iSmart Shankar(2019)
