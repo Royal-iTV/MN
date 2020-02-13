@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/2HjJFCA" group-title="Movies",Spellbound(2011)
+https://dl.dropboxusercontent.com/s/krlg7akww2vs3s5/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2SBf4FO" group-title="Movies",Watchmen(2009)
 https://dl.dropboxusercontent.com/s/k5ggodklni14mdm/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/38lfvKY" group-title="Movies",Thambi(2019)
