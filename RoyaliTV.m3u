@@ -1,6 +1,12 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://bit.ly/3brNQd8" group-title="Movies",Blood & Ties(2013)
+https://dl.dropboxusercontent.com/s/9yi3nqto8iu9p7o/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SlDLa4" group-title="Movies",The Last Princess(2016)
+https://dl.dropboxusercontent.com/s/dsozxp24o4zirv1/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2HjJFCA" group-title="Movies",Spellbound(2011)
 https://dl.dropboxusercontent.com/s/krlg7akww2vs3s5/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2HoXijz" group-title="Movies",The Truth Beneath(2016)
+https://dl.dropboxusercontent.com/s/86rajpdv2uz41r6/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2SBf4FO" group-title="Movies",Watchmen(2009)
 https://dl.dropboxusercontent.com/s/k5ggodklni14mdm/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/38lfvKY" group-title="Movies",Thambi(2019)
