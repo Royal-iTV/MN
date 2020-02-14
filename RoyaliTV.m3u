@@ -1,9 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",
-#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",
-
-#EXTINF:0 tvg-logo="" group-title="Movies",
+#EXTINF:0 tvg-logo="http://bit.ly/37x5DN6" group-title="Movies",School Of Rock
+https://dl.dropboxusercontent.com/s/sscp89qoiunazda/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2uLv0x1" group-title="Movies",Stranded(2019)
 #EXTINF:0 tvg-logo="http://bit.ly/39yKQtL" group-title="Movies",Standing Up for Sunny(2019)
 https://dl.dropboxusercontent.com/s/xf4jphcntyjcj1u/master.m3u8
