@@ -1,9 +1,6 @@
 #EXTM3U
-
 #EXTINF:0 tvg-logo="http://bit.ly/37x5DN6" group-title="Movies",School Of Rock
 https://dl.dropboxusercontent.com/s/sscp89qoiunazda/master.m3u8
-
-#EXTINF:0 tvg-logo="http://bit.ly/2uLv0x1" group-title="Movies",Stranded(2019)
 #EXTINF:0 tvg-logo="http://bit.ly/39yKQtL" group-title="Movies",Standing Up for Sunny(2019)
 https://dl.dropboxusercontent.com/s/xf4jphcntyjcj1u/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2uy9dZT" group-title="Movies",The Last Full Measure(2019)
@@ -22,7 +19,6 @@ https://dl.dropboxusercontent.com/s/dsozxp24o4zirv1/index.m3u8
 https://dl.dropboxusercontent.com/s/krlg7akww2vs3s5/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2HoXijz" group-title="Movies",The Truth Beneath(2016)
 https://dl.dropboxusercontent.com/s/86rajpdv2uz41r6/index.m3u8
-
 #EXTINF:0 tvg-logo="http://bit.ly/2He25Vd" group-title="Movies",Red Riding Hood(2011)
 https://dl.dropboxusercontent.com/s/qvx45pqfdrrwrw8/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2OP3rK9" group-title="Movies",Shutter Island(2010)
