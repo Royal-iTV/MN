@@ -1,6 +1,12 @@
 #EXTM3U
+
+#EXTINF:0 tvg-logo="http://bit.ly/2Oz3rhI" group-title="HightLight",
+#EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",
+
+#EXTINF:0 tvg-logo="" group-title="Movies",
 #EXTINF:0 tvg-logo="http://bit.ly/37x5DN6" group-title="Movies",School Of Rock
 https://dl.dropboxusercontent.com/s/sscp89qoiunazda/master.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2uLv0x1" group-title="Movies",Stranded(2019)
 #EXTINF:0 tvg-logo="http://bit.ly/39yKQtL" group-title="Movies",Standing Up for Sunny(2019)
 https://dl.dropboxusercontent.com/s/xf4jphcntyjcj1u/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2uy9dZT" group-title="Movies",The Last Full Measure(2019)
@@ -19,6 +25,7 @@ https://dl.dropboxusercontent.com/s/dsozxp24o4zirv1/index.m3u8
 https://dl.dropboxusercontent.com/s/krlg7akww2vs3s5/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2HoXijz" group-title="Movies",The Truth Beneath(2016)
 https://dl.dropboxusercontent.com/s/86rajpdv2uz41r6/index.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/2He25Vd" group-title="Movies",Red Riding Hood(2011)
 https://dl.dropboxusercontent.com/s/qvx45pqfdrrwrw8/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2OP3rK9" group-title="Movies",Shutter Island(2010)
@@ -1018,91 +1025,6 @@ http://supernimb.selfip.online:8081/mozilla/freesports/playlist.m3u8
 http://115.139.251.43:9981/stream/channelid/1246293783?profile=pass
 
 
-#EXTINF:0 tvg-logo="http://bit.ly/30I8GQy" group-title="Sport",SuperSport 3
-https://dl.dropboxusercontent.com/s/gqsic4ygxqi5yao/supersp3.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/30RfuLW" group-title="Sport",SuperSport 4
-https://dl.dropboxusercontent.com/s/n54aboxkb92hp6x/supersp4.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2GjIy4Z" group-title="Sport",SuperSport 5
-https://dl.dropboxusercontent.com/s/vi8gmcvn6ebf1on/supersp5.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/36jcJ7c" group-title="Sport",SuperSport 6
-https://dl.dropboxusercontent.com/s/jcya3i26kkplq6m/supersp6.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2OiQPuH" group-title="Sport",SuperSport 7 
-https://dl.dropboxusercontent.com/s/mb9d21tc14ek06t/supersp7.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2ung3Rv" group-title="Sport",SuperSport 8
-https://dl.dropboxusercontent.com/s/x6uho1njigl3zth/supersp8.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2RPbgkM" group-title="Sport",SuperSport 9
-https://dl.dropboxusercontent.com/s/6ddxefvlv3jv91o/supersp9.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Rjmi1q" group-title="Sport",SuperSport 11
-https://dl.dropboxusercontent.com/s/z4qydcry1lwmbd8/supersp11.m3u8?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2ooD5Vo" group-title="Sport",BT Sport 2
-https://dl.dropboxusercontent.com/s/hrk7qn8iuzdnr0w/btsport2.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2vdcHkb" group-title="Sport",Skysportarena
-https://dl.dropboxusercontent.com/s/8dlkyr5cqwnbvoi/skysportsarena.m3u8
-#EXTINF:0 tvg-logo="" group-title="Sport",SkysportFootball
-
-#EXTINF:0 tvg-logo="http://bit.ly/2v7mbh6" group-title="Sport",Skysport Action
-https://dl.dropboxusercontent.com/s/7kv5c9n74v6oqyl/SkysportAction.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/36PZ2ww" group-title="Sport",Skysport Main Event
-https://dl.dropboxusercontent.com/s/979ol5b17rqnb9v/SkysportME.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2RgTMO3" group-title="Sport",BT Sport ESPN
-https://dl.dropboxusercontent.com/s/mvgr2y6l7jo13zp/btespn.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2sQqegE" group-title="Sport",NBCSN
-https://dl.dropboxusercontent.com/s/hzun8jd43u985ei/nbcsn.m3u8
-
-
-#EXTINF:0 tvg-logo="http://bit.ly/2uHgZjK" group-title="Sport",Telekom Sport
-http://telekomtv-ro.akamaized.net/shls/LIVE$DolceSportHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 tvg-logo="http://bit.ly/2Tgpe0w" group-title="Sport",Olympic
-https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2tBRekm" group-title="Sport",Real Madrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/37YGFGG" group-title="Sport",Sky Sport Football
-https://cstream5.com/hls/skysportsfootball.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/388QBOj" group-title="Sport",S Sport
-https://cstream5.com/hls/ssport_tr_si.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2NiT0Op" group-title="Sport",BeinSport 1HD
-https://cstream5.com/hls/beinsports1_yedek_tr_si.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Osjazu" group-title="Sport",BT Sport 1
-https://cstream5.com/hls/btsport1.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2ooD5Vo" group-title="Sport",BT Sport 2
-https://cstream5.com/hls/btsport2.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/39WhF4N" group-title="Sport",Fox Sport News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3096xgF" group-title="Sport",BeinSport-Extra
-https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1280x720_2890800/index.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/30crXsY" group-title="Sport",CCTV5
-http://111.40.205.122/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2TfGpPA" group-title="Sport",CCTV5+
-http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2uiRnto" group-title="Sport",Eurosport1
-https://cstream5.com/hls/eurosport1.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2uFjpzl" group-title="Sport",Eurosport2-xtra
-https://cstream5.com/hls/eurosport2.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3a163gU" group-title="Sport",Setanta Sport1
-http://92.46.127.146:8080//SetantaSport/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/30kVHEt" group-title="Sport",Setanta Sport2
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2FKAUjP" group-title="Sport",SportTV
-https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/37ZuYzU" group-title="Sport",Fightbox-HD
-http://84.22.33.254/unicast.fightbox/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2sDlqeJ" group-title="Sport",BeinSport2HD
-http://95.170.215.108:1213/hls/m3u8/beinhd.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/39zqUrp" group-title="Sport",ESPN
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/ERT_SPORTS_HD_LOGO.png" group-title="Sport",ERT Sport
-https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/37u72V2" group-title="Sport",Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/AdSport1.png" group-title="Sport",AdSport1
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/adsports-2.png" group-title="Sport",AdSport2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8.m3u8.m3u8.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/adsports-3.png" group-title="Sport",adsport3
-http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8.m3u8.m3u8.m3u8
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/Ad_sport_4.png" group-title="Sport",adsport4
-http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8.m3u8.m3u8.m3u8
-
 #EXTINF:0 tvg-logo="http://bit.ly/3bDYJso" group-title="Series",BatWoman(2019)S01E01
 https://dl.dropboxusercontent.com/s/g0wv2u4omx6lkl3/Batwoman.S01E01.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/3bDYJso" group-title="Series",BatWoman(2019)S01E02
@@ -1267,15 +1189,15 @@ http://bit.ly/2q78qfz
 http://bit.ly/2MKl11e
 
 
-#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP1-2
+#EXTINF:0 tvg-logo="http://bit.ly/31TGF9e" group-title="Series",Justice(2019)EP1-2
 http://bit.ly/2NdLxyZ
-#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP3-4
+#EXTINF:0 tvg-logo="http://bit.ly/31TGF9e" group-title="Series",Justice(2019)EP3-4
 http://bit.ly/32HPPFv
-#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP5-6
+#EXTINF:0 tvg-logo="http://bit.ly/31TGF9e" group-title="Series",Justice(2019)EP5-6
 http://bit.ly/363KVol
-#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP7-8
+#EXTINF:0 tvg-logo="http://bit.ly/31TGF9e" group-title="Series",Justice(2019)EP7-8
 http://bit.ly/345CgQG
-#EXTINF:0 tvg-logo="http://bit.ly/2BAAsTt" group-title="Series",Justice(2019)EP9-10
+#EXTINF:0 tvg-logo="http://bit.ly/31TGF9e" group-title="Series",Justice(2019)EP9-10
 http://bit.ly/2MMH1Zy
 
 
@@ -1585,9 +1507,9 @@ http://bit.ly/2lOYIwo
 http://bit.ly/2lTUmUC
 #EXTINF:0 tvg-logo="http://bit.ly/2kfL0Cg" group-title="Movies",30 Minutes or Less
 http://bit.ly/2mfemRT
-#EXTINF:0 tvg-logo="http://bit.ly/2mc6BvZ" group-title="Movies",Charlottes Web
+#EXTINF:0 tvg-logo="http://bit.ly/38sJi4j" group-title="Movies",Charlottes Web
 http://bit.ly/2mjkHfe
-#EXTINF:0 tvg-logo="http://bit.ly/2kBzyBn" group-title="Movies",So Close
+#EXTINF:0 tvg-logo="http://bit.ly/38nUkb4" group-title="Movies",So Close
 http://bit.ly/2mjmJMo
 
 #EXTINF:0 tvg-logo="http://bit.ly/30Trj4i" group-title="TV",Channel K
@@ -1626,26 +1548,16 @@ https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2lMqNV4" group-title="TV",National GEO People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2RMOrgv" group-title="TV",National GEO
+#EXTINF:0 tvg-logo="http://bit.ly/39DA05B" group-title="TV",National GEO
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/36oijoA" group-title="TV",National GEO Wild
+#EXTINF:0 tvg-logo="http://bit.ly/39DTrvn" group-title="TV",National GEO Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/36p392H" group-title="TV",Fashion Paris
+#EXTINF:0 tvg-logo="http://bit.ly/2HpL1vy" group-title="TV",Fashion Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/36p392H" group-title="TV",Fashion Destination
+#EXTINF:0 tvg-logo="http://bit.ly/2HpL1vy" group-title="TV",Fashion Destination
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/36p392H" group-title="TV",Fashion Midnight
+#EXTINF:0 tvg-logo="http://bit.ly/2HpL1vy" group-title="TV",Fashion Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-
-#EXTINF:0 tvg-logo="http://bit.ly/2k53JQT" group-title="Radio",Padamyar FM
-http://s2.radio.co/s969e6c4b7/listen
-#EXTINF:0 tvg-logo="http://bit.ly/2k5L0ER" group-title="Radio",Cherry FM
-http://159.65.15.33:8000/
-#EXTINF:0 tvg-logo="http://bit.ly/2kzyTjI" group-title="Radio",Mandalay FM
-http://104275ooyala-lh-audio.akamaized.net/forevergroup-audio-only/1-6a43cb501dee2ec7433d21ef6acfc461_aac/playlist_w1257406946.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2k60FUG" group-title="Radio",Teen Radio
-https://104275ooyala-lh-audio.akamaized.net/forevergroup-audio-only/1-1f717f03a450a2b3e96058a2266cbc92_aac/playlist_w591365869.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2ONKo2X" group-title="Series",House of Saddam Ep1
 http://bit.ly/2ksxcEw
