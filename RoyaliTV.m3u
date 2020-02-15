@@ -4,6 +4,8 @@
 #EXTINF:0 tvg-logo="http://bit.ly/2q9kw8B" group-title="Live",
 #EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Southampton Vs Burnley
 https://opivg25290nnuli.belugacdn.link/live/channel1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Barcelona Vs Getafe
+http://35.244.254.93/live/la/chunks.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Movies",
 #EXTINF:0 tvg-logo="http://bit.ly/2V4hVdh" group-title="Movies",Jumanji:The Next Level(2019)
