@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Sevilla Vs Espanyol
+http://35.244.254.93/live/la/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2UxQ6JY" group-title="Live",Spain Laliga
 http://35.244.254.93/live/la/playlist.m3u8
 
