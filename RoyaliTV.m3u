@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:0 tvg-logo="http://bit.ly/2UxQ6JY" group-title="Live",Spain Laliga
+http://35.244.254.93/live/la/playlist.m3u8
+
+
 #EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Norwich 0:1 Liverpool 
 https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/42/147236/720p.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Southampton 1:2 Burnley
@@ -27,9 +32,14 @@ https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/42/147081/720p.m3u8
 https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/42/147080/720p.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Union Berlin 2:3 Leverkusen
 https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/44/147171/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",
 
+
+#EXTINF:0 tvg-logo="" group-title="Movies",
 #EXTINF:0 tvg-logo="http://bit.ly/2StGmiq" group-title="Movies",Prati Roju Pandaage(2019)
 https://dl.dropboxusercontent.com/s/v5l2fmmte6bxwk4/master.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/39Ev9kU" group-title="Movies",To All the Boys:P.S.I Still Love You(2020)
+https://dl.dropboxusercontent.com/s/4h9hs5ptqn70ce5/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2V4hVdh" group-title="Movies",Jumanji:The Next Level(2019)
 https://dl.dropboxusercontent.com/s/va4n21s08isp7sz/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/37x5DN6" group-title="Movies",School Of Rock
@@ -262,7 +272,7 @@ https://dl.dropboxusercontent.com/s/cwtdrr1xnfmzek4/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3aN0eEr" group-title="Movies",Season Of Witch(2011)
 https://dl.dropboxusercontent.com/s/th1c74v8y64bu8p/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/30UycSV" group-title="Movies",UP(2009)
-https://dl.dropboxusercontent.com/s/es399r3ecjx2vet/720p.m3u8.m3u8.m3u8.m3u8
+https://dl.dropboxusercontent.com/s/es399r3ecjx2vet/720p.m3u8.m3u8.m3u8.m3u8.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3aMk9De" group-title="Movies",Bhaijaan(2015)
 https://dl.dropboxusercontent.com/s/2ro0tnnwtgnot6a/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2U4aJgJ" group-title="Movies",Survivor(2019)
@@ -1546,11 +1556,11 @@ http://bit.ly/2mjmJMo
 #EXTINF:0 tvg-logo="http://bit.ly/30Trj4i" group-title="TV",Channel K
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2ODTGi4" group-title="TV",5Plus
-http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/playlist.m3u8
+http://edge-stream-07.otv.co.th./livestream/5Plus.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/36oqtgV" group-title="TV",MRTV
 http://edge-stream-07.otv.co.th./livestream/MRTV.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2sj7aHv" group-title="TV",Fortune TV
-http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/gidlean/playlist.m3u8
+http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/36iRYsl" group-title="TV",MizzimaTV
 http://220.158.149.14:9999/live/TV00000000000000000092@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://bit.ly/2RnnReR" group-title="TV",Channel-9
@@ -1564,7 +1574,7 @@ http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2o7WtFr" group-title="TV",Mahar
 http://maharlive.b-cdn.net/stream.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2Gj3usX" group-title="TV",MVTV 
-https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p.m3u8.m3u8.m3u8/playlist.m3u8
+https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p.m3u8.m3u8.m3u8.m3u8/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2lI1e7O" group-title="TV",MRTV Hluttaw
 http://edge-stream-07.otv.co.th./livestream/Hluttaw.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2k5ZNzo" group-title="TV",Reader Channel
