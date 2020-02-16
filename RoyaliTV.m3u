@@ -6,12 +6,10 @@ http://35.244.254.93/live/la/playlist.m3u8
 http://35.244.254.93/live/i1/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Leganés Vs Real Betis
 http://35.244.254.93/live/la/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",
-
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Aston Villa Vs Tottenham 
+http://35.244.254.93/live/nbcsn/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Arsenal Vs Newcastle United
+http://35.244.254.93/live/nbcsn/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Movies",
 #EXTINF:0 tvg-logo="http://bit.ly/2StGmiq" group-title="Movies",Prati Roju Pandaage(2019)
