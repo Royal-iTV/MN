@@ -2,38 +2,14 @@
 
 #EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Sevilla Vs Espanyol
 http://35.244.254.93/live/la/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2UxQ6JY" group-title="Live",Spain Laliga
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Udinese Vs Hellas Verona
+http://35.244.254.93/live/i1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Leganés Vs Real Betis
 http://35.244.254.93/live/la/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Norwich 0:1 Liverpool 
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/42/147236/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Southampton 1:2 Burnley
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/36/147031/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Atalanta 2:1 Roma
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/42/147275/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Lecce 2:1 SPAL
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/44/147164/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Bologna 0:3 Genoa
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/34/147240/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Valencia 2:2 Atletico
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/14/42/146988/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Mallorca 1:0 Deportivo
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/34/147019/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Barcelona 2:1 Getafe
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/42/147118/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Dortmund 4:0 Frankfurt
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/14/34/146983/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Augsburg 1:1 Freiburg
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/44/147175/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Hoffenheim 2:3 Wolfburg
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/44/147181/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Paderborn 1:2 Hertha Berlin
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/42/147081/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",RB Leipzig 3:0 WerderBremen
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/42/147080/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Union Berlin 2:3 Leverkusen
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/44/147171/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",
 #EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",
 
 
