@@ -2,8 +2,8 @@
 
 #EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Sevilla Vs Espanyol
 http://35.244.254.93/live/la/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Udinese Vs Hellas Verona
-http://35.244.254.93/live/i1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Juventus Vs Brescia
+http://35.244.254.93/live/e2/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Leganés Vs Real Betis
 http://35.244.254.93/live/la/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Aston Villa Vs Tottenham 
