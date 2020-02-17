@@ -18,19 +18,22 @@ https://1107942067.rsc.cdn77.org/UpFiles/2020/2/16/42/147476/720p.m3u8
 https://1107942067.rsc.cdn77.org/UpFiles/2020/2/16/42/147459/720p.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Sassuolo 0:1 Parma
 https://1107942067.rsc.cdn77.org/UpFiles/2020/2/16/42/147456/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Cagliari 0:1 Napoli
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Cagliari 0:1 Napoli
 https://1107942067.rsc.cdn77.org/UpFiles/2020/2/16/34/147559/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Real 2:2 Celta Vigo
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Real 2:2 Celta Vigo
 https://1107942067.rsc.cdn77.org/UpFiles/2020/2/16/42/147677/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Villarreal 2:1 Levante
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Villarreal 2:1 Levante
 https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/42/147222/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Granada 2:1 Real Valladolid
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Granada 2:1 Real Valladolid
 https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/34/147279/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Sevilla 2:2 Espanyol
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Sevilla 2:2 Espanyol
 https://1107942067.rsc.cdn77.org/UpFiles/2020/2/16/44/147383/720p.m3u8
-
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",
 
 #EXTINF:0 tvg-logo="" group-title="Movies",
+#EXTINF:0 tvg-logo="http://bit.ly/3bIJVJ0" group-title="Movies",Hansel & Gretel: Witch Hunters(2013)
+#EXTINF:0 tvg-logo="http://bit.ly/2SwkaEq" group-title="Movies",Max Payne(2008)
+#EXTINF:0 tvg-logo="http://bit.ly/2P1jW5V" group-title="Movies",Dabangg 3(2019)
 #EXTINF:0 tvg-logo="http://bit.ly/2StGmiq" group-title="Movies",Prati Roju Pandaage(2019)
 https://dl.dropboxusercontent.com/s/v5l2fmmte6bxwk4/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/39Ev9kU" group-title="Movies",To All the Boys:P.S.I Still Love You(2020)
@@ -269,7 +272,7 @@ https://dl.dropboxusercontent.com/s/cwtdrr1xnfmzek4/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3aN0eEr" group-title="Movies",Season Of Witch(2011)
 https://dl.dropboxusercontent.com/s/th1c74v8y64bu8p/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/30UycSV" group-title="Movies",UP(2009)
-https://dl.dropboxusercontent.com/s/es399r3ecjx2vet/720p.m3u8.m3u8.m3u8.m3u8.m3u8
+https://dl.dropboxusercontent.com/s/es399r3ecjx2vet/720p.m3u8.m3u8.m3u8.m3u8.m3u8.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3aMk9De" group-title="Movies",Bhaijaan(2015)
 https://dl.dropboxusercontent.com/s/2ro0tnnwtgnot6a/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2U4aJgJ" group-title="Movies",Survivor(2019)
@@ -1571,7 +1574,7 @@ http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2o7WtFr" group-title="TV",Mahar
 http://maharlive.b-cdn.net/stream.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2Gj3usX" group-title="TV",MVTV 
-https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p.m3u8.m3u8.m3u8.m3u8/playlist.m3u8
+https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p.m3u8.m3u8.m3u8.m3u8.m3u8/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2lI1e7O" group-title="TV",MRTV Hluttaw
 http://edge-stream-07.otv.co.th./livestream/Hluttaw.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2k5ZNzo" group-title="TV",Reader Channel
