@@ -1,35 +1,16 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Chelsea 0:2 Maun UTD
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/17/36/147817/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Aston Villa 2:3 Tottenham
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/16/42/147479/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Arsenal 4:0 Newcastle
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/16/42/147543/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Koln 1:4 Bayern Munich
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/16/42/147504/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Dusseldorf 1:4 M'gladbach
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/34/147233/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Lazio 2:1 Inter
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/16/36/147678/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Atalanta 2:1 Roma
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/42/147275/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Juventus 2:0 Brescia
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/16/42/147476/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Sampdoria 1:5 Fiorentina
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/16/42/147459/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Sassuolo 0:1 Parma
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/16/42/147456/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Cagliari 0:1 Napoli
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/16/34/147559/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Real 2:2 Celta Vigo
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/16/42/147677/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Villarreal 2:1 Levante
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/42/147222/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Granada 2:1 Real Valladolid
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/15/34/147279/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Sevilla 2:2 Espanyol
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/16/44/147383/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyMzMxNzA5MV5BMl5BanBnXkFtZTgwOTkxNjMxMjE@._V1_.jpg" group-title="Series",The Last Ship.S01E01
+https://dl.dropboxusercontent.com/s/vafwubj9hyq06gb/master.m3u8
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyMzMxNzA5MV5BMl5BanBnXkFtZTgwOTkxNjMxMjE@._V1_.jpg" group-title="Series",The Last Ship.S01E02
+https://dl.dropboxusercontent.com/s/qhgqoi0kdzmv665/master.m3u8
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyMzMxNzA5MV5BMl5BanBnXkFtZTgwOTkxNjMxMjE@._V1_.jpg" group-title="Series",The Last Ship.S01E03
+https://dl.dropboxusercontent.com/s/lf022feozm24my6/master.m3u8
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyMzMxNzA5MV5BMl5BanBnXkFtZTgwOTkxNjMxMjE@._V1_.jpg" group-title="Series",The Last Ship.S01E04
+https://dl.dropboxusercontent.com/s/f2n9e9542cmrkhj/master.m3u8
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyMzMxNzA5MV5BMl5BanBnXkFtZTgwOTkxNjMxMjE@._V1_.jpg" group-title="Series",The Last Ship.S01E05
+https://dl.dropboxusercontent.com/s/16jcw9ao7pfla8k/master.m3u8
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyMzMxNzA5MV5BMl5BanBnXkFtZTgwOTkxNjMxMjE@._V1_.jpg" group-title="Series",The Last Ship.S01E06
+https://dl.dropboxusercontent.com/s/livr22ivth3n42k/master.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2P1jW5V" group-title="Movies",Dabangg 3(2019)
 https://dl.dropboxusercontent.com/s/l8gbqi0amlsuet0/master.m3u8
