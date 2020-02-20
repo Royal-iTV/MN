@@ -1041,17 +1041,10 @@ https://dl.dropboxusercontent.com/s/azobhr33cx0cp04/Missbehavior.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/361OUln" group-title="Movies",The Kitchen(2019)
 https://dl.dropboxusercontent.com/s/hpu1o8bp8vvwejm/The%20Kitchen.mp4?dl=0
 
-#EXTINF:0 tvg-logo="http://bit.ly/37IHHHb" group-title="Golf",Ziggo Sport
-http://sg.ocache.xyz/sports/ziggovl.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2Rc1OXp" group-title="Golf",Sky Sport Golf
-https://dl.dropboxusercontent.com/s/m77orich08dyfoz/SkysportGolf.m3u8?dl=0
-#EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="Golf",One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:0 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Golf",FreeSport
-http://supernimb.selfip.online:8081/mozilla/freesports/playlist.m3u8 
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/08/25/SBS-Golf.gif" group-title="Golf",SBS Golf 
-http://115.139.251.43:9981/stream/channelid/1246293783?profile=pass
-
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/nr3lrvw0aqabb3t/SKY-Golf.jpg" group-title="Golf",SkySport Golf
+https://dl.dropboxusercontent.com/s/i7wd8q2c2brnlf1/SKY-Golf.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/500nnt4ze4hcpp3/Golf.png" group-title="Golf",Golf Channel
+https://dl.dropboxusercontent.com/s/sj3rkeatn1itq9s/Golf.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/3bDYJso" group-title="Series",BatWoman(2019)S01E01
 https://dl.dropboxusercontent.com/s/g0wv2u4omx6lkl3/Batwoman.S01E01.mp4?dl=0
