@@ -14,13 +14,22 @@ https://dl.dropboxusercontent.com/s/livr22ivth3n42k/master.m3u8
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyMzMxNzA5MV5BMl5BanBnXkFtZTgwOTkxNjMxMjE@._V1_.jpg" group-title="Series",The Last Ship.S01E07
 https://dl.dropboxusercontent.com/s/u6ly5d3l4yyocxy/master.m3u8
 
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="Movies",Die Hard(1988)
+https://dl.dropboxusercontent.com/s/w6grldwnatn6fxl/1988.m3u8
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMzYzk3ZTEtZDg0My00MTY5LWE3ZmQtYzNhYjhjN2RhZGRjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Movies",Die Hard 2(1990)
+https://dl.dropboxusercontent.com/s/9t4nu59z2q6jfb3/1990.m3u8
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjI0ZWFiMmQtMjRlZi00ZmFhLWI4NmYtMjQ5YmY0MzIyMzRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX670_AL_.jpg" group-title="Movies",Die Hard with a Vengeance(1995)
+#EXTINF:0 tvg-logo="http://bit.ly/39JfFMi" group-title="Movies",Live Free or Die Hard(2007)
+https://dl.dropboxusercontent.com/s/7gf556ifhfkat53/master.m3u8
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwNzgyNzUzOV5BMl5BanBnXkFtZTcwMzAwOTA5OA@@._V1_.jpg" group-title="Movies",A Good Day to Die Hard(2013)
+#EXTINF:0 tvg-logo="" group-title="Movies",
+
 #EXTINF:0 tvg-logo="http://bit.ly/2P1jW5V" group-title="Movies",Dabangg 3(2019)
 https://dl.dropboxusercontent.com/s/l8gbqi0amlsuet0/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3bIJVJ0" group-title="Movies",Hansel & Gretel: Witch Hunters(2013)
 https://dl.dropboxusercontent.com/s/rare9udydnk70fy/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2SwkaEq" group-title="Movies",Max Payne(2008)
 https://dl.dropboxusercontent.com/s/ecdev8x501jmntp/index.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2P1jW5V" group-title="Movies",Dabangg 3(2019)
 #EXTINF:0 tvg-logo="http://bit.ly/2StGmiq" group-title="Movies",Prati Roju Pandaage(2019)
 https://dl.dropboxusercontent.com/s/v5l2fmmte6bxwk4/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/39Ev9kU" group-title="Movies",To All the Boys:P.S.I Still Love You(2020)
