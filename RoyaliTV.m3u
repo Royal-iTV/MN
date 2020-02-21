@@ -1,4 +1,10 @@
 #EXTM3U
+
+#EXTINF:0 tvg-logo="" group-title="Movies",
+#EXTINF:0 tvg-logo="http://bit.ly/2SMJ1UI" group-title="Movies",Freaks(2018)
+https://dl.dropboxusercontent.com/s/69iufmszi2zv0pd/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2v2Vzy1" group-title="Movies",AngelsFallen(2020)
+https://dl.dropboxusercontent.com/s/kycwilxri0x0pog/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2uhdcK1" group-title="Movies",Die Hard(1988)
 https://dl.dropboxusercontent.com/s/w6grldwnatn6fxl/1988.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3bVknZy" group-title="Movies",Die Hard 2(1990)
@@ -9,6 +15,10 @@ https://dl.dropboxusercontent.com/s/hxaw7tpo1ysvcwe/1995.m3u8
 https://dl.dropboxusercontent.com/s/7gf556ifhfkat53/master.m3u8
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwNzgyNzUzOV5BMl5BanBnXkFtZTcwMzAwOTA5OA@@._V1_.jpg" group-title="Movies",A Good Day to Die Hard(2013)
 https://dl.dropboxusercontent.com/s/gc8vwxgctdrhuxv/2013.m3u8
+
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",
+
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyMzMxNzA5MV5BMl5BanBnXkFtZTgwOTkxNjMxMjE@._V1_.jpg" group-title="Series",The Last Ship.S01E01
 https://dl.dropboxusercontent.com/s/vafwubj9hyq06gb/master.m3u8
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyMzMxNzA5MV5BMl5BanBnXkFtZTgwOTkxNjMxMjE@._V1_.jpg" group-title="Series",The Last Ship.S01E02
@@ -23,13 +33,75 @@ https://dl.dropboxusercontent.com/s/16jcw9ao7pfla8k/master.m3u8
 https://dl.dropboxusercontent.com/s/livr22ivth3n42k/master.m3u8
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyMzMxNzA5MV5BMl5BanBnXkFtZTgwOTkxNjMxMjE@._V1_.jpg" group-title="Series",The Last Ship.S01E07
 https://dl.dropboxusercontent.com/s/u6ly5d3l4yyocxy/master.m3u8
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyMzMxNzA5MV5BMl5BanBnXkFtZTgwOTkxNjMxMjE@._V1_.jpg" group-title="Series",The Last Ship.S01E08
+https://dl.dropboxusercontent.com/s/erjeywzj7znrg60/master.m3u8
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyMzMxNzA5MV5BMl5BanBnXkFtZTgwOTkxNjMxMjE@._V1_.jpg" group-title="Series",The Last Ship.S01E09
+https://dl.dropboxusercontent.com/s/ck1kyg5ks4wjyid/720.m3u8
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyMzMxNzA5MV5BMl5BanBnXkFtZTgwOTkxNjMxMjE@._V1_.jpg" group-title="Series",The Last Ship.S01E10
+https://dl.dropboxusercontent.com/s/bxtygtsm32ue9x3/720.m3u8
+#EXTINF:0 tvg-logo="" group-title="Series",
 
-#EXTINF:0 tvg-logo="http://bit.ly/2P1jW5V" group-title="Movies",Dabangg 3(2019)
-https://dl.dropboxusercontent.com/s/l8gbqi0amlsuet0/master.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/rk2xjoor8dlzzs0/Bein1.png" group-title="Sport",Bein1
+https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=2.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/7r5qbzooby90cz3/Bein2.png" group-title="Sport",Bein2
+ 
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/i164225bohmpmxt/FS1.png" group-title="Sport",Fox Sport
+https://dl.dropboxusercontent.com/s/91qj4ap65q4hhh2/FS.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/500nnt4ze4hcpp3/Golf.png" group-title="Sport",Golf Channel
+https://dl.dropboxusercontent.com/s/sj3rkeatn1itq9s/Golf.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/qkukizc312tu1qh/SKY-action.jpg" group-title="Sport",SkySport Action
+https://dl.dropboxusercontent.com/s/g6mktk0jaxbnn5u/SKY-Action.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/bdkat7lgvubahzv/SKY-arena.jpg" group-title="Sport",SkySport Arena
+https://dl.dropboxusercontent.com/s/k78699fof4cy95a/SKY-Arena.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/fqpg9fzrr5iw0a3/SKY-cricket.jpg" group-title="Sport",SkySport Cricket
+https://dl.dropboxusercontent.com/s/m9wlz4wyofc6a3w/SKY-Cricket.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/2hovmpbe8fs514c/SKY-EPL.jpg" group-title="Sport",SkySport Premier
+https://dl.dropboxusercontent.com/s/xo3o7rytdv49zc7/SKY-epl.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/6h26r67r2rem394/SKY-F1.jpg" group-title="Sport",SkySport F1
+https://dl.dropboxusercontent.com/s/r302aewp6u379pm/SKY-F1.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/k48he0e442l81a3/SKY-Football.jpg" group-title="Sport",SkySport Football
+https://dl.dropboxusercontent.com/s/53g06n8cmijgqf6/SKY-Football.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/nr3lrvw0aqabb3t/SKY-Golf.jpg" group-title="Sport",SkySport Golf
+https://dl.dropboxusercontent.com/s/i7wd8q2c2brnlf1/SKY-Golf.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/hop8b194h5p9lwc/Sk.jpg" group-title="Sport",SkySport MainEvent
+https://dl.dropboxusercontent.com/s/fq27afpjxu3craf/SKY-ME.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/6kba290qa1e2fvg/SKY-Mix.jpg" group-title="Sport",SkySport Mix
+https://dl.dropboxusercontent.com/s/wbvr7u7t3yanyg6/SKY-Mix.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/34aqm3e77kkvnbw/SKY-New.jpg" group-title="Sport",SkySport NEWS
+https://dl.dropboxusercontent.com/s/vuoytpk7h04m2qa/SKY-news.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/t8fr93xzko3xvc5/TruePremier.png" group-title="Sport",True EPL
+https://dl.dropboxusercontent.com/s/dkpvgxn6684d1ee/TrueEPL.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/jd1d0876s91x6iu/TruePremier2.png" group-title="Sport",True EPL2
+https://dl.dropboxusercontent.com/s/cw3qjl8togdqvg7/TrueEPL2.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/11rfoz8bamu8ffx/TruePremier3.png" group-title="Sport",True EPL3
+https://dl.dropboxusercontent.com/s/iov7zo0dq3x5ty2/TrueEPL3.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/gwzriiu503hryun/TruePremier4.png" group-title="Sport",True EPL4
+https://dl.dropboxusercontent.com/s/r3pq90qpz4jsc16/TrueEPL4.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ai4f16tul2tlx1v/TruePremier5.png" group-title="Sport",True EPL5
+https://dl.dropboxusercontent.com/s/1g6hje6lx2nr8x4/TrueEPL5.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/exrz83pem4vqonk/TSport.png" group-title="Sport",T-Sport
+https://dl.dropboxusercontent.com/s/yldfeadnqjs5xcf/TSport.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ykc44wx8a6awk8s/TrueSport.png" group-title="Sport",True Sport HD
+https://dl.dropboxusercontent.com/s/f5iu5d3fnptsulh/TSportHD.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/frid3vlu6bv6h0j/TrueSport2.png" group-title="Sport",True Sport HD2
+https://dl.dropboxusercontent.com/s/radwkifazgs930b/TSportHD2.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/0tughhlmzb8nb5y/TrueSport3.png" group-title="Sport",True Sport HD3
+https://dl.dropboxusercontent.com/s/0ctv99lbo6z7lhf/TSportHD3.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/bgtr82vq0f5nufa/TrueSport4.png" group-title="Sport",True Sport HD4
+https://dl.dropboxusercontent.com/s/hdjdo7nocnfsdnq/TSportHD4.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/zix41twypy7hhtw/TrueSport5.png" group-title="Sport",True Sport SD5
+https://dl.dropboxusercontent.com/s/8y2fkr44q2q6wro/TSportSD5.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/l01f90wc0fmaj63/TrueSport6.png" group-title="Sport",True Sport SD6
+https://dl.dropboxusercontent.com/s/uy9k39voj99nglt/TSportSD6.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/e8nr8mshpszxsr3/TrueSport7.png" group-title="Sport",True Sport SD7
+https://dl.dropboxusercontent.com/s/wqjz90aim1wc8zg/TSportSD7.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/3bIJVJ0" group-title="Movies",Hansel & Gretel: Witch Hunters(2013)
 https://dl.dropboxusercontent.com/s/rare9udydnk70fy/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2SwkaEq" group-title="Movies",Max Payne(2008)
 https://dl.dropboxusercontent.com/s/ecdev8x501jmntp/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2P1jW5V" group-title="Movies",Dabangg 3(2019)
+https://dl.dropboxusercontent.com/s/l8gbqi0amlsuet0/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2StGmiq" group-title="Movies",Prati Roju Pandaage(2019)
 https://dl.dropboxusercontent.com/s/v5l2fmmte6bxwk4/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/39Ev9kU" group-title="Movies",To All the Boys:P.S.I Still Love You(2020)
@@ -619,177 +691,174 @@ https://dl.dropboxusercontent.com/s/7ft6j1i0yj73yrd/Teacher.mp4?dl=0
 https://dl.dropboxusercontent.com/s/3flvmjay1stiut1/Soul%20Hunters.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/39zswAC" group-title="Movies",Kim Ji-young_Born 1982(2019)
 https://dl.dropboxusercontent.com/s/72lquldtd5bv9sx/KIM%20JI-YOUNG%20BORN%201982.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2SofUXO" group-title="Movies",Same Time_Next Christmas(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/37AZj7b" group-title="Movies",Same Time_Next Christmas(2019)
 https://dl.dropboxusercontent.com/s/g0w965n6bqubdbg/Same%20Time%20Next%20Christmas.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/35Vjw7x" group-title="Movies",Uncut Gems(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2P5972L" group-title="Movies",Uncut Gems(2019)
 https://dl.dropboxusercontent.com/s/5axcc8l8yyrvgyi/Uncut%20Gems.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/35PVlYe" group-title="Movies",The Russian Bride(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/37vBAFq" group-title="Movies",The Russian Bride(2019)
 https://dl.dropboxusercontent.com/s/77coen55wb9441a/The%20Russian%20Bride.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2Mj8sJS" group-title="Movies",Pearl Harbor(2001)
+#EXTINF:0 tvg-logo="http://bit.ly/2SWI4aS" group-title="Movies",Pearl Harbor(2001)
 http://bit.ly/2Sh2OM0
-#EXTINF:0 tvg-logo="http://bit.ly/35QERim" group-title="Movies",Togo(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2SzJ06d" group-title="Movies",Togo(2019)
 https://dl.dropboxusercontent.com/s/q3rkvzbc5tru7t7/Togo.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2rjg9Zb" group-title="Movies",The Lighthouse(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/38DooQd" group-title="Movies",The Lighthouse(2019)
 https://dl.dropboxusercontent.com/s/nwjx59ihq3ryqlx/The%20Lighthouse.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/38ZA8Ns" group-title="Movies",MA
+#EXTINF:0 tvg-logo="http://bit.ly/39K80xg" group-title="Movies",MA
 http://bit.ly/3708ePs
-#EXTINF:0 tvg-logo="http://bit.ly/2Qcs4Ab" group-title="Movies",The Great War(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2SCbrR1" group-title="Movies",The Great War(2019)
 https://dl.dropboxusercontent.com/s/6jb7nhy3cyaiajp/The%20Great%20War.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/35N3KLV" group-title="Movies",The Aeronauts(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/38DX2cG" group-title="Movies",The Aeronauts(2019)
 https://dl.dropboxusercontent.com/s/ut08jnkvmihlmmd/The%20Aeronauts.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2ZedqfV" group-title="Movies",Villains(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2SZYr6W" group-title="Movies",Villains(2019)
 https://dl.dropboxusercontent.com/s/ebjw4pprchostt2/Villains.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/371yybU" group-title="Movies",The Furnace(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/322jjOJ" group-title="Movies",The Furnace(2019)
 https://dl.dropboxusercontent.com/s/c2ldqk4z98i3v78/The%20Furnace.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/36XDtee" group-title="Movies",Dead Kids(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2SSksUR" group-title="Movies",Dead Kids(2019)
 https://dl.dropboxusercontent.com/s/ppv1ji88lqnnsp4/Dead%20Kids.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/35QaiK0" group-title="Series",The Witcher.S01E01
+#EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher.S01E01
 https://dl.dropboxusercontent.com/s/umlyhtnxa4013mw/The%20Witcher.S01E01.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/35QaiK0" group-title="Series",The Witcher.S01E02
+#EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher.S01E02
 https://dl.dropboxusercontent.com/s/cdx228y6ia1wspz/The%20Witcher.S01E02.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/35QaiK0" group-title="Series",The Witcher.S01E03
+#EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher.S01E03
 https://dl.dropboxusercontent.com/s/fm8gbfcj5xhfn2a/The%20Witcher.S01E03.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/35QaiK0" group-title="Series",The Witcher.S01E04
+#EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher.S01E04
 https://dl.dropboxusercontent.com/s/7vcjkqqm4dnjgyv/The%20Witcher.S01E04.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/35QaiK0" group-title="Series",The Witcher.S01E05
+#EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher.S01E05
 https://dl.dropboxusercontent.com/s/bpe6yskngelfaee/The%20Witcher.S01E05.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/35QaiK0" group-title="Series",The Witcher.S01E06
+#EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher.S01E06
 https://dl.dropboxusercontent.com/s/td9858jg91haq6b/The%20Witcher.S01E06.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/35QaiK0" group-title="Series",The Witcher.S01E07
+#EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher.S01E07
 https://dl.dropboxusercontent.com/s/0ejrf735f7xdfdn/The%20Witcher.S01E07.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/35QaiK0" group-title="Series",The Witcher.S01E08
+#EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher.S01E08
 https://dl.dropboxusercontent.com/s/bo794d5xguib1rc/The%20Witcher.S01E08.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2sKSBg5" group-title="Movies",I See You(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/39EllHw" group-title="Movies",I See You(2019)
 https://dl.dropboxusercontent.com/s/qza8jonxu4k81h4/I%20See%20You.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2rYQRjv" group-title="Movies",Lucy in the Sky(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2Syj4I4" group-title="Movies",Lucy in the Sky(2019)
 https://dl.dropboxusercontent.com/s/pfljwej6h2znnxr/Lucy%20In%20The%20Sky.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2sG6RXp" group-title="Movies",Zombieland: Double Tap(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/38EGS2I" group-title="Movies",Zombieland: Double Tap(2019)
 https://dl.dropboxusercontent.com/s/t7jkrxiralatlw1/Zombieland%20Double%20Tap.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2PDmojP" group-title="Movies",The Sky Is Pink(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2wgPpuj" group-title="Movies",The Sky Is Pink(2019)
 https://dl.dropboxusercontent.com/s/mnntovysr23p5a8/The%20Sky%20Is%20Pink.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2tsxxLC" group-title="Movies",Hello Love Goodbye(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2uVH4fp" group-title="Movies",Hello Love Goodbye(2019)
 https://dl.dropboxusercontent.com/s/1mn5e3t082lnt3m/Hello%2C%20Love%20Goodbye.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2M696ds" group-title="Movies",Bacurau(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2SPBgMh" group-title="Movies",Bacurau(2019)
 https://dl.dropboxusercontent.com/s/hubcyx21g8vxnqf/Bacurau.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/35wQ6wh" group-title="Movies",Yesterday(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2SAnDSv" group-title="Movies",Yesterday(2019)
 http://bit.ly/2PyDQWL
-#EXTINF:0 tvg-logo="http://bit.ly/2YWzDiH" group-title="Movies",American Made(2017)
+#EXTINF:0 tvg-logo="http://bit.ly/37FEDuU" group-title="Movies",American Made(2017)
 https://dl.dropboxusercontent.com/s/0tkhzg2h0agu2wg/American%20Made.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2S2xyAj" group-title="Movies",The 9th Precinct(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2wqqHb9" group-title="Movies",The 9th Precinct(2019)
 https://dl.dropboxusercontent.com/s/45mca8z2jlk2h3d/The%209th%20Precinct.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/35wwyrT" group-title="Movies",Action(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2wmJO5L" group-title="Movies",Action(2019)
 https://dl.dropboxusercontent.com/s/qwjjo9ya0xw6w8t/Action.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2qXqidK" group-title="Movies",Code 8(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/320gj5w" group-title="Movies",Code 8(2019)
 https://dl.dropboxusercontent.com/s/ixyz53li73ssnrm/Code%208.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2Z0PU67" group-title="Movies",Juanita(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/39HW5QM" group-title="Movies",Juanita(2019)
 https://dl.dropboxusercontent.com/s/jijfa7pa8r8kk4v/Juanita.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2PrqcEO" group-title="Movies",Tee Shot:Ariya Jutanugarn(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2SxTsv6" group-title="Movies",Tee Shot:Ariya Jutanugarn(2019)
 https://dl.dropboxusercontent.com/s/phfnsiotmvx01ol/Tee%20Shot-Ariya%20Jutanugarn.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/34runVn" group-title="Movies",Brittany Runs a Marathon(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2SxbltZ" group-title="Movies",Brittany Runs a Marathon(2019)
 https://dl.dropboxusercontent.com/s/a0dfjy2w44b48tz/Brittany%20Runs%20A%20Marathon.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/36KoaFH" group-title="Movies",Judy(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2SxRqLm" group-title="Movies",Judy(2019)
 https://dl.dropboxusercontent.com/s/d0e240sowelsa15/Judy.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2rOzilX" group-title="Movies",6 Underground(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/3bN94ST" group-title="Movies",6 Underground(2019)
 https://dl.dropboxusercontent.com/s/s9rundt5t04qhko/6%20Underground%20.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2YPN3Ni" group-title="Movies",The Room(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2HuJvbB" group-title="Movies",The Room(2019)
 https://dl.dropboxusercontent.com/s/tdocvxtkngxilsf/The%20Room.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2si67HP" group-title="Movies",Grand Isle(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/38CduKi" group-title="Movies",Grand Isle(2019)
 https://dl.dropboxusercontent.com/s/29mfbaix0uc245q/Grand%20Isle.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2Ef1KQE" group-title="Movies",Knives and Skin(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2vEjpQz" group-title="Movies",Knives and Skin(2019)
 https://dl.dropboxusercontent.com/s/x1q7mnbtlwjnor6/Knives%20And%20Skin.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2rFf2mA" group-title="Movies",Bigil(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/39IReyu" group-title="Movies",Bigil(2019)
 https://dl.dropboxusercontent.com/s/uco30e0b69gtasb/Bigil.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2LQmrq4" group-title="Movies",One Must Fall(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/37y8FAv" group-title="Movies",One Must Fall(2018)
 https://dl.dropboxusercontent.com/s/9rogwnwmun6jsr7/One%20Must%20Fall.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2tdgKMD" group-title="Movies",Trauma Center(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/3bMQDO6" group-title="Movies",Trauma Center(2019)
 https://dl.dropboxusercontent.com/s/g0rogz8vbj3jeb9/Trauma%20Center.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2RIWlZX" group-title="Movies",Laal Kaptaan(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/37DJAUX" group-title="Movies",Laal Kaptaan(2019)
 https://dl.dropboxusercontent.com/s/a79jgnhtge0heuh/Laal%20Kaptaan.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/346dxLr" group-title="Movies",A Rainy Day in New York(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2SOSKbK" group-title="Movies",A Rainy Day in New York(2019)
 https://dl.dropboxusercontent.com/s/mxotov42osvozj4/A%20Rainy%20Day%20In%20New%20York.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2P7R2BN" group-title="Movies",Apollo 11(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/39DcDcu" group-title="Movies",Apollo 11(2019)
 http://bit.ly/2sbBTpR
-#EXTINF:0 tvg-logo="http://bit.ly/2LC5srk" group-title="Movies",Malaal(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/39HrORT" group-title="Movies",Malaal(2019)
 https://dl.dropboxusercontent.com/s/zu11bbgkr1n9cz0/Malaal.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2t0s2nj" group-title="Movies",The Captain(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2vIajCm" group-title="Movies",The Captain(2019)
 https://dl.dropboxusercontent.com/s/5k389ez753z01y5/Chinese%20Pilot.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2P5ft2y" group-title="Movies",Out of Liberty(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/37DKoJt" group-title="Movies",Out of Liberty(2019)
 https://dl.dropboxusercontent.com/s/h5tfu19tlcnqcum/Out%20Of%20Liberty.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2sdl2mM" group-title="Movies",Red Devil(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/324Qscz" group-title="Movies",Red Devil(2019)
 https://dl.dropboxusercontent.com/s/id6h6yk7qeaeog7/Red%20Devil.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/36upAnF" group-title="Movies",Before You Know It(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/37HZfCN" group-title="Movies",Before You Know It(2019)
 https://dl.dropboxusercontent.com/s/5x2kn2s1ly6oq52/Before%20You%20Know%20It.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/38mjF5v" group-title="Movies",The Parts You Lose(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2SPU0LI" group-title="Movies",The Parts You Lose(2019)
 https://dl.dropboxusercontent.com/s/mkebxls38nyoknx/The%20Parts%20You%20Lose.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2RHLW0N" group-title="Movies",Radioflash(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/3bNtjju" group-title="Movies",Radioflash(2019)
 https://dl.dropboxusercontent.com/s/gkx3vdv4ghctml8/RadioFlash.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2DYHbYy" group-title="Movies",Playmobil: The Movie(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2T00iZs" group-title="Kids",Playmobil: The Movie(2019)
 https://dl.dropboxusercontent.com/s/bhiyot3iv5wtjpx/Playmobil%20The%20Movie.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2YwMlnY" group-title="Movies",Holiday Rush(2019)
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWEzZTA5ODAtY2I1OC00YzBmLTllMGUtOWM5M2ExZmI5YzM2XkEyXkFqcGdeQXVyNjc2NTQzMjU@._V1_SY1000_SX675_AL_.jpg" group-title="Movies",Holiday Rush(2019)
 https://dl.dropboxusercontent.com/s/ni1uav6cwjh79z6/Holiday%20Rush.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2rvtv4C" group-title="Movies",Doctor Sleep(2019)
-https://dl.dropboxusercontent.com/s/w210hhiyn0cx9q7/Doctor%20Sleep.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2DWyiyN" group-title="Movies",The Report(2019)
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI3ZGNkOGItNWU3ZS00NDIyLTljZjEtZTk5NzkxMjYwMjEzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Movies",The Report(2019)
 https://dl.dropboxusercontent.com/s/5dxm3ipyddetfzm/The%20Report.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2Rh8epS" group-title="Movies",Ad Astra(2019)
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTllZTdlOGEtZTBmMi00MGQ5LWFjN2MtOGEyZTliNGY1MzFiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="Movies",Ad Astra(2019)
 https://dl.dropboxusercontent.com/s/ep7fw2hl3hmimy8/Ad%20Astra.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2r2GPNM" group-title="Movies",I Lost My Body(2019)
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRlNmViODgtNjQwZC00ZGE3LWJmMWMtOTcwNzMwYTY5OTcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Kids",I Lost My Body(2019)
 https://dl.dropboxusercontent.com/s/bqqr9uctb9xahou/I%20Lost%20My%20Body.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2rUKuNp" group-title="Movies",Prassthanam(2019)
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzkzNjI1ZDYtMGRmNi00ZWE3LTlkNDktNGQwZGIxYWM4Mzk4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Movies",Prassthanam(2019)
 https://dl.dropboxusercontent.com/s/dm79clzinqsik0d/Prassthanam.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/33GmnPP" group-title="Movies",Daffodils(2019)
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBmZmEzNDgtODI0MC00Y2JjLWIwMmQtNjNmNGY3ODA1ODFlXkEyXkFqcGdeQXVyNTg1NDAxODM@._V1_SY1000_CR0,0,690,1000_AL_.jpg" group-title="Movies",Daffodils(2019)
 https://dl.dropboxusercontent.com/s/kaz1qd46cthw3rx/Daffodils.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2rEtOd0" group-title="Movies",Terlalu Tampan(2019)
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzcwYjY3ZjktODgyYy00ZWM5LWJhNzgtYzE4MmM4MjQ0ZjQwXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_SY1000_SX800_AL_.jpg" group-title="Movies",Terlalu Tampan(2019)
 https://dl.dropboxusercontent.com/s/canu9zryruh73zv/Terlalu%20Tampan.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/37ZTVvK" group-title="Movies",Downton Abbey(2019)
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQxNGRkMjYtZTAyMy00MDUyLThiNmYtODI1NTkyNmI0ZTNlXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Movies",Downton Abbey(2019)
 https://dl.dropboxusercontent.com/s/htjv2krqk8t90dh/Downton%20Abbey.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2qilOhC" group-title="Movies",A Lifetime Treasure(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2V4T7Sb" group-title="Movies",A Lifetime Treasure(2019)
 https://dl.dropboxusercontent.com/s/vjy3y8wczn6tvj8/A%20Lifetime%20Treasure.mp4?dl=0
 
-#EXTINF:0 tvg-logo="http://bit.ly/37QtGaS" group-title="Movies",See You Soon(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",See You Soon(2019)
 https://dl.dropboxusercontent.com/s/34n3eyjkzflxyxo/See%20You%20Soon.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/35NEvZo" group-title="Movies",The Irishman(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",The Irishman(2019)
 https://dl.dropboxusercontent.com/s/1e1r97v5a2uvus8/The%20Irishman.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2XU0IT8" group-title="Movies",Candle in the Tomb:The Wrath of Time(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",Candle in the Tomb:The Wrath of Time(2019)
 https://dl.dropboxusercontent.com/s/vsqp55808uno4zo/Candle%20in%20the%20Tomb-%20The%20Wrath%20of%20Time.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/37J0JxP" group-title="Movies",War(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",War(2019)
 https://dl.dropboxusercontent.com/s/iegdfbz5279kh2q/War.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/37LjNLF" group-title="Movies",Back Street Girls: Gokudols(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",Back Street Girls: Gokudols(2019)
 https://dl.dropboxusercontent.com/s/0nvy92zoe17tytw/Back%20Street%20Girls-%20Gokudols.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/37Mwkyj" group-title="Movies",Overcomer(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",Overcomer(2019)
 https://dl.dropboxusercontent.com/s/8bd8omt9se8zt7g/Overcomer.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2rArwfa" group-title="Movies",Line of Duty(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",Line of Duty(2019)
 https://dl.dropboxusercontent.com/s/kjn3y8avuzgcqdv/Line%20Of%20Duty.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2L1qpvB" group-title="Movies",Cheer Up, Mr. Lee(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",Cheer Up, Mr. Lee(2019)
 https://dl.dropboxusercontent.com/s/ru2dhsze73cwdnf/Cheer%20Up%20Mr.LEE.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/34oUGMt" group-title="Movies",3022(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",3022(2019)
 https://dl.dropboxusercontent.com/s/4m19pu3nzp27akm/3022.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2OlK1wG" group-title="Movies",The Courier(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",The Courier(2019)
 https://dl.dropboxusercontent.com/s/lgz1ikqr4hj37lj/The%20Courier.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/34wmAGN" group-title="Movies",Kaithi(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",Kaithi(2019)
 https://dl.dropboxusercontent.com/s/cm0buns9oh7ab2d/KAITHI.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2OmOZt9" group-title="Movies",The Knight Before Christmas(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",The Knight Before Christmas(2019)
 https://dl.dropboxusercontent.com/s/vpf5ko6yqorgj28/The%20Knight%20Before%20Christmas.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2OlUfgI" group-title="Movies",The Climbers(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",The Climbers(2019)
 https://dl.dropboxusercontent.com/s/8z533h3g8x2ha73/The%20Climbers.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2Oi8uTA" group-title="Movies",Pailwaan(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",Pailwaan(2019)
 https://dl.dropboxusercontent.com/s/lwqaw2dsw4t8ggf/Pailwaan.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2rjT0FJ" group-title="Movies",In the Tall Grass (2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",In the Tall Grass (2019)
 http://bit.ly/2qIplpE
-#EXTINF:0 tvg-logo="http://bit.ly/2OjXdCd" group-title="Movies",Dream Girl(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",Dream Girl(2019)
 https://dl.dropboxusercontent.com/s/pjsesvtnqkte9vf/Dream%20Girl.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2XJvqy1" group-title="Movies",Where’d You Go, Bernadette(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",Where’d You Go, Bernadette(2019)
 https://dl.dropboxusercontent.com/s/zfop5cp1vtpyzox/Where_d%20You%20Go%20Bernadette.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2Dc9672" group-title="Movies",Mission Mangal(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",Mission Mangal(2019)
 https://dl.dropboxusercontent.com/s/lzxjkg84pqlmubq/Mission%20Mangal.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/35rJO0A" group-title="Movies",Fractured(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",Fractured(2019)
 https://dl.dropboxusercontent.com/s/9ne58b1ruckuvve/Fractured.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2rkgfiV" group-title="Movies",Vortex(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",Vortex(2019)
 https://dl.dropboxusercontent.com/s/gwfqo4awenmab4l/Vortex.mp4?dl=0
-
-#EXTINF:0 tvg-logo="http://bit.ly/2DfuAzz" group-title="Movies",Once Upon a Time … in Hollywood(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",Once Upon a Time … in Hollywood(2019)
 https://dl.dropboxusercontent.com/s/vh9e9xvebcch2qd/Once%20Upon%20A%20Time%20In%20Hollywood.mp4?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2XFnJZL" group-title="Movies",House Arrest(2019)
+#EXTINF:0 tvg-logo="" group-title="Movies",House Arrest(2019)
 https://dl.dropboxusercontent.com/s/dlk5pk27maonpvb/House%20Arrest.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/35vzPHQ" group-title="Movies",The Bygone(2019)
 https://dl.dropboxusercontent.com/s/3444h2vtk1lk9qc/The%20Bygone.mp4?dl=0
@@ -851,19 +920,17 @@ https://dl.dropboxusercontent.com/s/02jolsw02vkxu8c/AC_DC%20-%20Rock%20N%20Roll%
 http://bit.ly/2rdorBm
 
 
-#EXTINF:0 tvg-logo="http://bit.ly/2o0eXIa" group-title="4K",Fast & Furious(2019)4K
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,685,1000_AL_.jpg" group-title="4K",Fast & Furious(2019)4K
 https://dl.dropboxusercontent.com/s/rjd3l3slhvi67cv/Fast%20%26%20Furious%20Presents%20Hobbs%20%26%20Shaw%20%282019%29%204K.mkv?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2PVmSlm" group-title="4K",Iron Man 2-4K(2010)
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI4MzU4MzIwMl5BMl5BanBnXkFtZTcwMzIxMTgyMw@@._V1_.jpg" group-title="4K",Iron Man 2-4K(2010)
 https://dl.dropboxusercontent.com/s/zcs6jrevstvwuav/Iron%20Man%202%20%282010%29%204K.mkv?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2Ok3Zqz" group-title="4K",Angel Has Fallen 4K(2019)
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjdhZjYxYjMtNzllMC00NDY3LTk2MGItMzAwOGZiMjM5NjQ1XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_SY1000_CR0,0,706,1000_AL_.jpg" group-title="4K",Angel Has Fallen 4K(2019)
 https://dl.dropboxusercontent.com/s/l34fzbwix0kzaiv/Angel%20Has%20Fallen%20%282019%29%204K.mkv?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2t6xIfi" group-title="4K",Alita:Battle Angel4K(2019)
-https://dl.dropboxusercontent.com/s/jfbz3qhm1fogvbu/Alita%20Battle%20Angel%20%282019%29%204K%20HDR%206CH.mkv?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2kzmQ69" group-title="4K",iT 4K(2017)
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="4K",iT 4K(2017)
 https://dl.dropboxusercontent.com/s/fkexc249l0utmox/It%20%282017%29%204K.mkv?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2QljBe5" group-title="4K",Iron Man4K(2008)
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="4K",Iron Man4K(2008)
 https://dl.dropboxusercontent.com/s/tbwnwpee7tc5t25/Iron%20Man%20%282008%29%204K.mkv?dl=0
-#EXTINF:0 tvg-logo="http://bit.ly/2Qn8vp0" group-title="4K",Avatar4K(2009)
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_.jpg" group-title="4K",Avatar4K(2009)
 https://dl.dropboxusercontent.com/s/d15cqy6l8977awj/Avatar%20%282009%29%204K.mkv?dl=0
 
 #EXTINF:0 tvg-logo="http://bit.ly/2KzI65e" group-title="Movies",Earthquake Bird(2019)
@@ -1049,11 +1116,6 @@ https://dl.dropboxusercontent.com/s/t7887hv7dzptqst/The%20FOrest%20Of%20Love.mp4
 https://dl.dropboxusercontent.com/s/azobhr33cx0cp04/Missbehavior.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/361OUln" group-title="Movies",The Kitchen(2019)
 https://dl.dropboxusercontent.com/s/hpu1o8bp8vvwejm/The%20Kitchen.mp4?dl=0
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/nr3lrvw0aqabb3t/SKY-Golf.jpg" group-title="Golf",SkySport Golf
-https://dl.dropboxusercontent.com/s/i7wd8q2c2brnlf1/SKY-Golf.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/500nnt4ze4hcpp3/Golf.png" group-title="Golf",Golf Channel
-https://dl.dropboxusercontent.com/s/sj3rkeatn1itq9s/Golf.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/3bDYJso" group-title="Series",BatWoman(2019)S01E01
 https://dl.dropboxusercontent.com/s/g0wv2u4omx6lkl3/Batwoman.S01E01.mp4?dl=0
@@ -1563,7 +1625,7 @@ http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2o7WtFr" group-title="TV",Mahar
 http://maharlive.b-cdn.net/stream.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2Gj3usX" group-title="TV",MVTV 
-https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p.m3u8.m3u8.m3u8.m3u8.m3u8/playlist.m3u8
+https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2lI1e7O" group-title="TV",MRTV Hluttaw
 http://edge-stream-07.otv.co.th./livestream/Hluttaw.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2k5ZNzo" group-title="TV",Reader Channel
