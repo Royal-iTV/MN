@@ -1,6 +1,8 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="" group-title="Movies",
+#EXTINF:0 tvg-logo="http://bit.ly/3bSqRs9" group-title="Movies",Cloud Atlas(2012)
+https://dl.dropboxusercontent.com/s/1b0emo8zimqznby/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2SMJ1UI" group-title="Movies",Freaks(2018)
 https://dl.dropboxusercontent.com/s/69iufmszi2zv0pd/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2v2Vzy1" group-title="Movies",AngelsFallen(2020)
