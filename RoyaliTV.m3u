@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Celta Vigo vs Leganés
+http://35.201.84.52/live/l/chunks.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Chelsea Vs Tottenham
+http://35.201.84.52/live/nbcsn/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Chelsea Vs Tottenham1
+https://g.dailysport.pw/aa4/x4.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/39Zb3lz" group-title="Movies",War of the Worlds(2005)
 https://dl.dropboxusercontent.com/s/caolnfsqff3jkse/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3bSqRs9" group-title="Movies",Cloud Atlas(2012)
