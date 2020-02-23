@@ -5,6 +5,16 @@ http://35.201.84.52/live/l/playlist.m3u8
 http://35.201.84.52/live/e2c/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Deportivo vs Athletic 
 http://35.201.84.52/live/l/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Manchester United vs Watford
+http://35.201.84.52/live/nbcsn/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Wolverhampton vs Norwich City
+http://35.201.84.52/live/cnbc/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Roma Vs Lecce
+http://35.201.84.52/live/b8/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Leverkusen vs Augsburg
+http://35.201.84.52/live/fs1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Wolfsburg vs Mainz 05
+http://35.201.84.52/live/fs1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/39Zb3lz" group-title="Movies",War of the Worlds(2005)
 https://dl.dropboxusercontent.com/s/caolnfsqff3jkse/index.m3u8
