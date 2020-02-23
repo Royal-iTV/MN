@@ -1,23 +1,45 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Chelsea Vs Tottenham
-http://35.201.84.52/live/nbcsn/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Chelsea Vs Tottenham
-https://g.dailysport.pw/aa4/x4.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Bologna vs Udinese
-http://35.201.84.52/live/sa/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Werder Bremen vs Dortmund
-http://35.201.84.52/live/fs1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Hertha BSC vs Köln
-http://35.201.84.52/live/m6/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Burnley vs AFC Bournemouth
-http://35.201.84.52/live/s2/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Crystal vs Newcastle
-http://35.201.84.52/live/s3/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Leicester vs Manchester City
-https://g.dailysport.pw/aa4/x4.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Barcelona vs Eibar
-http://35.201.84.52/live/l/chunks.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Chelsea 2:1 Tottenham
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/42/148601/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Burnley 3:0 Bournemouth
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/42/148728/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Crystal 1:0 Newcastle
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/42/148730/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Sheff Utd 1:1 Brighton
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/36/148686/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Leicester 0:1 Man City
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/42/148834/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Bayern 3:2 Paderborn
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/21/42/148481/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",M'Gladbach 1:1 Hoffenheim
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/36/148671/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Freiburg 0:2 Dusseldorf
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/36/148667/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Hertha 0:5 Köln
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/36/148660/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Werder Bremen 0:2 Dortmund
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/42/148677/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Schalke 0:5 RB Leipzig
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/36/148852/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Brescia 1:2 Napoli
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/21/42/148480/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Bologna 1:1 Udinese
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/35/148717/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",SPAL 1:2 Juventus
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/42/148833/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Fiorentina 1:1 Milan
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/42/148909/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Real Sociedad 3:0 Valencia
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/42/148825/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Levante 1:0 Real Madrid
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/42/148902/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Real Batis 3:3 Mallorca
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/21/42/148485/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Celta Vigo 1:0 Leganes
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/34/148551/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Barcelona 5:0 Eibar
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/22/42/148712/720p.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/39Zb3lz" group-title="Movies",War of the Worlds(2005)
 https://dl.dropboxusercontent.com/s/caolnfsqff3jkse/index.m3u8
