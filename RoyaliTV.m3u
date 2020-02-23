@@ -15,6 +15,8 @@ http://35.201.84.52/live/b8/playlist.m3u8
 http://35.201.84.52/live/fs1/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Wolfsburg vs Mainz 05
 http://35.201.84.52/live/fs1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Atlético Madrid vs Villarreal
+http://35.201.84.52/live/l/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/39Zb3lz" group-title="Movies",War of the Worlds(2005)
 https://dl.dropboxusercontent.com/s/caolnfsqff3jkse/index.m3u8
