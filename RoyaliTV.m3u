@@ -1,22 +1,26 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Osasuna vs Granada
-http://35.201.84.52/live/l/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Genoa vs Lazio
-http://35.201.84.52/live/e2c/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Deportivo vs Athletic 
-http://35.201.84.52/live/l/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Manchester United vs Watford
-http://35.201.84.52/live/nbcsn/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Wolverhampton vs Norwich City
-http://35.201.84.52/live/cnbc/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Roma Vs Lecce
-http://35.201.84.52/live/b8/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Leverkusen vs Augsburg
-http://35.201.84.52/live/fs1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Wolfsburg vs Mainz 05
-http://35.201.84.52/live/fs1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",Atlético Madrid vs Villarreal
-http://35.201.84.52/live/l/playlist.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Manchester United 3:0 Watford
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/24/42/149218/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Wolverhampton 3:0 Norwich City
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/24/42/149222/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Arsenal 3:2 Everton
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/42/149214/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Genoa 2:3 Lazio
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/42/148968/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Roma 4:0 Lecce
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/42/149116/720p
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Osasuna 0:3 Granada
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/42/148951/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Deportivo 2:1 Athletic
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/42/148999/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Getafe 0:3 Sevilla
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/42/149128/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Atlético Madrid 3:1 Villarreal
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/34/149194/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Leverkusen 2:0 Augsburg
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/44/149057/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Wolfsburg 4:0 Mainz 05
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/42/149112/720p.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/39Zb3lz" group-title="Movies",War of the Worlds(2005)
 https://dl.dropboxusercontent.com/s/caolnfsqff3jkse/index.m3u8
