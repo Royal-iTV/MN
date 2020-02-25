@@ -1,30 +1,48 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Manchester United 3:0 Watford
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/24/42/149218/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Wolverhampton 3:0 Norwich City
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/24/42/149222/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Arsenal 3:2 Everton
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/42/149214/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Genoa 2:3 Lazio
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/42/148968/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Roma 4:0 Lecce
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/42/149116/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",
+#EXTINF:0 tvg-logo="" group-title="Series",
+#EXTINF:0 tvg-logo="" group-title="Kids",
 
+#EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher(2019).S01E01
+https://dl.dropboxusercontent.com/s/9c8fssv7q74o1v0/index.S01e01.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher(2019).S01E02
+https://dl.dropboxusercontent.com/s/2w7msr2c5pdrpyf/index.S01e02.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher(2019).S01E03
+https://dl.dropboxusercontent.com/s/krvoe1q6goc3gl9/index.S01e03.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher(2019).S01E04
+https://dl.dropboxusercontent.com/s/6p7665lj2seaqop/index.S01e04.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher(2019).S01E05
+https://dl.dropboxusercontent.com/s/ydufek4q97h1ddr/index.S01e05.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher(2019).S01E06
+https://dl.dropboxusercontent.com/s/cbdamquwpeoli66/index.S01e06.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher(2019).S01E07
+https://dl.dropboxusercontent.com/s/58dwzamnav9jliu/index.S01e07.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher(2019).S01E08
+https://dl.dropboxusercontent.com/s/m608x515r3q4ydk/index.S01e08.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3a6FfLD" group-title="Series",하이바이 마마!(2020).S01E01
+https://dl.dropboxusercontent.com/s/abc1u3ojb1tf7hw/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3a6FfLD" group-title="Series",하이바이 마마!(2020).S01E02
+https://dl.dropboxusercontent.com/s/9asv6zhc03q83pu/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2HU8vcs" group-title="Series",날시가 조연면(2020)
+https://dl.dropboxusercontent.com/s/s4zsl53qs1jhpxx/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3c6ljdo" group-title="Movies",Peranbu(2019)
 
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Osasuna 0:3 Granada
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/42/148951/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Deportivo 2:1 Athletic
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/42/148999/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Getafe 0:3 Sevilla
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/42/149128/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Atlético Madrid 3:1 Villarreal
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/34/149194/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Leverkusen 2:0 Augsburg
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/44/149057/720p.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",Wolfsburg 4:0 Mainz 05
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/23/42/149112/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/32jUI8t" group-title="Movies",Commando 3(2019)
+https://dl.dropboxusercontent.com/s/vpnwb7ur1xx5r1y/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/32mnO6Y" group-title="Movies",Good Newwz(2019)
+https://dl.dropboxusercontent.com/s/8a5vclhor8j2maq/index.m3u8
 
+#EXTINF:0 tvg-logo="http://bit.ly/2PhX2aD" group-title="Kids",Arctic Dogs(2019)
+https://dl.dropboxusercontent.com/s/4fklzd9fxkm3rhc/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2HgRrgk" group-title="Movies",Charlie's Angels(2019)
+https://dl.dropboxusercontent.com/s/o0255xifsdx0u6b/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3bSHfsB" group-title="Movies",Ghost(2019)
+https://dl.dropboxusercontent.com/s/i99tyafuskd5bx9/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/32hFAYW" group-title="Movies",While at War(2019)
+https://dl.dropboxusercontent.com/s/4jv5778gc4x516o/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2wy5vjm" group-title="Movies",Secret Zoo(2020)
+https://dl.dropboxusercontent.com/s/xjokd150t7cqa3j/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/39Zb3lz" group-title="Movies",War of the Worlds(2005)
 https://dl.dropboxusercontent.com/s/caolnfsqff3jkse/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3bSqRs9" group-title="Movies",Cloud Atlas(2012)
@@ -43,9 +61,6 @@ https://dl.dropboxusercontent.com/s/hxaw7tpo1ysvcwe/1995.m3u8
 https://dl.dropboxusercontent.com/s/7gf556ifhfkat53/master.m3u8
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwNzgyNzUzOV5BMl5BanBnXkFtZTcwMzAwOTA5OA@@._V1_.jpg" group-title="Movies",A Good Day to Die Hard(2013)
 https://dl.dropboxusercontent.com/s/gc8vwxgctdrhuxv/2013.m3u8
-
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",
-#EXTINF:0 tvg-logo="http://bit.ly/2SSuu8O" group-title="Live",
 
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyMzMxNzA5MV5BMl5BanBnXkFtZTgwOTkxNjMxMjE@._V1_.jpg" group-title="Series",The Last Ship.S01E01
 https://dl.dropboxusercontent.com/s/vafwubj9hyq06gb/master.m3u8
@@ -67,7 +82,7 @@ https://dl.dropboxusercontent.com/s/erjeywzj7znrg60/master.m3u8
 https://dl.dropboxusercontent.com/s/ck1kyg5ks4wjyid/720.m3u8
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyMzMxNzA5MV5BMl5BanBnXkFtZTgwOTkxNjMxMjE@._V1_.jpg" group-title="Series",The Last Ship.S01E10
 https://dl.dropboxusercontent.com/s/bxtygtsm32ue9x3/720.m3u8
-#EXTINF:0 tvg-logo="" group-title="Series",
+
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/rk2xjoor8dlzzs0/Bein1.png" group-title="Sport",Bein1
 https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=2.m3u8
@@ -124,7 +139,7 @@ https://dl.dropboxusercontent.com/s/uy9k39voj99nglt/TSportSD6.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/e8nr8mshpszxsr3/TrueSport7.png" group-title="Sport",True Sport SD7
 https://dl.dropboxusercontent.com/s/wqjz90aim1wc8zg/TSportSD7.m3u8
 
-#EXTINF:0 tvg-logo="http://bit.ly/3bIJVJ0" group-title="Movies",Hansel & Gretel: Witch Hunters(2013)
+#EXTINF:0 tvg-logo="http://bit.ly/3bIJVJ0" group-title="Movies",Hansel & Gretel:Witch Hunters(2013)
 https://dl.dropboxusercontent.com/s/rare9udydnk70fy/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2SwkaEq" group-title="Movies",Max Payne(2008)
 https://dl.dropboxusercontent.com/s/ecdev8x501jmntp/index.m3u8
@@ -145,8 +160,6 @@ https://dl.dropboxusercontent.com/s/xf4jphcntyjcj1u/master.m3u8
 https://dl.dropboxusercontent.com/s/zf1v9nf71cwv0s9/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2HjNyas" group-title="Movies",1917(2019)
 https://dl.dropboxusercontent.com/s/749z7f4oeitketf/master.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2HgRrgk" group-title="Movies",Charlie's Angels(2019)
-https://dl.dropboxusercontent.com/s/thdj4jth791u7de/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3byHpVP" group-title="Movies",A Shaun the Sheep Movie:Farmageddon(2019)
 https://dl.dropboxusercontent.com/s/2clxfsvm6i0qb5f/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3brNQd8" group-title="Movies",Blood & Ties(2013)
@@ -1300,8 +1313,6 @@ http://bit.ly/2PVD8Dk
 http://bit.ly/2oJcvX8
 #EXTINF:0 tvg-logo="http://bit.ly/36ujynF" group-title="Movies",The Death of Superman(2018)
 http://bit.ly/2C7WNYy
-#EXTINF:0 tvg-logo="http://bit.ly/2NdKKPR" group-title="Movies",War of the Worlds
-http://bit.ly/2JOZu5P
 #EXTINF:0 tvg-logo="http://bit.ly/2NkyLim" group-title="Movies",Stuber(2019)
 http://bit.ly/2q78qfz
 #EXTINF:0 tvg-logo="http://bit.ly/2PtK7DB" group-title="Movies",The Forbidden Kingdom
@@ -1635,6 +1646,8 @@ http://bit.ly/2mjmJMo
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2ODTGi4" group-title="TV",5Plus
 http://edge-stream-07.otv.co.th./livestream/5Plus.stream/playlist.m3u8
+https://dl.dropboxusercontent.com/s/0dambpxl10xm7dp/5plus.m3u8
+
 #EXTINF:-1 tvg-logo="http://bit.ly/36oqtgV" group-title="TV",MRTV
 http://edge-stream-07.otv.co.th./livestream/MRTV.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2sj7aHv" group-title="TV",Fortune TV
@@ -1645,6 +1658,7 @@ http://220.158.149.14:9999/live/TV00000000000000000092@HHZT;LIVE
 http://edge-stream-07.otv.co.th./livestream/Channel9.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/30Nq4n0" group-title="TV",MRTV-4
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
+https://dl.dropboxusercontent.com/s/b6yvec0fdjjy4f5/MRTV-HD.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2kr4T9N" group-title="TV",Mahar Bawdi
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2TR1Re8" group-title="TV",Channel 7
@@ -1663,16 +1677,22 @@ http://edge-stream-07.otv.co.th./livestream/MNTV.stream/playlist.m3u8
 http://edge-stream-07.otv.co.th./livestream/MRTV-Entertainment.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2JQvtCr" group-title="TV",DVB
 https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/2GmlKBY" group-title="TV",Docu Box
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/2lMqNV4" group-title="TV",National GEO People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/39DA05B" group-title="TV",National GEO
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/39DTrvn" group-title="TV",National GEO Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/2HpL1vy" group-title="TV",Fashion Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/2HpL1vy" group-title="TV",Fashion Destination
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2HpL1vy" group-title="TV",Fashion Midnight
