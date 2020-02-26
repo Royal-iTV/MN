@@ -3,8 +3,10 @@
 #EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",
 #EXTINF:0 tvg-logo="" group-title="Series",
 #EXTINF:0 tvg-logo="" group-title="Kids",
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/a2ur5110g8925rv/Hightlight-EPL.png" group-title="HightLight",Liverpool 3:2 West Ham
-https://1107942067.rsc.cdn77.org/UpFiles/2020/2/24/42/149352/720p.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2wO2MCG" group-title="Series",Vagabond(2019).S01E01
+https://dl.dropboxusercontent.com/s/7f75gunmwptysin/Vagabond.S01E01.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2wO2MCG" group-title="Series",Vagabond(2019).S01E02
+https://dl.dropboxusercontent.com/s/k5i36120geg15s5/Vagabond.S01E02.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2vKkKoT" group-title="Series",The Witcher(2019).S01E01
 https://dl.dropboxusercontent.com/s/9c8fssv7q74o1v0/index.S01e01.m3u8
