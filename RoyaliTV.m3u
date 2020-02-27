@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="" group-title="HightLight",
-
 https://dl.dropboxusercontent.com/s/a2ur5110g8925rv/Hightlight-EPL.png
 https://dl.dropboxusercontent.com/s/8g65e9ra52prddj/Hightlight-Gr.png
 https://dl.dropboxusercontent.com/s/21zxe882f81hhbe/Hightlight-SerieA.png
@@ -10,7 +8,7 @@ https://dl.dropboxusercontent.com/s/y6o6ramcmodbn8g/LIveEPL.png
 https://dl.dropboxusercontent.com/s/g87t04ud4my43as/LiveGermany.png
 https://dl.dropboxusercontent.com/s/gu3tbq84hme4gth/LiveItaly.png
 https://dl.dropboxusercontent.com/s/rcag2wo1i3olent/LiveSpain.png
-
+#EXTINF:0 tvg-logo="" group-title="HightLight",
 #EXTINF:0 tvg-logo="" group-title="Series",
 #EXTINF:0 tvg-logo="" group-title="Kids",
 
