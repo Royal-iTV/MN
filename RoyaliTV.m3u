@@ -1,8 +1,26 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://bit.ly/3bIPbMH" group-title="HightLight",
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/a2ur5110g8925rv/Hightlight-EPL.png" group-title="HightLight",Liverpool 3:2 West Ham
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/24/42/149352/720p.m3u8
+https://dl.dropboxusercontent.com/s/a2ur5110g8925rv/Hightlight-EPL.png
+https://dl.dropboxusercontent.com/s/8g65e9ra52prddj/Hightlight-Gr.png
+https://dl.dropboxusercontent.com/s/21zxe882f81hhbe/Hightlight-SerieA.png
+https://dl.dropboxusercontent.com/s/o0f66sk1eteax4j/HightlightLaliga.png
+https://dl.dropboxusercontent.com/s/y6o6ramcmodbn8g/LIveEPL.png
+https://dl.dropboxusercontent.com/s/g87t04ud4my43as/LiveGermany.png
+https://dl.dropboxusercontent.com/s/gu3tbq84hme4gth/LiveItaly.png
+https://dl.dropboxusercontent.com/s/rcag2wo1i3olent/LiveSpain.png
+
 #EXTINF:0 tvg-logo="" group-title="Series",
 #EXTINF:0 tvg-logo="" group-title="Kids",
+
+#EXTINF:0 tvg-logo="http://bit.ly/383N9DO" group-title="Movies",Troop Zero(2019)
+https://dl.dropboxusercontent.com/s/c8equppz8wn6ozv/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3a3NojR" group-title="Movies",The Body(2019)
+https://dl.dropboxusercontent.com/s/4vljttvcoect7fw/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3a7ZkRK" group-title="Kids",Superman:Red Son(2020)
+https://dl.dropboxusercontent.com/s/fz3v9feail1e4l7/index.m3u8
+
 #EXTINF:0 tvg-logo="http://bit.ly/3c6ljdo" group-title="Movies",Peranbu(2019)
 https://dl.dropboxusercontent.com/s/ee72wmyue4rn7ku/Peranbu%282018%29.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2wO2MCG" group-title="Series",Vagabond(2019).S01E01
@@ -58,9 +76,10 @@ https://dl.dropboxusercontent.com/s/m608x515r3q4ydk/index.S01e08.m3u8
 https://dl.dropboxusercontent.com/s/abc1u3ojb1tf7hw/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3a6FfLD" group-title="Series",하이바이 마마!(2020).S01E02
 https://dl.dropboxusercontent.com/s/9asv6zhc03q83pu/index.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/2HU8vcs" group-title="Series",날시가 조연면(2020)
+#EXTINF:0 tvg-logo="http://bit.ly/2HU8vcs" group-title="Series",날시가 조연면(2020).S01E01
 https://dl.dropboxusercontent.com/s/s4zsl53qs1jhpxx/index.m3u8
-#EXTINF:0 tvg-logo="http://bit.ly/3c6ljdo" group-title="Movies",Peranbu(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/2HU8vcs" group-title="Series",날시가 조연면(2020).S01E02
+https://dl.dropboxusercontent.com/s/14rsbhob2fmpumh/index.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/32jUI8t" group-title="Movies",Commando 3(2019)
 https://dl.dropboxusercontent.com/s/vpnwb7ur1xx5r1y/index.m3u8
@@ -684,7 +703,7 @@ https://dl.dropboxusercontent.com/s/ez253su5vexajq9/Sacred%20Games.S02E07.mp4?dl
 #EXTINF:0 tvg-logo="http://bit.ly/2SnYEl9" group-title="Series",Sacred Games.S02E08
 https://dl.dropboxusercontent.com/s/5mz4wnqqj7knc00/Sacred%20Games.S02E08.mp4?dl=0
 
-#EXTINF:0 tvg-logo="http://bit.ly/36ExNpA" group-title="Movies",A Witness Out of the Blue(2019)
+#EXTINF:0 tvg-logo="http://bit.ly/3c5jU6W" group-title="Movies",A Witness Out of the Blue(2019)
 https://dl.dropboxusercontent.com/s/p6z8yy8dxl46h34/A%20Witness%20Out%20Of%20The%20Blue.mp4?dl=0
 #EXTINF:0 tvg-logo="http://bit.ly/2StI0kd" group-title="Movies",Marriage Story(2019)
 https://dl.dropboxusercontent.com/s/s77s63dysoaelz2/marriage%20story.mp4?dl=0
