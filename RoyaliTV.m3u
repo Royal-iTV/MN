@@ -2,8 +2,9 @@
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/rcag2wo1i3olent/LiveSpain.png" group-title="Live",Eibar vs Levante
 http://34.107.131.44/live/l/chunks.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/y6o6ramcmodbn8g/LIveEPL.png" group-title="Live",Brighton vs Crystal 
-https://g.dailysport.pw/epl01/epl01.m3u8
+http://34.107.131.44/live/n/playlist.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/gu3tbq84hme4gth/LiveItaly.png" group-title="Live",Lazio vs Bologna
+http://34.107.131.44/live/e2c/playlist.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/g87t04ud4my43as/LiveGermany.png" group-title="Live",Hoffenheim vs Bayern München
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/y6o6ramcmodbn8g/LIveEPL.png" group-title="Live",Bournemouth vs Chelsea
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/rcag2wo1i3olent/LiveSpain.png" group-title="Live",Valencia vs Real Betis
