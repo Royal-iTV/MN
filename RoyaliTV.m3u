@@ -1,19 +1,28 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/rcag2wo1i3olent/LiveSpain.png" group-title="Live",Eibar vs Levante
-http://34.107.131.44/live/l/chunks.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/y6o6ramcmodbn8g/LIveEPL.png" group-title="Live",Brighton vs Crystal 
-http://34.107.131.44/live/n/playlist.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/gu3tbq84hme4gth/LiveItaly.png" group-title="Live",Lazio vs Bologna
-http://34.107.131.44/live/e2c/playlist.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/g87t04ud4my43as/LiveGermany.png" group-title="Live",Hoffenheim vs Bayern München
-http://34.107.131.44/live/fs1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/y6o6ramcmodbn8g/LIveEPL.png" group-title="Live",Bournemouth vs Chelsea
-http://34.107.131.44/live/n/playlist.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/rcag2wo1i3olent/LiveSpain.png" group-title="Live",Valencia vs Real Betis
-http://34.107.131.44/live/l/chunks.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/y6o6ramcmodbn8g/LIveEPL.png" group-title="Live",Watford vs Liverpool
-http://34.107.131.44/live/n/playlist.m3u8
-
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/a2ur5110g8925rv/Hightlight-EPL.png" group-title="Hightlight",Brighton 0:1 Crystal 
+https://1107942067.rsc.cdn77.org/UpFiles/2020/3/1/42/150207/720p.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/a2ur5110g8925rv/Hightlight-EPL.png" group-title="Hightlight",Bournemouth 2:2 Chelsea
+https://1107942067.rsc.cdn77.org/UpFiles/2020/3/1/42/150206/720p.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/a2ur5110g8925rv/Hightlight-EPL.png" group-title="Hightlight",Watford 3:0 Liverpool
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/29/42/150204/720p.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/a2ur5110g8925rv/Hightlight-EPL.png" group-title="Hightlight",WestHam 3:1 Southampton
+https://1107942067.rsc.cdn77.org/UpFiles/2020/3/1/42/150205/720p.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/8g65e9ra52prddj/Hightlight-Gr.png" group-title="Hightlight",Augsburg 2:3 M'gladbach
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/29/36/150048/720p.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/8g65e9ra52prddj/Hightlight-Gr.png" group-title="Hightlight",Dortmund 1:0 Freiburg
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/29/42/150025/720p.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/8g65e9ra52prddj/Hightlight-Gr.png" group-title="Hightlight",Hoffenheim 0:6 Bayern Münich
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/29/36/150072/720p.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/8g65e9ra52prddj/Hightlight-Gr.png" group-title="Hightlight",Mainz 2:0 Paderborn
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/29/34/150074/720p.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/o0f66sk1eteax4j/HightlightLaliga.png" group-title="Hightlight",Eibar 3:0 Levante
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/29/42/149955/720p.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/o0f66sk1eteax4j/HightlightLaliga.png" group-title="Hightlight",Valencia 2:1 Real Betis
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/29/42/150035/720p.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/21zxe882f81hhbe/Hightlight-SerieA.png" group-title="Hightlight",Lazio 2:0 Bologna
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/29/35/150037/720p.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/21zxe882f81hhbe/Hightlight-SerieA.png" group-title="Hightlight",Napoli 2:1 Torino
+https://1107942067.rsc.cdn77.org/UpFiles/2020/2/29/42/150190/720p.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/a2ur5110g8925rv/Hightlight-EPL.png" group-title="HightLight",Norwich City 1:0 Leicester City
 https://1107942067.rsc.cdn77.org/UpFiles/2020/2/28/42/149917/720p.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/8g65e9ra52prddj/Hightlight-Gr.png" group-title="HightLight",Düsseldorf 3:3 Hertha 
