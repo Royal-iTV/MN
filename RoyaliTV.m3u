@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/rcag2wo1i3olent/LiveSpain.png" group-title="Live",Sevilla vs Osasuna
+http://34.107.131.44/live/l/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2Ibqw5S" group-title="Movies",Darbar(2020)
 https://dl.dropboxusercontent.com/s/pomimkektzsjfop/index.m3u8
