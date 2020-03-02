@@ -27,7 +27,7 @@ https://1107942067.rsc.cdn77.org/UpFiles/2020/2/29/42/150190/720p.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/21zxe882f81hhbe/Hightlight-SerieA.png" group-title="Hightlight",Lecce 2:7 Atalanta
 https://1107942067.rsc.cdn77.org/UpFiles/2020/3/1/36/150333/720p.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/21zxe882f81hhbe/Hightlight-SerieA.png" group-title="Hightlight",Cagliari 3:4 Roma
-https://1107942067.rsc.cdn77.org/UpFiles/2020/3/1/35/150479/720p
+https://1107942067.rsc.cdn77.org/UpFiles/2020/3/1/35/150479/720p.m3u8
 
 #EXTINF:0 tvg-logo="http://bit.ly/2Ibqw5S" group-title="Movies",Darbar(2020)
 https://dl.dropboxusercontent.com/s/pomimkektzsjfop/index.m3u8
@@ -136,6 +136,10 @@ https://dl.dropboxusercontent.com/s/m608x515r3q4ydk/index.S01e08.m3u8
 https://dl.dropboxusercontent.com/s/abc1u3ojb1tf7hw/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/3a6FfLD" group-title="Series",하이바이 마마!(2020).S01E02
 https://dl.dropboxusercontent.com/s/9asv6zhc03q83pu/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3a6FfLD" group-title="Series",하이바이 마마!(2020).S01E03
+https://dl.dropboxusercontent.com/s/om76t7rp6mwu3mi/index.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/3a6FfLD" group-title="Series",하이바이 마마!(2020).S01E04
+https://dl.dropboxusercontent.com/s/lxvmtim9pgpw807/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2HU8vcs" group-title="Series",날시가 조연면(2020).S01E01
 https://dl.dropboxusercontent.com/s/s4zsl53qs1jhpxx/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2HU8vcs" group-title="Series",날시가 조연면(2020).S01E02
