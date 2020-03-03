@@ -175,62 +175,6 @@ https://dl.dropboxusercontent.com/s/ck1kyg5ks4wjyid/720.m3u8
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyMzMxNzA5MV5BMl5BanBnXkFtZTgwOTkxNjMxMjE@._V1_.jpg" group-title="Series",The Last Ship.S01E10
 https://dl.dropboxusercontent.com/s/bxtygtsm32ue9x3/720.m3u8
 
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/rk2xjoor8dlzzs0/Bein1.png" group-title="Sport",Bein1
-https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=2.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/7r5qbzooby90cz3/Bein2.png" group-title="Sport",Bein2
- 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/i164225bohmpmxt/FS1.png" group-title="Sport",Fox Sport
-https://dl.dropboxusercontent.com/s/91qj4ap65q4hhh2/FS.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/500nnt4ze4hcpp3/Golf.png" group-title="Sport",Golf Channel
-https://dl.dropboxusercontent.com/s/sj3rkeatn1itq9s/Golf.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/qkukizc312tu1qh/SKY-action.jpg" group-title="Sport",SkySport Action
-https://dl.dropboxusercontent.com/s/g6mktk0jaxbnn5u/SKY-Action.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/bdkat7lgvubahzv/SKY-arena.jpg" group-title="Sport",SkySport Arena
-https://dl.dropboxusercontent.com/s/k78699fof4cy95a/SKY-Arena.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/fqpg9fzrr5iw0a3/SKY-cricket.jpg" group-title="Sport",SkySport Cricket
-https://dl.dropboxusercontent.com/s/m9wlz4wyofc6a3w/SKY-Cricket.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/2hovmpbe8fs514c/SKY-EPL.jpg" group-title="Sport",SkySport Premier
-https://dl.dropboxusercontent.com/s/xo3o7rytdv49zc7/SKY-epl.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/6h26r67r2rem394/SKY-F1.jpg" group-title="Sport",SkySport F1
-https://dl.dropboxusercontent.com/s/r302aewp6u379pm/SKY-F1.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/k48he0e442l81a3/SKY-Football.jpg" group-title="Sport",SkySport Football
-https://dl.dropboxusercontent.com/s/53g06n8cmijgqf6/SKY-Football.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/nr3lrvw0aqabb3t/SKY-Golf.jpg" group-title="Sport",SkySport Golf
-https://dl.dropboxusercontent.com/s/i7wd8q2c2brnlf1/SKY-Golf.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/hop8b194h5p9lwc/Sk.jpg" group-title="Sport",SkySport MainEvent
-https://dl.dropboxusercontent.com/s/fq27afpjxu3craf/SKY-ME.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/6kba290qa1e2fvg/SKY-Mix.jpg" group-title="Sport",SkySport Mix
-https://dl.dropboxusercontent.com/s/wbvr7u7t3yanyg6/SKY-Mix.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/34aqm3e77kkvnbw/SKY-New.jpg" group-title="Sport",SkySport NEWS
-https://dl.dropboxusercontent.com/s/vuoytpk7h04m2qa/SKY-news.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/t8fr93xzko3xvc5/TruePremier.png" group-title="Sport",True EPL
-https://dl.dropboxusercontent.com/s/dkpvgxn6684d1ee/TrueEPL.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/jd1d0876s91x6iu/TruePremier2.png" group-title="Sport",True EPL2
-https://dl.dropboxusercontent.com/s/cw3qjl8togdqvg7/TrueEPL2.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/11rfoz8bamu8ffx/TruePremier3.png" group-title="Sport",True EPL3
-https://dl.dropboxusercontent.com/s/iov7zo0dq3x5ty2/TrueEPL3.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/gwzriiu503hryun/TruePremier4.png" group-title="Sport",True EPL4
-https://dl.dropboxusercontent.com/s/r3pq90qpz4jsc16/TrueEPL4.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ai4f16tul2tlx1v/TruePremier5.png" group-title="Sport",True EPL5
-https://dl.dropboxusercontent.com/s/1g6hje6lx2nr8x4/TrueEPL5.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/exrz83pem4vqonk/TSport.png" group-title="Sport",T-Sport
-https://dl.dropboxusercontent.com/s/yldfeadnqjs5xcf/TSport.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ykc44wx8a6awk8s/TrueSport.png" group-title="Sport",True Sport HD
-https://dl.dropboxusercontent.com/s/f5iu5d3fnptsulh/TSportHD.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/frid3vlu6bv6h0j/TrueSport2.png" group-title="Sport",True Sport HD2
-https://dl.dropboxusercontent.com/s/radwkifazgs930b/TSportHD2.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/0tughhlmzb8nb5y/TrueSport3.png" group-title="Sport",True Sport HD3
-https://dl.dropboxusercontent.com/s/0ctv99lbo6z7lhf/TSportHD3.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/bgtr82vq0f5nufa/TrueSport4.png" group-title="Sport",True Sport HD4
-https://dl.dropboxusercontent.com/s/hdjdo7nocnfsdnq/TSportHD4.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/zix41twypy7hhtw/TrueSport5.png" group-title="Sport",True Sport SD5
-https://dl.dropboxusercontent.com/s/8y2fkr44q2q6wro/TSportSD5.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/l01f90wc0fmaj63/TrueSport6.png" group-title="Sport",True Sport SD6
-https://dl.dropboxusercontent.com/s/uy9k39voj99nglt/TSportSD6.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/e8nr8mshpszxsr3/TrueSport7.png" group-title="Sport",True Sport SD7
-https://dl.dropboxusercontent.com/s/wqjz90aim1wc8zg/TSportSD7.m3u8
-
 #EXTINF:0 tvg-logo="http://bit.ly/3bIJVJ0" group-title="Movies",Hansel & Gretel:Witch Hunters(2013)
 https://dl.dropboxusercontent.com/s/rare9udydnk70fy/index.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2SwkaEq" group-title="Movies",Max Payne(2008)
